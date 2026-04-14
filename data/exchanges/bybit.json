@@ -2,2283 +2,2268 @@
   "spot": [
     {
       "pair": "BTCUSDT",
-      "price": 73144.3,
-      "volume": 13636.873047
+      "price": 74299.7,
+      "volume": 17654.353122
     },
     {
       "pair": "ETHUSDT",
-      "price": 2253.28,
-      "volume": 99438.36482
+      "price": 2320.91,
+      "volume": 200029.43604
     },
     {
       "pair": "XRPUSDT",
-      "price": 1.3486,
-      "volume": 18192296.62
+      "price": 1.3569,
+      "volume": 32001798.19
     },
     {
       "pair": "DOTUSDT",
-      "price": 1.179,
-      "volume": 7084392.189
+      "price": 1.156,
+      "volume": 6577047.769
     },
     {
       "pair": "XLMUSDT",
-      "price": 0.1524,
-      "volume": 9671774.5
+      "price": 0.1544,
+      "volume": 9726430.9
     },
     {
       "pair": "LTCUSDT",
-      "price": 53.48,
-      "volume": 80501.23712
+      "price": 54.45,
+      "volume": 69844.36468
     },
     {
       "pair": "DOGEUSDT",
-      "price": 0.09283,
-      "volume": 121830726.7
+      "price": 0.09333,
+      "volume": 329375071.7
     },
     {
       "pair": "CHZUSDT",
-      "price": 0.03654,
-      "volume": 9488932.4
+      "price": 0.03668,
+      "volume": 7204746.63
     },
     {
       "pair": "AXSUSDT",
-      "price": 1.078,
-      "volume": 372222.76
+      "price": 1.094,
+      "volume": 441965.05
     },
     {
       "pair": "MANAUSDT",
-      "price": 0.08689,
-      "volume": 1042911.67
+      "price": 0.08539,
+      "volume": 1787529.16
     },
     {
       "pair": "DYDXUSDT",
-      "price": 0.09493,
-      "volume": 3907963.8
+      "price": 0.09466,
+      "volume": 6396226.1
     },
     {
       "pair": "COMPUSDT",
-      "price": 20.96,
-      "volume": 10199.427
+      "price": 21.15,
+      "volume": 19755.729
     },
     {
       "pair": "AAVEUSDT",
-      "price": 96.29,
-      "volume": 162606.6871
+      "price": 98.31,
+      "volume": 123298.8802
     },
     {
       "pair": "YFIUSDT",
-      "price": 2526.0,
-      "volume": 17.74075
+      "price": 2536.0,
+      "volume": 16.40004
     },
     {
       "pair": "LINKUSDT",
-      "price": 8.976,
-      "volume": 431228.03
+      "price": 9.01,
+      "volume": 628875.678
     },
     {
       "pair": "SUSHIUSDT",
-      "price": 0.193,
-      "volume": 161172.033
+      "price": 0.1924,
+      "volume": 352816.501
     },
     {
       "pair": "UNIUSDT",
-      "price": 3.117,
-      "volume": 432869.32
+      "price": 3.118,
+      "volume": 591442.1
     },
     {
       "pair": "KSMUSDT",
-      "price": 4.177,
-      "volume": 3175.625
+      "price": 4.139,
+      "volume": 5352.544
     },
     {
       "pair": "ICPUSDT",
-      "price": 2.459,
-      "volume": 385901.6
+      "price": 2.429,
+      "volume": 289074.81
     },
     {
       "pair": "ADAUSDT",
-      "price": 0.2404,
-      "volume": 15124441.74
+      "price": 0.2411,
+      "volume": 27233778.8
     },
     {
       "pair": "ETCUSDT",
-      "price": 8.287,
-      "volume": 30797.193
+      "price": 8.301,
+      "volume": 56424.436
     },
     {
       "pair": "XTZUSDT",
-      "price": 0.3437,
-      "volume": 692773.95
+      "price": 0.3441,
+      "volume": 979826.83
     },
     {
       "pair": "BCHUSDT",
-      "price": 428.6,
-      "volume": 1438.944
+      "price": 435.8,
+      "volume": 2225.8449
     },
     {
       "pair": "QNTUSDT",
-      "price": 74.86,
-      "volume": 2054.686
+      "price": 74.17,
+      "volume": 2953.677
     },
     {
       "pair": "USDCUSDT",
       "price": 0.9993,
-      "volume": 243837613.58
+      "volume": 301869599.9
     },
     {
       "pair": "GRTUSDT",
-      "price": 0.02409,
-      "volume": 2867336.73
+      "price": 0.02381,
+      "volume": 2294264.97
     },
     {
       "pair": "SOLUSDT",
-      "price": 84.1,
-      "volume": 589136.7908
+      "price": 84.3,
+      "volume": 999351.6247
     },
     {
       "pair": "FILUSDT",
-      "price": 0.8939,
-      "volume": 637987.37
+      "price": 0.8858,
+      "volume": 1261664.72
     },
     {
       "pair": "BATUSDT",
-      "price": 0.09527,
-      "volume": 211016.51
+      "price": 0.09518,
+      "volume": 602827.91
     },
     {
       "pair": "ZRXUSDT",
-      "price": 0.1048,
-      "volume": 410583.46
+      "price": 0.1064,
+      "volume": 603499.0
     },
     {
       "pair": "CRVUSDT",
-      "price": 0.2132,
-      "volume": 4688182.9
+      "price": 0.2127,
+      "volume": 5919217.9
     },
     {
       "pair": "AGLDUSDT",
-      "price": 0.2463,
-      "volume": 210188.63
+      "price": 0.2458,
+      "volume": 120766.09
     },
     {
       "pair": "ANKRUSDT",
-      "price": 0.00511,
-      "volume": 69918437.0
+      "price": 0.005053,
+      "volume": 35249183.6
     },
     {
       "pair": "WAVESUSDT",
-      "price": 0.4116,
-      "volume": 295401.0
+      "price": 0.4082,
+      "volume": 216879.21
     },
     {
       "pair": "LUNCUSDT",
-      "price": 4.201e-05,
-      "volume": 3294427058.0
+      "price": 4.076e-05,
+      "volume": 2867821518.4
     },
     {
       "pair": "SPELLUSDT",
-      "price": 0.0001588,
-      "volume": 70170274.0
+      "price": 0.0001581,
+      "volume": 68234610.0
     },
     {
       "pair": "SHIBUSDT",
-      "price": 5.838e-06,
-      "volume": 135772183955.7
+      "price": 5.83e-06,
+      "volume": 367411831105.0
     },
     {
       "pair": "ATOMUSDT",
-      "price": 1.734,
-      "volume": 233283.91
+      "price": 1.745,
+      "volume": 287207.47
     },
     {
       "pair": "ALGOUSDT",
-      "price": 0.10366,
-      "volume": 5172610.81
+      "price": 0.10688,
+      "volume": 10792856.41
     },
     {
       "pair": "ENJUSDT",
-      "price": 0.0443,
-      "volume": 82829889.93
+      "price": 0.05292,
+      "volume": 50608553.98
     },
     {
       "pair": "SANDUSDT",
-      "price": 0.07637,
-      "volume": 1695547.08
+      "price": 0.07587,
+      "volume": 2808316.41
     },
     {
       "pair": "AVAXUSDT",
-      "price": 9.293,
-      "volume": 394979.184
+      "price": 9.299,
+      "volume": 617041.815
     },
     {
       "pair": "WOOUSDT",
-      "price": 0.01745,
-      "volume": 1369865.91
+      "price": 0.01722,
+      "volume": 2223784.56
     },
     {
       "pair": "FTTUSDT",
-      "price": 0.289,
-      "volume": 27413.343
+      "price": 0.2892,
+      "volume": 7944.651
     },
     {
       "pair": "GODSUSDT",
-      "price": 0.03146,
-      "volume": 354757.19
+      "price": 0.03151,
+      "volume": 141210.22
     },
     {
       "pair": "IMXUSDT",
-      "price": 0.1447,
-      "volume": 4129699.28
+      "price": 0.1443,
+      "volume": 2236655.41
     },
     {
       "pair": "ENSUSDT",
-      "price": 5.72,
-      "volume": 19091.307
+      "price": 5.732,
+      "volume": 33935.077
     },
     {
       "pair": "CAKEUSDT",
-      "price": 1.583,
-      "volume": 802755.874
+      "price": 1.586,
+      "volume": 1258888.437
     },
     {
       "pair": "STETHUSDT",
-      "price": 2254.08,
-      "volume": 464.58851
+      "price": 2320.0,
+      "volume": 1543.06468
     },
     {
       "pair": "SLPUSDT",
-      "price": 0.0006044,
-      "volume": 2146098.0
+      "price": 0.0006095,
+      "volume": 4626161.0
     },
     {
       "pair": "C98USDT",
-      "price": 0.01918,
-      "volume": 5879219.23
+      "price": 0.01908,
+      "volume": 8710894.25
     },
     {
       "pair": "AVAUSDT",
-      "price": 0.2036,
-      "volume": 183995.75
+      "price": 0.2064,
+      "volume": 186005.99
     },
     {
       "pair": "ONEUSDT",
-      "price": 0.002056,
-      "volume": 852944.1
+      "price": 0.002059,
+      "volume": 9503475.9
     },
     {
       "pair": "BOBAUSDT",
-      "price": 0.02222,
-      "volume": 1483688.92
+      "price": 0.02239,
+      "volume": 1373979.94
     },
     {
       "pair": "JASMYUSDT",
-      "price": 0.005311,
-      "volume": 37778688.3
+      "price": 0.005287,
+      "volume": 46329786.4
     },
     {
       "pair": "GALAUSDT",
-      "price": 0.002936,
-      "volume": 290363165.7
+      "price": 0.00293,
+      "volume": 560574919.8
     },
     {
       "pair": "WEMIXUSDT",
-      "price": 0.2499,
-      "volume": 85039.124
+      "price": 0.2426,
+      "volume": 479970.954
     },
     {
       "pair": "XEMUSDT",
-      "price": 0.0006852,
-      "volume": 41506964.2
+      "price": 0.000695,
+      "volume": 44610714.8
     },
     {
       "pair": "BICOUSDT",
-      "price": 0.02096,
-      "volume": 2294260.08
+      "price": 0.0209,
+      "volume": 2003380.44
     },
     {
       "pair": "UMAUSDT",
-      "price": 0.4074,
-      "volume": 91599.331
+      "price": 0.4108,
+      "volume": 50455.22
     },
     {
       "pair": "NEXOUSDT",
-      "price": 0.8896,
-      "volume": 51638.99
+      "price": 0.8984,
+      "volume": 125227.91
     },
     {
       "pair": "SNXUSDT",
-      "price": 0.286,
-      "volume": 259054.21
+      "price": 0.283,
+      "volume": 412157.15
     },
     {
       "pair": "1INCHUSDT",
-      "price": 0.09258,
-      "volume": 2573237.31
+      "price": 0.09329,
+      "volume": 2371665.23
     },
     {
       "pair": "TELUSDT",
-      "price": 0.002184,
-      "volume": 17966506.7
+      "price": 0.002208,
+      "volume": 29479265.7
     },
     {
       "pair": "SISUSDT",
-      "price": 0.03491,
-      "volume": 3323303.12
+      "price": 0.03204,
+      "volume": 4277839.56
     },
     {
       "pair": "LRCUSDT",
-      "price": 0.01604,
-      "volume": 667524.54
+      "price": 0.01598,
+      "volume": 1077055.96
     },
     {
       "pair": "LDOUSDT",
-      "price": 0.3207,
-      "volume": 4170230.45
+      "price": 0.3465,
+      "volume": 17678212.65
     },
     {
       "pair": "ETHUSDC",
-      "price": 2254.91,
-      "volume": 6648.86736
+      "price": 2322.6,
+      "volume": 18023.07696
     },
     {
       "pair": "BTCUSDC",
-      "price": 73192.5,
-      "volume": 350.849367
+      "price": 74347.7,
+      "volume": 574.350026
     },
     {
       "pair": "IZIUSDT",
-      "price": 0.00392,
-      "volume": 6877881.6
+      "price": 0.004335,
+      "volume": 72197568.41
     },
     {
       "pair": "QTUMUSDT",
-      "price": 0.8922,
-      "volume": 11746.481
+      "price": 0.9297,
+      "volume": 26988.314
     },
     {
       "pair": "ZENUSDT",
-      "price": 5.922,
-      "volume": 78038.364
+      "price": 5.672,
+      "volume": 93514.169
     },
     {
       "pair": "THETAUSDT",
-      "price": 0.1758,
-      "volume": 1809974.83
+      "price": 0.1745,
+      "volume": 1127449.27
     },
     {
       "pair": "MXUSDT",
-      "price": 1.769,
-      "volume": 6636.37
+      "price": 1.774,
+      "volume": 6984.81
     },
     {
       "pair": "DGBUSDT",
-      "price": 0.004654,
-      "volume": 2203801.6
+      "price": 0.004659,
+      "volume": 2576002.36
     },
     {
       "pair": "RVNUSDT",
-      "price": 0.005675,
-      "volume": 31309267.4
+      "price": 0.005622,
+      "volume": 15753763.4
     },
     {
       "pair": "EGLDUSDT",
-      "price": 3.757,
-      "volume": 41190.645
+      "price": 3.746,
+      "volume": 35895.112
     },
     {
       "pair": "RUNEUSDT",
-      "price": 0.3982,
-      "volume": 142052.61
+      "price": 0.4014,
+      "volume": 348634.1
     },
     {
       "pair": "XLMUSDC",
-      "price": 0.152,
-      "volume": 976440.2
+      "price": 0.1544,
+      "volume": 687582.6
     },
     {
       "pair": "SOLUSDC",
-      "price": 84.16,
-      "volume": 32202.737
+      "price": 84.33,
+      "volume": 38995.7839
     },
     {
       "pair": "XRPUSDC",
-      "price": 1.3496,
-      "volume": 2539520.64
+      "price": 1.3581,
+      "volume": 5016292.14
     },
     {
       "pair": "ICXUSDT",
-      "price": 0.03563,
-      "volume": 1372467.02
+      "price": 0.03607,
+      "volume": 1630662.07
     },
     {
       "pair": "XDCUSDT",
-      "price": 0.03063,
-      "volume": 69180676.9
+      "price": 0.03078,
+      "volume": 50233078.7
     },
     {
       "pair": "HNTUSDT",
-      "price": 1.016,
-      "volume": 180461.16
+      "price": 1.019,
+      "volume": 162689.767
     },
     {
       "pair": "ZILUSDT",
-      "price": 0.003868,
-      "volume": 5725159.4
+      "price": 0.003875,
+      "volume": 4080630.9
     },
     {
       "pair": "HBARUSDT",
-      "price": 0.08535,
-      "volume": 22662911.6
+      "price": 0.085,
+      "volume": 30231857.7
     },
     {
       "pair": "FLOWUSDT",
-      "price": 0.03375,
-      "volume": 4756189.33
+      "price": 0.0346,
+      "volume": 14477637.11
     },
     {
       "pair": "STXUSDT",
-      "price": 0.2169,
-      "volume": 964592.5
+      "price": 0.2183,
+      "volume": 1862970.4
     },
     {
       "pair": "DAIUSDT",
-      "price": 0.9996,
-      "volume": 1134902.49
+      "price": 0.9993,
+      "volume": 1274374.16
     },
     {
       "pair": "LTCUSDC",
-      "price": 53.51,
-      "volume": 2636.46508
+      "price": 54.48,
+      "volume": 1836.30647
     },
     {
       "pair": "MANAUSDC",
       "price": 0.0864,
-      "volume": 938.37
+      "volume": 11754.97
     },
     {
       "pair": "SANDUSDC",
-      "price": 0.07529,
-      "volume": 219.33
+      "price": 0.07698,
+      "volume": 1797.85
     },
     {
       "pair": "DOTUSDC",
-      "price": 1.178,
-      "volume": 132976.13
+      "price": 1.156,
+      "volume": 153551.312
     },
     {
       "pair": "LUNCUSDC",
-      "price": 4.171e-05,
-      "volume": 394069.0
+      "price": 4.147e-05,
+      "volume": 8561873.0
     },
     {
       "pair": "GMXUSDT",
-      "price": 5.996,
-      "volume": 12226.67
+      "price": 5.991,
+      "volume": 13180.67
     },
     {
       "pair": "ACHUSDT",
-      "price": 0.006055,
-      "volume": 61716075.5
+      "price": 0.005944,
+      "volume": 10931325.0
     },
     {
       "pair": "JSTUSDT",
-      "price": 0.07582,
-      "volume": 10265647.45
+      "price": 0.07767,
+      "volume": 5082088.0
     },
     {
       "pair": "SUNUSDT",
-      "price": 0.01806,
-      "volume": 2040847.89
+      "price": 0.01804,
+      "volume": 1933527.34
     },
     {
       "pair": "BTTUSDT",
-      "price": 3.258e-07,
-      "volume": 198227003676.0
+      "price": 3.239e-07,
+      "volume": 171327424151.0
     },
     {
       "pair": "TRXUSDT",
-      "price": 0.3207,
-      "volume": 8058115.4
+      "price": 0.3234,
+      "volume": 9697553.89
     },
     {
       "pair": "NFTUSDT",
-      "price": 3.337e-07,
-      "volume": 6311197499.0
+      "price": 3.324e-07,
+      "volume": 4265084493.0
     },
     {
       "pair": "SCRTUSDT",
-      "price": 0.09231,
-      "volume": 838586.58
+      "price": 0.0875,
+      "volume": 1011363.83
     },
     {
       "pair": "USTCUSDT",
-      "price": 0.004759,
-      "volume": 13996683.6
+      "price": 0.004794,
+      "volume": 7946227.78
     },
     {
       "pair": "BNBUSDT",
-      "price": 607.7,
-      "volume": 6226.21632
+      "price": 614.6,
+      "volume": 10856.35803
     },
     {
       "pair": "NEARUSDT",
-      "price": 1.391,
-      "volume": 3255262.31
+      "price": 1.368,
+      "volume": 3143608.64
     },
     {
       "pair": "SDUSDT",
-      "price": 0.1298,
-      "volume": 21203.7
+      "price": 0.1294,
+      "volume": 83111.14
     },
     {
       "pair": "APEUSDT",
-      "price": 0.08705,
-      "volume": 3255708.2
+      "price": 0.0871,
+      "volume": 4794188.83
     },
     {
       "pair": "FIDAUSDT",
-      "price": 0.0166,
-      "volume": 25898928.9
+      "price": 0.0164,
+      "volume": 9184693.75
     },
     {
       "pair": "MINAUSDT",
-      "price": 0.05663,
-      "volume": 3002498.45
+      "price": 0.0568,
+      "volume": 3090629.66
     },
     {
       "pair": "SCUSDT",
-      "price": 0.000951,
-      "volume": 8355204.2
+      "price": 0.000942,
+      "volume": 7731511.5
     },
     {
       "pair": "GLMRUSDT",
-      "price": 0.0108,
-      "volume": 2621261.78
+      "price": 0.01103,
+      "volume": 768877.98
     },
     {
       "pair": "MOVRUSDT",
-      "price": 1.168,
-      "volume": 28696.26
+      "price": 1.184,
+      "volume": 32708.17
     },
     {
       "pair": "WBTCUSDT",
-      "price": 73007.0,
-      "volume": 1.271362
+      "price": 73931.9,
+      "volume": 2.311856
     },
     {
       "pair": "XAVAUSDT",
-      "price": 0.2911,
-      "volume": 141746.53
+      "price": 0.2805,
+      "volume": 169078.11
     },
     {
       "pair": "GMTUSDT",
-      "price": 0.01046,
-      "volume": 7328486.54
+      "price": 0.01042,
+      "volume": 9372765.15
     },
     {
       "pair": "CELOUSDT",
-      "price": 0.07997,
-      "volume": 845420.69
+      "price": 0.07964,
+      "volume": 657654.86
     },
     {
       "pair": "APEXUSDT",
-      "price": 0.276,
-      "volume": 4135897.13
+      "price": 0.2769,
+      "volume": 3663488.7
     },
     {
       "pair": "CTCUSDT",
-      "price": 0.147,
-      "volume": 272314.52
-    },
-    {
-      "pair": "FITFIUSDT",
-      "price": 0.0005958,
-      "volume": 36056406.7
+      "price": 0.1457,
+      "volume": 326527.87
     },
     {
       "pair": "USDDUSDT",
-      "price": 0.9998,
-      "volume": 1504080.47
+      "price": 0.9997,
+      "volume": 4056.5
     },
     {
       "pair": "OPUSDT",
-      "price": 0.1107,
-      "volume": 19652668.36
+      "price": 0.1113,
+      "volume": 21113957.61
     },
     {
       "pair": "LUNAUSDT",
-      "price": 0.0547,
-      "volume": 1948907.0
+      "price": 0.05424,
+      "volume": 1396618.3
     },
     {
       "pair": "VINUUSDT",
-      "price": 3.862e-09,
-      "volume": 1740653842125.9
+      "price": 3.912e-09,
+      "volume": 18247860326645.79
     },
     {
       "pair": "BELUSDT",
-      "price": 0.0994,
-      "volume": 437297.7
+      "price": 0.10682,
+      "volume": 2448790.23
     },
     {
       "pair": "FORTUSDT",
-      "price": 0.01381,
-      "volume": 987834.6
+      "price": 0.01387,
+      "volume": 1252168.09
     },
     {
       "pair": "DOGEUSDC",
-      "price": 0.0929,
-      "volume": 5702201.5
+      "price": 0.09337,
+      "volume": 9985552.6
     },
     {
       "pair": "FLOKIUSDT",
-      "price": 2.833e-05,
-      "volume": 4409613247.0
+      "price": 2.81e-05,
+      "volume": 11169805006.0
     },
     {
       "pair": "BABYDOGEUSDT",
-      "price": 3.978e-10,
-      "volume": 157576559519783.7
+      "price": 3.964e-10,
+      "volume": 180945861801189.4
     },
     {
       "pair": "WAXPUSDT",
-      "price": 0.006485,
-      "volume": 2814733.1
+      "price": 0.006478,
+      "volume": 8988842.4
     },
     {
       "pair": "ARUSDT",
-      "price": 1.728,
-      "volume": 125913.5
+      "price": 1.736,
+      "volume": 170163.51
     },
     {
       "pair": "ROSEUSDT",
-      "price": 0.01069,
-      "volume": 12070910.37
+      "price": 0.01048,
+      "volume": 11100029.28
     },
     {
       "pair": "PSGUSDT",
-      "price": 0.9218,
-      "volume": 30790.11
+      "price": 0.9302,
+      "volume": 32236.66
     },
     {
       "pair": "JUVUSDT",
-      "price": 0.5112,
-      "volume": 56559.03
+      "price": 0.5162,
+      "volume": 22862.82
     },
     {
       "pair": "INTERUSDT",
-      "price": 0.5419,
-      "volume": 132479.22
+      "price": 0.5431,
+      "volume": 59921.07
     },
     {
       "pair": "AFCUSDT",
-      "price": 0.478,
-      "volume": 121148.27
+      "price": 0.4734,
+      "volume": 87438.76
     },
     {
       "pair": "CITYUSDT",
-      "price": 0.6403,
-      "volume": 262347.24
+      "price": 0.6553,
+      "volume": 50325.84
     },
     {
       "pair": "AVAXUSDC",
-      "price": 9.333,
-      "volume": 21860.824
+      "price": 9.294,
+      "volume": 28634.898
     },
     {
       "pair": "ADAUSDC",
-      "price": 0.2408,
-      "volume": 2050712.18
+      "price": 0.2413,
+      "volume": 1760434.12
     },
     {
       "pair": "OPUSDC",
-      "price": 0.1109,
-      "volume": 2867858.19
+      "price": 0.1111,
+      "volume": 2435817.72
     },
     {
       "pair": "APEXUSDC",
-      "price": 0.2766,
-      "volume": 73015.03
+      "price": 0.2791,
+      "volume": 55907.61
     },
     {
       "pair": "TRXUSDC",
-      "price": 0.3209,
-      "volume": 125100.44
+      "price": 0.3237,
+      "volume": 132305.13
     },
     {
       "pair": "ICPUSDC",
-      "price": 2.457,
-      "volume": 1186.48
+      "price": 2.442,
+      "volume": 1393.39
     },
     {
       "pair": "LINKUSDC",
-      "price": 8.98,
-      "volume": 4705.756
+      "price": 8.99,
+      "volume": 11262.411
     },
     {
       "pair": "GMTUSDC",
-      "price": 0.01033,
-      "volume": 20806.32
+      "price": 0.01043,
+      "volume": 88404.72
     },
     {
       "pair": "CHZUSDC",
-      "price": 0.03705,
-      "volume": 21718.34
+      "price": 0.03684,
+      "volume": 59332.75
     },
     {
       "pair": "SHIBUSDC",
-      "price": 5.837e-06,
-      "volume": 4351058905.5
+      "price": 5.831e-06,
+      "volume": 12423954466.5
     },
     {
       "pair": "LDOUSDC",
-      "price": 0.3202,
-      "volume": 72452.35
+      "price": 0.3466,
+      "volume": 168161.87
     },
     {
       "pair": "APEUSDC",
-      "price": 0.0867,
-      "volume": 27343.23
+      "price": 0.08862,
+      "volume": 53735.74
     },
     {
       "pair": "FILUSDC",
-      "price": 0.8943,
-      "volume": 16866.41
+      "price": 0.886,
+      "volume": 22303.5
     },
     {
       "pair": "SWEATUSDT",
-      "price": 0.0002973,
-      "volume": 120824733.8
+      "price": 0.000295,
+      "volume": 92425612.1
     },
     {
       "pair": "ETHWUSDT",
-      "price": 0.2503,
-      "volume": 52975.28
+      "price": 0.2524,
+      "volume": 27185.82
     },
     {
       "pair": "INJUSDT",
-      "price": 2.961,
-      "volume": 60858.61
+      "price": 2.969,
+      "volume": 108552.59
     },
     {
       "pair": "MPLXUSDT",
-      "price": 0.02942,
-      "volume": 53111.31
+      "price": 0.02924,
+      "volume": 92236.34
     },
     {
       "pair": "APTUSDT",
-      "price": 0.852,
-      "volume": 1892827.44
+      "price": 0.856,
+      "volume": 2136276.11
     },
     {
       "pair": "APTUSDC",
-      "price": 0.852,
-      "volume": 20186.14
+      "price": 0.853,
+      "volume": 32157.21
     },
     {
       "pair": "MCRTUSDT",
-      "price": 0.0001167,
-      "volume": 8370093.7
+      "price": 0.0001147,
+      "volume": 35077113.6
     },
     {
       "pair": "MASKUSDT",
-      "price": 0.427,
-      "volume": 222456.5
+      "price": 0.4303,
+      "volume": 375423.46
     },
     {
       "pair": "HFTUSDC",
-      "price": 0.01328,
-      "volume": 1757275.59
+      "price": 0.01316,
+      "volume": 1641083.38
     },
     {
       "pair": "HFTUSDT",
-      "price": 0.01334,
-      "volume": 12867124.72
+      "price": 0.01317,
+      "volume": 10675418.03
     },
     {
       "pair": "PEOPLEUSDT",
-      "price": 0.006831,
-      "volume": 7504910.31
+      "price": 0.007109,
+      "volume": 26505994.9
     },
     {
       "pair": "TWTUSDT",
-      "price": 0.4085,
-      "volume": 838221.68
+      "price": 0.3995,
+      "volume": 1253345.7
     },
     {
       "pair": "HOOKUSDT",
-      "price": 0.00833,
-      "volume": 1833569.49
+      "price": 0.00815,
+      "volume": 2253612.46
     },
     {
       "pair": "OASUSDT",
-      "price": 0.0003534,
-      "volume": 91604709.8
+      "price": 0.0003689,
+      "volume": 98013490.0
     },
     {
       "pair": "MAGICUSDT",
-      "price": 0.06043,
-      "volume": 416581.75
+      "price": 0.06016,
+      "volume": 503867.74
     },
     {
       "pair": "MEEUSDT",
-      "price": 0.0003413,
-      "volume": 95180447.8
+      "price": 0.0003451,
+      "volume": 97945408.5
     },
     {
       "pair": "TONUSDT",
-      "price": 1.424,
-      "volume": 3322282.77
+      "price": 1.391,
+      "volume": 3389194.3
     },
     {
       "pair": "BONKUSDT",
-      "price": 5.773e-06,
-      "volume": 186404599276.0
+      "price": 5.814e-06,
+      "volume": 543501208733.0
     },
     {
       "pair": "FLRUSDT",
-      "price": 0.007894,
-      "volume": 66920314.3
+      "price": 0.008026,
+      "volume": 70075033.8
     },
     {
       "pair": "TIMEUSDT",
-      "price": 2.126,
-      "volume": 12427.8
+      "price": 2.181,
+      "volume": 16853.35
     },
     {
       "pair": "RPLUSDT",
-      "price": 1.748,
-      "volume": 6686.82
+      "price": 1.782,
+      "volume": 22831.41
     },
     {
       "pair": "SSVUSDT",
-      "price": 2.159,
-      "volume": 14582.22
+      "price": 2.172,
+      "volume": 22648.72
     },
     {
       "pair": "COREUSDT",
-      "price": 0.02603,
-      "volume": 5179649.11
+      "price": 0.02515,
+      "volume": 5984777.63
     },
     {
       "pair": "RDNTUSDT",
-      "price": 0.002099,
-      "volume": 3936629.5
+      "price": 0.00205,
+      "volume": 37063112.2
     },
     {
       "pair": "BLURUSDT",
-      "price": 0.02117,
-      "volume": 14210263.98
+      "price": 0.02061,
+      "volume": 12763067.62
     },
     {
       "pair": "ACSUSDT",
-      "price": 0.0001762,
-      "volume": 43189064.7
+      "price": 0.0001764,
+      "volume": 29431735.1
     },
     {
       "pair": "PRIMEUSDT",
-      "price": 0.3115,
-      "volume": 82796.18
+      "price": 0.3068,
+      "volume": 76642.45
     },
     {
       "pair": "IDUSDT",
-      "price": 0.03248,
-      "volume": 5776426.43
+      "price": 0.03092,
+      "volume": 2704356.94
     },
     {
       "pair": "ARBUSDC",
-      "price": 0.11134,
-      "volume": 5478336.41
+      "price": 0.11018,
+      "volume": 6494062.24
     },
     {
       "pair": "ARBUSDT",
-      "price": 0.11118,
-      "volume": 19170525.73
+      "price": 0.11006,
+      "volume": 16277333.4
     },
     {
       "pair": "MBXUSDT",
-      "price": 0.03883,
-      "volume": 1257886.81
+      "price": 0.03928,
+      "volume": 975081.02
     },
     {
       "pair": "AXLUSDT",
-      "price": 0.04621,
-      "volume": 11030231.77
+      "price": 0.04487,
+      "volume": 3778400.57
     },
     {
       "pair": "CGPTUSDT",
-      "price": 0.01933,
-      "volume": 958561.91
+      "price": 0.02018,
+      "volume": 2673041.36
     },
     {
       "pair": "AGIUSDT",
-      "price": 0.01114,
-      "volume": 4096118.2
+      "price": 0.01098,
+      "volume": 7403142.2
     },
     {
       "pair": "SUIUSDT",
-      "price": 0.9292,
-      "volume": 2877860.14
+      "price": 0.93,
+      "volume": 5771690.43
     },
     {
       "pair": "SUIUSDC",
-      "price": 0.9293,
-      "volume": 445589.56
+      "price": 0.9303,
+      "volume": 774391.03
     },
     {
       "pair": "MVLUSDT",
-      "price": 0.001299,
-      "volume": 1857678.4
+      "price": 0.001309,
+      "volume": 1239175.17
     },
     {
       "pair": "PEPEUSDT",
-      "price": 3.612e-06,
-      "volume": 2503501282476.0
+      "price": 3.589e-06,
+      "volume": 3793716895147.0
     },
     {
       "pair": "LMWRUSDT",
-      "price": 0.0201,
-      "volume": 2713734.67
+      "price": 0.02032,
+      "volume": 3109689.54
     },
     {
       "pair": "VELOUSDT",
-      "price": 0.003364,
-      "volume": 20086255.8
+      "price": 0.00323,
+      "volume": 81882447.95
     },
     {
       "pair": "PENDLEUSDT",
-      "price": 1.07,
-      "volume": 187467.35
+      "price": 1.038,
+      "volume": 154772.51
     },
     {
       "pair": "NYMUSDT",
-      "price": 0.03438,
-      "volume": 300638.06
+      "price": 0.03392,
+      "volume": 349484.78
     },
     {
       "pair": "MNTUSDT",
-      "price": 0.673,
-      "volume": 12580622.54
+      "price": 0.6571,
+      "volume": 23616441.56
     },
     {
       "pair": "MNTUSDC",
-      "price": 0.6732,
-      "volume": 411400.74
+      "price": 0.6575,
+      "volume": 584221.75
     },
     {
       "pair": "ARKMUSDT",
-      "price": 0.0983,
-      "volume": 6676063.0
+      "price": 0.0989,
+      "volume": 9269664.53
     },
     {
       "pair": "NEONUSDT",
-      "price": 0.02833,
-      "volume": 156624.91
+      "price": 0.02858,
+      "volume": 963993.61
     },
     {
       "pair": "WLDUSDC",
-      "price": 0.2998,
-      "volume": 1076843.84
+      "price": 0.2983,
+      "volume": 734660.58
     },
     {
       "pair": "WLDUSDT",
-      "price": 0.2995,
-      "volume": 12637555.63
+      "price": 0.2982,
+      "volume": 11461219.38
     },
     {
       "pair": "SEIUSDT",
-      "price": 0.05499,
-      "volume": 27542305.39
+      "price": 0.0545,
+      "volume": 22199086.39
     },
     {
       "pair": "CYBERUSDT",
-      "price": 0.5036,
-      "volume": 162051.75
+      "price": 0.4981,
+      "volume": 89119.27
     },
     {
       "pair": "ORDIUSDT",
-      "price": 2.475,
-      "volume": 46693.4
+      "price": 2.411,
+      "volume": 86086.56
     },
     {
       "pair": "KAVAUSDT",
-      "price": 0.05295,
-      "volume": 7374133.5
+      "price": 0.05219,
+      "volume": 2930549.63
     },
     {
       "pair": "PYUSDUSDT",
-      "price": 0.9995,
-      "volume": 307189.56
+      "price": 0.9994,
+      "volume": 395947.91
     },
     {
       "pair": "KASUSDT",
-      "price": 0.03211,
-      "volume": 33731102.99
+      "price": 0.03251,
+      "volume": 53960967.01
     },
     {
       "pair": "FETUSDT",
-      "price": 0.2332,
-      "volume": 4984102.05
+      "price": 0.2288,
+      "volume": 5318681.52
     },
     {
       "pair": "TUSDUSDT",
-      "price": 0.9994,
-      "volume": 11650.63
+      "price": 0.9992,
+      "volume": 3232.6
     },
     {
       "pair": "BEAMUSDT",
-      "price": 0.001882,
-      "volume": 41088448.17
+      "price": 0.001852,
+      "volume": 62680586.24
     },
     {
       "pair": "POLUSDT",
-      "price": 0.08371,
-      "volume": 19545727.2
+      "price": 0.08332,
+      "volume": 16715737.0
     },
     {
       "pair": "TIAUSDT",
-      "price": 0.2995,
-      "volume": 1190745.93
+      "price": 0.3047,
+      "volume": 1374772.17
     },
     {
       "pair": "TOKENUSDT",
-      "price": 0.002401,
-      "volume": 9499503.0
+      "price": 0.00247,
+      "volume": 20283834.78
     },
     {
       "pair": "MEMEUSDT",
-      "price": 0.0005162,
-      "volume": 127485145.55
+      "price": 0.0005113,
+      "volume": 165294880.01
     },
     {
       "pair": "FLIPUSDT",
-      "price": 0.1994,
-      "volume": 72438.82
+      "price": 0.1999,
+      "volume": 155040.02
     },
     {
       "pair": "PYTHUSDT",
-      "price": 0.04306,
-      "volume": 6832097.0
+      "price": 0.0427,
+      "volume": 17231021.3
     },
     {
       "pair": "KUBUSDT",
-      "price": 0.8458,
-      "volume": 25176.45
+      "price": 0.8498,
+      "volume": 21547.64
     },
     {
       "pair": "KCSUSDT",
-      "price": 8.508,
-      "volume": 1686.12
+      "price": 8.343,
+      "volume": 12668.66
     },
     {
       "pair": "VANRYUSDT",
-      "price": 0.004955,
-      "volume": 18668435.2
+      "price": 0.004885,
+      "volume": 19383026.7
     },
     {
       "pair": "INSPUSDT",
-      "price": 0.001021,
-      "volume": 27587175.52
+      "price": 0.001019,
+      "volume": 48416666.61
     },
     {
       "pair": "JTOUSDT",
-      "price": 0.3188,
-      "volume": 5061278.0
+      "price": 0.3085,
+      "volume": 2719996.5
     },
     {
       "pair": "METHUSDT",
-      "price": 2451.56,
-      "volume": 4.29929
+      "price": 2523.61,
+      "volume": 8.18827
     },
     {
       "pair": "CBKUSDT",
-      "price": 0.2453,
-      "volume": 58388.45
+      "price": 0.2472,
+      "volume": 64634.07
     },
     {
       "pair": "ZIGUSDT",
       "price": 0.02921,
-      "volume": 1491848.99
+      "volume": 4813771.52
     },
     {
       "pair": "SEIUSDC",
-      "price": 0.05493,
-      "volume": 215935.66
+      "price": 0.0544,
+      "volume": 120701.96
     },
     {
       "pair": "MBOXUSDT",
-      "price": 0.01143,
-      "volume": 2580178.23
+      "price": 0.01049,
+      "volume": 34299323.6
     },
     {
       "pair": "ARTYUSDT",
-      "price": 0.06596,
-      "volume": 974023.9
+      "price": 0.06584,
+      "volume": 281393.9
     },
     {
       "pair": "AIOZUSDT",
-      "price": 0.0566,
-      "volume": 395245.58
+      "price": 0.05541,
+      "volume": 524358.63
     },
     {
       "pair": "VICUSDT",
-      "price": 0.04674,
-      "volume": 540886.3
+      "price": 0.0476,
+      "volume": 691172.74
     },
     {
       "pair": "RATSUSDT",
-      "price": 3.653e-05,
-      "volume": 8642388191.06
+      "price": 3.593e-05,
+      "volume": 5625212348.19
     },
     {
       "pair": "SATSUSDT",
-      "price": 1.148e-08,
-      "volume": 971291651936.6
+      "price": 1.114e-08,
+      "volume": 759761931399.9
     },
     {
       "pair": "XAIUSDT",
-      "price": 0.00926,
-      "volume": 6974241.81
+      "price": 0.00944,
+      "volume": 7637811.18
     },
     {
       "pair": "ONDOUSDT",
-      "price": 0.2498,
-      "volume": 7682813.33
+      "price": 0.2504,
+      "volume": 9571262.41
     },
     {
       "pair": "SAROSUSDT",
-      "price": 0.000379,
-      "volume": 157069763.6
+      "price": 0.0003884,
+      "volume": 185813185.5
     },
     {
       "pair": "USDYUSDT",
-      "price": 1.1295,
-      "volume": 1092.34
+      "price": 1.1292,
+      "volume": 234.01
     },
     {
       "pair": "MANTAUSDT",
-      "price": 0.06378,
-      "volume": 2840161.88
+      "price": 0.06418,
+      "volume": 1196573.18
     },
     {
       "pair": "GTAIUSDT",
-      "price": 0.02288,
-      "volume": 900016.12
+      "price": 0.02357,
+      "volume": 964687.76
     },
     {
       "pair": "DYMUSDT",
-      "price": 0.01674,
-      "volume": 12796902.99
+      "price": 0.0169,
+      "volume": 18554983.68
     },
     {
       "pair": "ZETAUSDT",
-      "price": 0.05029,
-      "volume": 4369125.98
+      "price": 0.04978,
+      "volume": 3334567.79
     },
     {
       "pair": "JUPUSDT",
-      "price": 0.1651,
-      "volume": 2080084.4
+      "price": 0.1645,
+      "volume": 4658180.2
     },
     {
       "pair": "MAVIAUSDT",
-      "price": 0.03004,
-      "volume": 18783592.13
+      "price": 0.03142,
+      "volume": 34819297.87
     },
     {
       "pair": "ALTUSDT",
-      "price": 0.00684,
-      "volume": 96070276.37
+      "price": 0.00672,
+      "volume": 56895349.37
     },
     {
       "pair": "HTXUSDT",
-      "price": 1.771e-06,
-      "volume": 679536186.96
+      "price": 1.777e-06,
+      "volume": 2962357308.03
     },
     {
       "pair": "CSPRUSDT",
-      "price": 0.002926,
-      "volume": 44114404.64
+      "price": 0.002924,
+      "volume": 25192381.92
     },
     {
       "pair": "STRKUSDC",
-      "price": 0.03285,
-      "volume": 1661237.05
+      "price": 0.03245,
+      "volume": 2527199.09
     },
     {
       "pair": "STRKUSDT",
-      "price": 0.03286,
-      "volume": 52500383.07
+      "price": 0.0324,
+      "volume": 62125340.99
     },
     {
       "pair": "CPOOLUSDT",
-      "price": 0.02376,
-      "volume": 2707684.08
+      "price": 0.02475,
+      "volume": 6021312.7
     },
     {
       "pair": "QORPOUSDT",
-      "price": 0.001031,
-      "volume": 32204437.1
+      "price": 0.001483,
+      "volume": 57517355.4
     },
     {
       "pair": "PORTALUSDT",
-      "price": 0.00798,
-      "volume": 2174225.08
+      "price": 0.00842,
+      "volume": 3853373.21
     },
     {
       "pair": "SCAUSDT",
-      "price": 0.01741,
-      "volume": 158638.37
+      "price": 0.01735,
+      "volume": 720865.31
     },
     {
       "pair": "AEVOUSDT",
-      "price": 0.02245,
-      "volume": 1102888.3
-    },
-    {
-      "pair": "NIBIUSDT",
-      "price": 0.001981,
-      "volume": 1045005.7
+      "price": 0.02258,
+      "volume": 817986.08
     },
     {
       "pair": "BOMEUSDT",
-      "price": 0.0004132,
-      "volume": 459637428.42
-    },
-    {
-      "pair": "VENOMUSDT",
-      "price": 0.01882,
-      "volume": 183582.54
+      "price": 0.0004088,
+      "volume": 984067771.24
     },
     {
       "pair": "ZKJUSDT",
-      "price": 0.01926,
-      "volume": 2339037.72
+      "price": 0.01935,
+      "volume": 1687251.95
     },
     {
       "pair": "ETHFIUSDT",
-      "price": 0.4147,
-      "volume": 1053006.58
+      "price": 0.4236,
+      "volume": 1943837.01
     },
     {
       "pair": "NAKAUSDT",
-      "price": 0.05838,
-      "volume": 436412.79
+      "price": 0.05714,
+      "volume": 502031.09
     },
     {
       "pair": "DEGENUSDT",
-      "price": 0.0007229,
-      "volume": 40598412.19
+      "price": 0.0007207,
+      "volume": 39462118.42
     },
     {
       "pair": "ENAUSDT",
-      "price": 0.09593,
-      "volume": 68158038.2
+      "price": 0.09552,
+      "volume": 64110747.2
     },
     {
       "pair": "USDEUSDT",
       "price": 0.9997,
-      "volume": 16038069.07
+      "volume": 12027974.82
     },
     {
       "pair": "WUSDT",
-      "price": 0.01199,
-      "volume": 93099630.6
+      "price": 0.01178,
+      "volume": 99470252.6
     },
     {
       "pair": "ESEUSDT",
-      "price": 0.006079,
-      "volume": 5317084.52
+      "price": 0.006013,
+      "volume": 18421146.54
     },
     {
       "pair": "TNSRUSDT",
-      "price": 0.03971,
-      "volume": 8601414.53
+      "price": 0.03857,
+      "volume": 7439073.68
     },
     {
       "pair": "PRCLUSDT",
-      "price": 0.01402,
-      "volume": 1629700.87
+      "price": 0.01387,
+      "volume": 6914732.34
     },
     {
       "pair": "BRETTUSDT",
-      "price": 0.007139,
-      "volume": 127099087.0
+      "price": 0.007,
+      "volume": 139707987.0
     },
     {
       "pair": "MEWUSDT",
-      "price": 0.0005765,
-      "volume": 367734852.37
+      "price": 0.0005649,
+      "volume": 474407314.8
     },
     {
       "pair": "MERLUSDT",
-      "price": 0.02556,
-      "volume": 17641094.96
+      "price": 0.02767,
+      "volume": 66934200.14
     },
     {
       "pair": "SAFEUSDT",
-      "price": 0.1479,
-      "volume": 6803607.18
+      "price": 0.1468,
+      "volume": 3828389.65
     },
     {
       "pair": "WIFUSDT",
-      "price": 0.189,
-      "volume": 7808346.82
+      "price": 0.1915,
+      "volume": 7662917.86
     },
     {
       "pair": "SVLUSDT",
-      "price": 0.01352,
-      "volume": 5260061.25
+      "price": 0.01364,
+      "volume": 4969577.2
     },
     {
       "pair": "KMNOUSDT",
-      "price": 0.02062,
-      "volume": 16142841.11
+      "price": 0.02031,
+      "volume": 12931996.17
     },
     {
       "pair": "ZENTUSDT",
-      "price": 0.00329,
-      "volume": 7855851.5
+      "price": 0.003487,
+      "volume": 18695420.11
     },
     {
       "pair": "TAIUSDT",
-      "price": 0.01664,
-      "volume": 12071362.08
+      "price": 0.01679,
+      "volume": 20414889.2
     },
     {
       "pair": "PONKEUSDT",
-      "price": 0.02748,
-      "volume": 1985620.76
+      "price": 0.02715,
+      "volume": 5454356.69
     },
     {
       "pair": "BBUSDT",
-      "price": 0.02611,
-      "volume": 14349221.47
+      "price": 0.02447,
+      "volume": 4957217.17
     },
     {
       "pair": "CTAUSDT",
-      "price": 0.0129,
-      "volume": 6185448.49
+      "price": 0.01253,
+      "volume": 2531686.16
     },
     {
       "pair": "NOTUSDT",
-      "price": 0.0003644,
-      "volume": 704184107.0
+      "price": 0.00036,
+      "volume": 656372977.0
     },
     {
       "pair": "DRIFTUSDT",
-      "price": 0.03962,
-      "volume": 144412231.38
+      "price": 0.04452,
+      "volume": 84852638.57
     },
     {
       "pair": "SQDUSDT",
-      "price": 0.03209,
-      "volume": 5389421.17
+      "price": 0.03089,
+      "volume": 8381973.57
     },
     {
       "pair": "USDEUSDC",
-      "price": 1.0005,
-      "volume": 1212105.46
+      "price": 1.0003,
+      "volume": 1565499.32
     },
     {
       "pair": "MONPROUSDT",
-      "price": 0.002684,
-      "volume": 1491714.3
+      "price": 0.002668,
+      "volume": 534806.1
     },
     {
       "pair": "MOGUSDT",
-      "price": 1.323e-07,
-      "volume": 348498197952.3
+      "price": 1.322e-07,
+      "volume": 1145252246989.9
     },
     {
       "pair": "TAIKOUSDT",
-      "price": 0.1164,
-      "volume": 954912.11
+      "price": 0.1166,
+      "volume": 836362.82
     },
     {
       "pair": "AURORAUSDT",
-      "price": 0.02701,
-      "volume": 291529.35
+      "price": 0.02698,
+      "volume": 407166.34
     },
     {
       "pair": "IOUSDT",
       "price": 0.0998,
-      "volume": 1773576.73
+      "volume": 2372915.02
     },
     {
       "pair": "ATHUSDT",
-      "price": 0.006511,
-      "volume": 970540806.07
+      "price": 0.006097,
+      "volume": 362803646.5
     },
     {
       "pair": "COOKIEUSDT",
-      "price": 0.01551,
-      "volume": 2244979.69
+      "price": 0.01572,
+      "volume": 3612862.43
     },
     {
       "pair": "PIRATEUSDT",
-      "price": 0.003923,
-      "volume": 28933757.48
+      "price": 0.003881,
+      "volume": 12009588.8
     },
     {
       "pair": "ZKUSDC",
-      "price": 0.01544,
-      "volume": 606438.51
+      "price": 0.01512,
+      "volume": 768551.15
     },
     {
       "pair": "ZKUSDT",
-      "price": 0.01547,
-      "volume": 24897661.94
+      "price": 0.01518,
+      "volume": 41321559.73
     },
     {
       "pair": "POPCATUSDT",
-      "price": 0.05092,
-      "volume": 9952795.97
+      "price": 0.05024,
+      "volume": 14953347.93
     },
     {
       "pair": "ZROUSDC",
-      "price": 1.979,
-      "volume": 26212.61
+      "price": 1.909,
+      "volume": 38545.14
     },
     {
       "pair": "ZROUSDT",
-      "price": 1.974,
-      "volume": 1014677.38
+      "price": 1.909,
+      "volume": 1285874.95
     },
     {
       "pair": "ZEXUSDT",
-      "price": 0.03121,
-      "volume": 776293.68
+      "price": 0.03176,
+      "volume": 471025.98
     },
     {
       "pair": "BLASTUSDT",
-      "price": 0.000482,
-      "volume": 1640065464.0
+      "price": 0.0005032,
+      "volume": 1815269785.42
     },
     {
       "pair": "MOCAUSDT",
-      "price": 0.01283,
-      "volume": 11177493.84
+      "price": 0.01275,
+      "volume": 7190606.83
     },
     {
       "pair": "UXLINKUSDT",
-      "price": 0.00315,
-      "volume": 76526025.7
+      "price": 0.002162,
+      "volume": 163072090.6
     },
     {
       "pair": "A8USDT",
-      "price": 0.011203,
-      "volume": 19799024.2
+      "price": 0.010548,
+      "volume": 14652401.2
     },
     {
       "pair": "CLOUDUSDT",
-      "price": 0.02133,
-      "volume": 2330863.42
+      "price": 0.02208,
+      "volume": 8633004.49
     },
     {
       "pair": "AVAILUSDT",
-      "price": 0.004148,
-      "volume": 43853843.1
+      "price": 0.00433,
+      "volume": 23413859.5
     },
     {
       "pair": "L3USDT",
-      "price": 0.011169,
-      "volume": 11388067.6
+      "price": 0.011181,
+      "volume": 5927299.2
     },
     {
       "pair": "RENDERUSDT",
-      "price": 1.885,
-      "volume": 5456182.96
+      "price": 1.835,
+      "volume": 10042189.68
     },
     {
       "pair": "GUSDT",
-      "price": 0.003767,
-      "volume": 1241192.0
+      "price": 0.003769,
+      "volume": 2589208.0
     },
     {
       "pair": "TONUSDC",
-      "price": 1.427,
-      "volume": 30011.01
+      "price": 1.391,
+      "volume": 26631.75
     },
     {
       "pair": "WIFUSDC",
-      "price": 0.189,
-      "volume": 65915.52
+      "price": 0.193,
+      "volume": 89354.24
     },
     {
       "pair": "PEPEUSDC",
-      "price": 3.6e-06,
-      "volume": 4649862792.0
+      "price": 3.568e-06,
+      "volume": 7584570795.0
     },
     {
       "pair": "DOGSUSDT",
-      "price": 2.816e-05,
-      "volume": 669667581.0
+      "price": 2.877e-05,
+      "volume": 1518966512.0
     },
     {
       "pair": "NOTUSDC",
-      "price": 0.0003591,
-      "volume": 1305102.0
+      "price": 0.0003664,
+      "volume": 631322.0
     },
     {
       "pair": "BNBUSDC",
-      "price": 608.8,
-      "volume": 151.2385
+      "price": 614.7,
+      "volume": 194.6309
     },
     {
       "pair": "BONKUSDC",
-      "price": 5.77e-06,
-      "volume": 75860725.0
+      "price": 5.825e-06,
+      "volume": 226993475.0
     },
     {
       "pair": "DOGSUSDC",
-      "price": 2.829e-05,
-      "volume": 25592839.0
+      "price": 2.877e-05,
+      "volume": 34829975.0
     },
     {
       "pair": "FLOKIUSDC",
-      "price": 2.776e-05,
-      "volume": 16135297.0
+      "price": 2.793e-05,
+      "volume": 4717815.0
     },
     {
       "pair": "BCHUSDC",
-      "price": 428.7,
-      "volume": 18.0798
+      "price": 440.1,
+      "volume": 35.247
     },
     {
       "pair": "NEARUSDC",
-      "price": 1.39,
-      "volume": 14993.7
+      "price": 1.36,
+      "volume": 25653.03
     },
     {
       "pair": "ORDERUSDT",
-      "price": 0.05644,
-      "volume": 4852939.06
+      "price": 0.05983,
+      "volume": 27153341.17
     },
     {
       "pair": "MEWUSDC",
-      "price": 0.0005752,
-      "volume": 111911.8
+      "price": 0.0005633,
+      "volume": 227798.4
     },
     {
       "pair": "KASUSDC",
-      "price": 0.03216,
-      "volume": 1254951.73
+      "price": 0.03256,
+      "volume": 648099.74
     },
     {
       "pair": "ONDOUSDC",
-      "price": 0.2506,
-      "volume": 87564.2
+      "price": 0.25,
+      "volume": 97995.8
     },
     {
       "pair": "JASMYUSDC",
-      "price": 0.005235,
-      "volume": 0.0
+      "price": 0.0053,
+      "volume": 71117.14
     },
     {
       "pair": "ATOMUSDC",
-      "price": 1.73,
-      "volume": 2861.25
+      "price": 1.754,
+      "volume": 607.28
     },
     {
       "pair": "FETUSDC",
-      "price": 0.2332,
-      "volume": 37689.59
+      "price": 0.2294,
+      "volume": 16257.32
     },
     {
       "pair": "UNIUSDC",
-      "price": 3.13,
-      "volume": 906.08
+      "price": 3.172,
+      "volume": 679.62
     },
     {
       "pair": "BRETTUSDC",
-      "price": 0.007129,
-      "volume": 179273.0
+      "price": 0.006977,
+      "volume": 308709.0
     },
     {
       "pair": "TIAUSDC",
-      "price": 0.2994,
-      "volume": 3578.34
+      "price": 0.3096,
+      "volume": 8132.76
     },
     {
       "pair": "INJUSDC",
-      "price": 2.94,
-      "volume": 118.03
+      "price": 2.962,
+      "volume": 627.81
     },
     {
       "pair": "SUNDOGUSDT",
-      "price": 0.004519,
-      "volume": 2317460.9
+      "price": 0.004474,
+      "volume": 3192063.5
     },
     {
       "pair": "CATIUSDT",
-      "price": 0.04705,
-      "volume": 4912763.41
+      "price": 0.04865,
+      "volume": 4627014.08
     },
     {
       "pair": "HMSTRUSDT",
-      "price": 0.0001429,
-      "volume": 664899784.8
+      "price": 0.0001465,
+      "volume": 1442590792.77
     },
     {
       "pair": "CATIUSDC",
-      "price": 0.04718,
-      "volume": 47523.68
+      "price": 0.04813,
+      "volume": 57551.63
     },
     {
       "pair": "HMSTRUSDC",
-      "price": 0.0001396,
-      "volume": 74758.8
+      "price": 0.000147,
+      "volume": 3053210.8
     },
     {
       "pair": "EIGENUSDT",
-      "price": 0.1555,
-      "volume": 2913893.7
+      "price": 0.159,
+      "volume": 4394316.2
     },
     {
       "pair": "NAVXUSDT",
-      "price": 0.008657,
-      "volume": 3556141.5
+      "price": 0.008635,
+      "volume": 2169225.7
     },
     {
       "pair": "BBSOLUSDC",
-      "price": 96.19,
-      "volume": 28205.9434
+      "price": 96.68,
+      "volume": 20970.4127
     },
     {
       "pair": "BBSOLUSDT",
-      "price": 96.18,
-      "volume": 19044.2961
+      "price": 96.63,
+      "volume": 17617.5326
     },
     {
       "pair": "CARVUSDT",
-      "price": 0.05344,
-      "volume": 6748897.28
+      "price": 0.05293,
+      "volume": 2023043.19
     },
     {
       "pair": "DEEPUSDT",
-      "price": 0.0281,
-      "volume": 11367343.0
+      "price": 0.02859,
+      "volume": 16231841.0
     },
     {
       "pair": "PUFFERUSDT",
-      "price": 0.02483,
-      "volume": 2523024.3
+      "price": 0.02435,
+      "volume": 4061253.4
     },
     {
       "pair": "DBRUSDT",
-      "price": 0.01443,
-      "volume": 2248740.0
+      "price": 0.01402,
+      "volume": 4181965.0
     },
     {
       "pair": "PUFFUSDT",
-      "price": 0.07435,
-      "volume": 152801.0
+      "price": 0.07439,
+      "volume": 103225.0
     },
     {
       "pair": "SCRUSDT",
-      "price": 0.04087,
-      "volume": 3728935.8
+      "price": 0.04282,
+      "volume": 9026561.5
     },
     {
       "pair": "COOKUSDT",
-      "price": 0.003098,
-      "volume": 836591.0
+      "price": 0.003085,
+      "volume": 193853.0
     },
     {
       "pair": "GRASSUSDT",
-      "price": 0.3384,
-      "volume": 3169079.1
+      "price": 0.3272,
+      "volume": 2292709.0
     },
     {
       "pair": "KAIAUSDT",
-      "price": 0.04696,
-      "volume": 8255167.0
+      "price": 0.04682,
+      "volume": 3723267.0
     },
     {
       "pair": "SWELLUSDT",
-      "price": 0.001165,
-      "volume": 134579251.0
+      "price": 0.001207,
+      "volume": 122439884.0
     },
     {
       "pair": "SWELLUSDC",
-      "price": 0.001165,
-      "volume": 29330367.0
+      "price": 0.001203,
+      "volume": 112558944.0
     },
     {
       "pair": "NSUSDT",
-      "price": 0.01801,
-      "volume": 1223065.0
+      "price": 0.01817,
+      "volume": 3404798.0
     },
     {
       "pair": "GOATUSDT",
-      "price": 0.015,
-      "volume": 97184506.0
+      "price": 0.01454,
+      "volume": 14357751.0
     },
     {
       "pair": "CMETHUSDT",
-      "price": 2460.79,
-      "volume": 16.03891
+      "price": 2515.57,
+      "volume": 26.19898
     },
     {
       "pair": "MORPHOUSDT",
-      "price": 1.712,
-      "volume": 255435.0
+      "price": 1.733,
+      "volume": 380558.0
     },
     {
       "pair": "NEIROCTOUSDT",
-      "price": 5.958e-05,
-      "volume": 2718604411.0
+      "price": 6.298e-05,
+      "volume": 12996274443.0
     },
     {
       "pair": "BANUSDT",
-      "price": 0.08909,
-      "volume": 32760281.0
+      "price": 0.08179,
+      "volume": 35950339.0
     },
     {
       "pair": "OLUSDT",
-      "price": 0.00689,
-      "volume": 560915.0
+      "price": 0.00671,
+      "volume": 1787795.0
     },
     {
       "pair": "VIRTUALUSDT",
-      "price": 0.6675,
-      "volume": 2551584.04
+      "price": 0.6672,
+      "volume": 4580886.6
     },
     {
       "pair": "MAJORUSDT",
-      "price": 0.06123,
-      "volume": 36470.3
+      "price": 0.0628,
+      "volume": 79524.2
     },
     {
       "pair": "PNUTUSDT",
-      "price": 0.04196,
-      "volume": 5707122.5
+      "price": 0.04368,
+      "volume": 14820446.6
     },
     {
       "pair": "SPXUSDT",
-      "price": 0.3123,
-      "volume": 3774278.1
+      "price": 0.3166,
+      "volume": 5616352.0
     },
     {
       "pair": "ZRCUSDT",
-      "price": 0.001437,
-      "volume": 13214665.0
+      "price": 0.001423,
+      "volume": 4137832.0
     },
     {
       "pair": "CHILLGUYUSDT",
-      "price": 0.014697,
-      "volume": 86694374.5
+      "price": 0.013676,
+      "volume": 37049155.5
     },
     {
       "pair": "SUPRAUSDT",
-      "price": 0.0004632,
-      "volume": 91911401.0
+      "price": 0.0004666,
+      "volume": 65095591.0
     },
     {
       "pair": "PAALUSDT",
-      "price": 0.01342,
-      "volume": 3161667.0
+      "price": 0.01365,
+      "volume": 3286248.0
     },
     {
       "pair": "FUSDT",
-      "price": 0.005251,
-      "volume": 19322103.9
+      "price": 0.005413,
+      "volume": 10551139.7
     },
     {
       "pair": "HPOS10IUSDT",
-      "price": 0.01749,
-      "volume": 1148588.0
+      "price": 0.01779,
+      "volume": 1245329.0
     },
     {
       "pair": "XIONUSDT",
-      "price": 0.1133,
-      "volume": 904765.15
+      "price": 0.1101,
+      "volume": 510633.68
     },
     {
       "pair": "MOVEUSDT",
-      "price": 0.01701,
-      "volume": 11174579.8
+      "price": 0.01686,
+      "volume": 10238655.7
     },
     {
       "pair": "MEUSDT",
-      "price": 0.1031,
-      "volume": 563558.99
+      "price": 0.1007,
+      "volume": 604289.03
     },
     {
       "pair": "ZEREBROUSDT",
-      "price": 0.010096,
-      "volume": 147057894.2
+      "price": 0.010425,
+      "volume": 124939029.4
     },
     {
       "pair": "SENDUSDT",
-      "price": 0.08897,
-      "volume": 482962.0
+      "price": 0.08925,
+      "volume": 580606.6
     },
     {
       "pair": "AEROUSDT",
-      "price": 0.3722,
-      "volume": 4653191.02
+      "price": 0.3695,
+      "volume": 5575834.79
     },
     {
       "pair": "STREAMUSDT",
-      "price": 0.005405,
-      "volume": 2990207.1
+      "price": 0.005394,
+      "volume": 4130089.6
     },
     {
       "pair": "VANAUSDT",
-      "price": 1.282,
-      "volume": 27878.87
+      "price": 1.271,
+      "volume": 29851.06
     },
     {
       "pair": "LUNAIUSDT",
-      "price": 0.006052,
-      "volume": 11792742.6
+      "price": 0.006047,
+      "volume": 10259375.7
     },
     {
       "pair": "PENGUUSDT",
-      "price": 0.006744,
-      "volume": 407253199.0
+      "price": 0.00678,
+      "volume": 548925807.0
     },
     {
       "pair": "FLUIDUSDT",
-      "price": 1.604,
-      "volume": 131631.52
+      "price": 1.569,
+      "volume": 216943.69
     },
     {
       "pair": "FUELUSDT",
-      "price": 0.000956,
-      "volume": 19895848.8
+      "price": 0.000958,
+      "volume": 23622091.7
     },
     {
       "pair": "ALCHUSDT",
-      "price": 0.06294,
-      "volume": 4717458.32
+      "price": 0.06468,
+      "volume": 11007567.08
     },
     {
       "pair": "FLOCKUSDT",
-      "price": 0.05495,
-      "volume": 16085831.46
+      "price": 0.05578,
+      "volume": 15376400.72
     },
     {
       "pair": "SONICUSDT",
-      "price": 0.03505,
-      "volume": 2291182.4
+      "price": 0.03519,
+      "volume": 7891388.4
     },
     {
       "pair": "LAVAUSDT",
-      "price": 0.03347,
-      "volume": 1923327.2
+      "price": 0.03281,
+      "volume": 12795144.1
     },
     {
       "pair": "XTERUSDT",
-      "price": 0.01721,
-      "volume": 1823075.9
+      "price": 0.01711,
+      "volume": 4299264.4
     },
     {
       "pair": "GAMEUSDT",
-      "price": 0.008351,
-      "volume": 3287904.21
+      "price": 0.00839,
+      "volume": 1666994.53
     },
     {
       "pair": "AIXBTUSDT",
-      "price": 0.02419,
-      "volume": 3759394.3
+      "price": 0.02398,
+      "volume": 4352074.5
     },
     {
       "pair": "SUSDT",
-      "price": 0.04105,
-      "volume": 6894687.5
+      "price": 0.04081,
+      "volume": 5368792.0
     },
     {
       "pair": "BMTUSDT",
-      "price": 0.01446,
-      "volume": 744261.2
+      "price": 0.01466,
+      "volume": 2599881.94
     },
     {
       "pair": "TOSHIUSDT",
-      "price": 0.0001753,
-      "volume": 1142343260.0
+      "price": 0.0001743,
+      "volume": 1712737062.0
     },
     {
       "pair": "GPSUSDT",
-      "price": 0.008526,
-      "volume": 10564849.7
+      "price": 0.008901,
+      "volume": 18092509.8
     },
     {
       "pair": "SOLVUSDT",
-      "price": 0.004249,
-      "volume": 110461679.5
+      "price": 0.00424,
+      "volume": 127671001.4
     },
     {
       "pair": "OBTUSDT",
-      "price": 0.001051,
-      "volume": 20018966.2
+      "price": 0.001033,
+      "volume": 28596158.0
     },
     {
       "pair": "SOSOUSDT",
-      "price": 0.4049,
-      "volume": 819631.02
+      "price": 0.4031,
+      "volume": 529601.39
     },
     {
       "pair": "TRUMPUSDT",
-      "price": 2.83,
-      "volume": 416747.37
+      "price": 2.781,
+      "volume": 3056614.03
     },
     {
       "pair": "TRUMPUSDC",
-      "price": 2.83,
-      "volume": 5263.61
+      "price": 2.792,
+      "volume": 3399.58
     },
     {
       "pair": "PLUMEUSDT",
-      "price": 0.01099,
-      "volume": 264826992.2
+      "price": 0.01171,
+      "volume": 290446879.1
     },
     {
       "pair": "ANIMEUSDT",
-      "price": 0.004573,
-      "volume": 16695864.9
+      "price": 0.004577,
+      "volume": 8855754.6
     },
     {
       "pair": "LAYERUSDT",
-      "price": 0.08161,
-      "volume": 155706.7
+      "price": 0.08072,
+      "volume": 122429.5
     },
     {
       "pair": "BERAUSDT",
-      "price": 0.4075,
-      "volume": 761111.31
+      "price": 0.3997,
+      "volume": 1350655.36
     },
     {
       "pair": "AVLUSDT",
-      "price": 0.02637,
-      "volume": 3892773.5
+      "price": 0.02566,
+      "volume": 2846494.7
     },
     {
       "pair": "B3USDT",
-      "price": 0.0003084,
-      "volume": 267530504.0
+      "price": 0.0003069,
+      "volume": 296648025.0
     },
     {
       "pair": "DIAMUSDT",
-      "price": 0.007475,
-      "volume": 4667721.0
+      "price": 0.007514,
+      "volume": 4806325.0
     },
     {
       "pair": "IPUSDT",
-      "price": 0.4794,
-      "volume": 5282979.84
+      "price": 0.4945,
+      "volume": 10806359.33
     },
     {
       "pair": "USDTBUSDT",
-      "price": 0.9997,
-      "volume": 1059.19
+      "price": 1.0,
+      "volume": 253788.14
     },
     {
       "pair": "ROAMUSDT",
-      "price": 0.02009,
-      "volume": 2463861.35
+      "price": 0.01899,
+      "volume": 2828666.87
     },
     {
       "pair": "REDUSDT",
-      "price": 0.1418,
-      "volume": 3034587.14
+      "price": 0.1382,
+      "volume": 2281160.49
     },
     {
       "pair": "BRUSDT",
-      "price": 0.12476,
-      "volume": 7089171.0
+      "price": 0.17463,
+      "volume": 35047504.0
     },
     {
       "pair": "VVVUSDT",
-      "price": 8.602,
-      "volume": 263944.29
+      "price": 8.635,
+      "volume": 443697.69
     },
     {
       "pair": "WALUSDT",
-      "price": 0.06939,
-      "volume": 3515082.7
+      "price": 0.06776,
+      "volume": 3372519.4
     },
     {
       "pair": "AMIUSDT",
-      "price": 0.006142,
-      "volume": 3304821.1
+      "price": 0.006154,
+      "volume": 2876146.9
     },
     {
       "pair": "PARTIUSDT",
-      "price": 0.04553,
-      "volume": 14642539.8
+      "price": 0.04253,
+      "volume": 11912882.1
     },
     {
       "pair": "CORNUSDT",
-      "price": 0.04044,
-      "volume": 18438303.3
+      "price": 0.04033,
+      "volume": 14859490.6
     },
     {
       "pair": "KILOUSDT",
-      "price": 0.00624,
-      "volume": 2987827.1
+      "price": 0.006247,
+      "volume": 6678430.5
     },
     {
       "pair": "PUMPBTCUSDT",
-      "price": 0.02164,
-      "volume": 35357796.8
+      "price": 0.01982,
+      "volume": 41553616.1
     },
     {
       "pair": "FHEUSDT",
-      "price": 0.01722,
-      "volume": 114175266.0
+      "price": 0.01837,
+      "volume": 65215124.0
     },
     {
       "pair": "BABY1USDT",
-      "price": 0.01437,
-      "volume": 63153597.0
+      "price": 0.01449,
+      "volume": 13347883.0
     },
     {
       "pair": "XAUTUSDT",
-      "price": 4711.5,
-      "volume": 6058.13483
+      "price": 4816.3,
+      "volume": 4270.76241
     },
     {
       "pair": "VETUSDT",
-      "price": 0.00686,
-      "volume": 25862857.0
+      "price": 0.006832,
+      "volume": 11224089.0
     },
     {
       "pair": "VTHOUSDT",
-      "price": 0.0005557,
-      "volume": 378862452.0
+      "price": 0.0005578,
+      "volume": 449049171.0
     },
     {
       "pair": "WCTUSDT",
-      "price": 0.05976,
-      "volume": 27122269.3
+      "price": 0.0556,
+      "volume": 9829546.8
     },
     {
       "pair": "DOLOUSDT",
-      "price": 0.03207,
-      "volume": 1697238.9
+      "price": 0.03197,
+      "volume": 2847031.3
     },
     {
       "pair": "HYPERUSDT",
-      "price": 0.09053,
-      "volume": 1217106.6
+      "price": 0.0944,
+      "volume": 11861219.9
     },
     {
       "pair": "ZORAUSDT",
-      "price": 0.01387,
-      "volume": 11398144.0
+      "price": 0.0137,
+      "volume": 22455925.0
     },
     {
       "pair": "INITUSDT",
-      "price": 0.07851,
-      "volume": 1234740.9
+      "price": 0.07985,
+      "volume": 2879524.5
     },
     {
       "pair": "SIGNUSDT",
-      "price": 0.03115,
-      "volume": 20749998.0
+      "price": 0.02826,
+      "volume": 37143677.0
     },
     {
       "pair": "HAEDALUSDT",
-      "price": 0.0278,
-      "volume": 13662985.0
+      "price": 0.02885,
+      "volume": 13369986.0
     },
     {
       "pair": "OBOLUSDT",
-      "price": 0.01073,
-      "volume": 2362855.6
+      "price": 0.01179,
+      "volume": 1406728.2
     },
     {
       "pair": "SXTUSDT",
-      "price": 0.01642,
-      "volume": 2846884.0
+      "price": 0.01611,
+      "volume": 6092764.4
     },
     {
       "pair": "DOODUSDT",
-      "price": 0.003103,
-      "volume": 343695325.6
+      "price": 0.002994,
+      "volume": 67131746.8
     },
     {
       "pair": "NXPCUSDT",
-      "price": 0.2758,
-      "volume": 521273.6
+      "price": 0.2793,
+      "volume": 439146.7
     },
     {
       "pair": "HUMAUSDT",
-      "price": 0.01728,
-      "volume": 15958676.1
+      "price": 0.01703,
+      "volume": 23060145.6
     },
     {
       "pair": "AOUSDT",
-      "price": 2.504,
-      "volume": 65710.998
+      "price": 2.508,
+      "volume": 81180.676
     },
     {
       "pair": "AUSDT",
-      "price": 0.07744,
-      "volume": 2630597.3
+      "price": 0.07759,
+      "volume": 5607767.0
     },
     {
       "pair": "BDXNUSDT",
-      "price": 0.00185,
-      "volume": 6779203.6
+      "price": 0.00187,
+      "volume": 19682105.3
     },
     {
       "pair": "LAUSDT",
-      "price": 0.1617,
-      "volume": 2732363.9
+      "price": 0.1573,
+      "volume": 1273622.2
     },
     {
       "pair": "CUDISUSDT",
-      "price": 0.007981,
-      "volume": 6466226.7
+      "price": 0.007842,
+      "volume": 2326566.5
     },
     {
       "pair": "RESOLVUSDT",
-      "price": 0.03965,
-      "volume": 7699395.9
+      "price": 0.03546,
+      "volume": 12648513.6
     },
     {
       "pair": "ALGOUSDC",
-      "price": 0.10315,
-      "volume": 39926.4
+      "price": 0.10727,
+      "volume": 48310.2
     },
     {
       "pair": "HBARUSDC",
-      "price": 0.08552,
-      "volume": 247300.0
+      "price": 0.0848,
+      "volume": 550620.2
     },
     {
       "pair": "ENAUSDC",
-      "price": 0.096,
-      "volume": 200305.8
+      "price": 0.095,
+      "volume": 142456.6
     },
     {
       "pair": "AAVEUSDC",
-      "price": 96.43,
-      "volume": 190.0822
+      "price": 97.63,
+      "volume": 310.8181
     },
     {
       "pair": "HOMEUSDT",
-      "price": 0.01886,
-      "volume": 1504536.9
+      "price": 0.01873,
+      "volume": 5608872.9
     },
     {
       "pair": "JUPUSDC",
-      "price": 0.1639,
-      "volume": 312.1
+      "price": 0.1663,
+      "volume": 354.0
     },
     {
       "pair": "MOVEUSDC",
-      "price": 0.017,
-      "volume": 850954.1
+      "price": 0.01691,
+      "volume": 246795.7
     },
     {
       "pair": "RENDERUSDC",
-      "price": 1.889,
-      "volume": 7258.34
+      "price": 1.839,
+      "volume": 16716.57
     },
     {
       "pair": "CRVUSDC",
-      "price": 0.2138,
-      "volume": 54693.9
+      "price": 0.2141,
+      "volume": 104309.6
     },
     {
       "pair": "SPKUSDT",
-      "price": 0.02153,
-      "volume": 16583741.2
+      "price": 0.02144,
+      "volume": 34202303.4
     },
     {
       "pair": "HUSDT",
-      "price": 0.09677,
-      "volume": 12509477.9
+      "price": 0.09671,
+      "volume": 30532293.0
     },
     {
       "pair": "NEWTUSDT",
-      "price": 0.06966,
-      "volume": 1810821.2
+      "price": 0.06999,
+      "volume": 1245525.2
     },
     {
       "pair": "EIGENUSDC",
-      "price": 0.1531,
-      "volume": 224.1
+      "price": 0.1648,
+      "volume": 281.1
     },
     {
       "pair": "POLUSDC",
-      "price": 0.08393,
-      "volume": 29539.0
+      "price": 0.08291,
+      "volume": 45565.0
     },
     {
       "pair": "BERAUSDC",
-      "price": 0.4044,
-      "volume": 1842.3
+      "price": 0.4121,
+      "volume": 2.66
     },
     {
       "pair": "SAHARAUSDT",
-      "price": 0.02202,
-      "volume": 3691840.6
+      "price": 0.02225,
+      "volume": 12194077.9
     },
     {
       "pair": "ICNTUSDT",
-      "price": 0.2687,
-      "volume": 5783122.2
+      "price": 0.2894,
+      "volume": 6319372.4
     },
     {
       "pair": "NVDAXUSDT",
-      "price": 188.81,
-      "volume": 775.154
+      "price": 195.1,
+      "volume": 913.316
     },
     {
       "pair": "COINXUSDT",
-      "price": 174.36,
-      "volume": 6382.818
+      "price": 184.5,
+      "volume": 4121.438
     },
     {
       "pair": "AIXBTUSDC",
-      "price": 0.02343,
-      "volume": 265.0
+      "price": 0.02419,
+      "volume": 27568.0
     },
     {
       "pair": "ARUSDC",
-      "price": 1.701,
-      "volume": 3.52
+      "price": 1.726,
+      "volume": 113.94
     },
     {
       "pair": "SUSDC",
-      "price": 0.04004,
-      "volume": 65.9
+      "price": 0.04155,
+      "volume": 111.4
     },
     {
       "pair": "AAPLXUSDT",
-      "price": 259.93,
-      "volume": 28.312
+      "price": 258.04,
+      "volume": 31.756
     },
     {
       "pair": "CRCLXUSDT",
-      "price": 98.6,
-      "volume": 12366.672
+      "price": 104.39,
+      "volume": 15252.837
     },
     {
       "pair": "METAXUSDT",
-      "price": 635.13,
-      "volume": 25.066
+      "price": 661.69,
+      "volume": 30.701
     },
     {
       "pair": "HOODXUSDT",
-      "price": 71.74,
-      "volume": 3069.693
+      "price": 78.27,
+      "volume": 3708.772
     },
     {
       "pair": "AMZNXUSDT",
-      "price": 240.0,
-      "volume": 137.601
+      "price": 248.42,
+      "volume": 163.075
     },
     {
       "pair": "GOOGLXUSDT",
-      "price": 321.48,
-      "volume": 326.828
+      "price": 332.14,
+      "volume": 706.38
     },
     {
       "pair": "STXUSDC",
@@ -2288,432 +2273,427 @@
     {
       "pair": "ENSUSDC",
       "price": 5.582,
-      "volume": 4.545
+      "volume": 0.0
     },
     {
       "pair": "ORDIUSDC",
-      "price": 2.46,
-      "volume": 8.09
+      "price": 2.495,
+      "volume": 89.24
     },
     {
       "pair": "PYTHUSDC",
-      "price": 0.04255,
-      "volume": 2490.4
+      "price": 0.0432,
+      "volume": 26559.1
     },
     {
       "pair": "USD1USDT",
-      "price": 0.9988,
-      "volume": 158205.45
+      "price": 0.9991,
+      "volume": 285299.62
     },
     {
       "pair": "MCDXUSDT",
-      "price": 307.16,
-      "volume": 52.868
+      "price": 305.16,
+      "volume": 71.1
     },
     {
       "pair": "TSLAXUSDT",
-      "price": 352.32,
-      "volume": 434.284
+      "price": 364.33,
+      "volume": 518.819
     },
     {
       "pair": "HYPEUSDT",
-      "price": 43.4,
-      "volume": 838392.01
+      "price": 43.51,
+      "volume": 1291151.336
     },
     {
       "pair": "JTOUSDC",
-      "price": 0.3188,
-      "volume": 253.9
+      "price": 0.3141,
+      "volume": 2546.7
     },
     {
       "pair": "DYDXUSDC",
-      "price": 0.09241,
-      "volume": 278.5
+      "price": 0.09639,
+      "volume": 3962.2
     },
     {
       "pair": "TACUSDT",
-      "price": 0.006247,
-      "volume": 110919236.8
+      "price": 0.005994,
+      "volume": 76672806.1
     },
     {
       "pair": "PUMPUSDT",
-      "price": 0.001844,
-      "volume": 1515788025.9
+      "price": 0.001839,
+      "volume": 2283211684.3
     },
     {
       "pair": "ESUSDT",
-      "price": 0.16056,
-      "volume": 1635930.4
+      "price": 0.1576,
+      "volume": 1709220.8
     },
     {
       "pair": "ERAUSDT",
-      "price": 0.1239,
-      "volume": 217190.7
+      "price": 0.1246,
+      "volume": 150775.2
     },
     {
       "pair": "TAUSDT",
-      "price": 0.04103,
-      "volume": 3433969.3
+      "price": 0.04172,
+      "volume": 3592004.6
     },
     {
       "pair": "CATUSDT",
-      "price": 1.702e-06,
-      "volume": 25963450097.0
+      "price": 1.71e-06,
+      "volume": 21161931421.0
     },
     {
       "pair": "TREEUSDT",
-      "price": 0.06147,
-      "volume": 8793779.6
+      "price": 0.06726,
+      "volume": 19843752.6
     },
     {
       "pair": "ICNTUSDC",
-      "price": 0.27,
-      "volume": 31682.2
+      "price": 0.2859,
+      "volume": 72341.6
     },
     {
       "pair": "TUNAUSDT",
-      "price": 0.01283,
-      "volume": 4158113.1
+      "price": 0.01307,
+      "volume": 2152308.6
     },
     {
       "pair": "TOWNSUSDT",
-      "price": 0.00298,
-      "volume": 127749657.9
+      "price": 0.003275,
+      "volume": 277144399.3
     },
     {
       "pair": "TOWNSUSDC",
-      "price": 0.003003,
-      "volume": 183632.4
+      "price": 0.003266,
+      "volume": 118969.7
     },
     {
       "pair": "PROVEUSDT",
-      "price": 0.2222,
-      "volume": 868131.9
+      "price": 0.2249,
+      "volume": 1082146.6
     },
     {
       "pair": "CAMPUSDT",
-      "price": 0.00204,
-      "volume": 54665495.9
+      "price": 0.002069,
+      "volume": 132311969.5
     },
     {
       "pair": "CFGUSDT",
-      "price": 0.205,
-      "volume": 2961355.0
+      "price": 0.2066,
+      "volume": 2727679.4
     },
     {
       "pair": "WLFIUSDT",
-      "price": 0.07946,
-      "volume": 24304771.7
+      "price": 0.08068,
+      "volume": 29658784.4
     },
     {
       "pair": "SOMIUSDT",
-      "price": 0.1648,
-      "volume": 1291556.8
+      "price": 0.1663,
+      "volume": 1916401.3
     },
     {
       "pair": "SKYUSDT",
-      "price": 0.07431,
-      "volume": 6580596.9
+      "price": 0.07445,
+      "volume": 11639083.7
     },
     {
       "pair": "UUSDT",
-      "price": 0.0006553,
-      "volume": 171993613.0
+      "price": 0.0006777,
+      "volume": 114195710.0
     },
     {
       "pair": "AVNTUSDT",
-      "price": 0.1329,
-      "volume": 3810690.4
+      "price": 0.1294,
+      "volume": 2519413.4
     },
     {
       "pair": "LINEAUSDT",
-      "price": 0.003263,
-      "volume": 311859454.2
+      "price": 0.003297,
+      "volume": 152494485.9
     },
     {
       "pair": "XUSDUSDT",
-      "price": 0.9996,
-      "volume": 320885.98
+      "price": 1.0037,
+      "volume": 325874.3
     },
     {
       "pair": "HOLOUSDT",
-      "price": 0.06343,
-      "volume": 29192722.2
+      "price": 0.05881,
+      "volume": 12556061.3
     },
     {
       "pair": "ZKCUSDT",
-      "price": 0.07043,
-      "volume": 2293353.9
+      "price": 0.07282,
+      "volume": 3661076.3
     },
     {
       "pair": "PORTALSUSDT",
-      "price": 0.00634,
-      "volume": 53313.6
+      "price": 0.00629,
+      "volume": 141088.2
     },
     {
       "pair": "BARDUSDT",
-      "price": 0.3286,
-      "volume": 4642382.1
+      "price": 0.3161,
+      "volume": 7615636.2
     },
     {
       "pair": "PUMPUSDC",
-      "price": 0.001846,
-      "volume": 6555757.7
+      "price": 0.001847,
+      "volume": 4673138.1
     },
     {
       "pair": "HUSDC",
-      "price": 0.09622,
-      "volume": 44189.4
+      "price": 0.0991,
+      "volume": 88215.7
     },
     {
       "pair": "VIRTUALUSDC",
-      "price": 0.6702,
-      "volume": 19809.4
+      "price": 0.6641,
+      "volume": 26585.87
     },
     {
       "pair": "SPXUSDC",
-      "price": 0.3073,
-      "volume": 624.12
+      "price": 0.3194,
+      "volume": 2386.1
     },
     {
       "pair": "LBTCUSDT",
-      "price": 72999.9,
-      "volume": 0.043514
+      "price": 74434.9,
+      "volume": 0.057941
     },
     {
       "pair": "ASTERUSDT",
-      "price": 0.6671,
-      "volume": 36090918.3
+      "price": 0.6637,
+      "volume": 38467461.51
     },
     {
       "pair": "XPLUSDT",
-      "price": 0.13102,
-      "volume": 203993363.9
+      "price": 0.13359,
+      "volume": 348387452.9
     },
     {
       "pair": "0GUSDT",
-      "price": 0.5827,
-      "volume": 2645655.21
+      "price": 0.584,
+      "volume": 1895277.44
     },
     {
       "pair": "XANUSDT",
-      "price": 0.007446,
-      "volume": 17982107.9
+      "price": 0.008773,
+      "volume": 60621609.1
     },
     {
       "pair": "RLUSDUSDT",
-      "price": 0.9991,
-      "volume": 805546.34
+      "price": 0.9993,
+      "volume": 1516497.91
     },
     {
       "pair": "FFUSDT",
-      "price": 0.07942,
-      "volume": 18874077.3
+      "price": 0.07736,
+      "volume": 8465152.8
     },
     {
       "pair": "2ZUSDC",
-      "price": 0.07685,
-      "volume": 1306998.7
+      "price": 0.07826,
+      "volume": 675128.1
     },
     {
       "pair": "2ZUSDT",
-      "price": 0.07792,
-      "volume": 8108832.6
+      "price": 0.07834,
+      "volume": 2241677.1
     },
     {
       "pair": "NOMUSDT",
-      "price": 0.003496,
-      "volume": 347696236.0
+      "price": 0.00343,
+      "volume": 203299127.0
     },
     {
       "pair": "ENSOUSDT",
-      "price": 0.8781,
-      "volume": 387566.22
+      "price": 0.8517,
+      "volume": 243694.6
     },
     {
       "pair": "YBUSDT",
-      "price": 0.1192,
-      "volume": 2798262.44
+      "price": 0.1125,
+      "volume": 904126.24
     },
     {
       "pair": "RECALLUSDT",
-      "price": 0.04719,
-      "volume": 21246487.0
+      "price": 0.04706,
+      "volume": 11996967.0
     },
     {
       "pair": "ZBTUSDT",
-      "price": 0.09488,
-      "volume": 3032944.5
+      "price": 0.11072,
+      "volume": 16298445.9
     },
     {
       "pair": "METUSDT",
-      "price": 0.1376,
-      "volume": 1963368.9
+      "price": 0.1338,
+      "volume": 1996935.4
     },
     {
       "pair": "METUSDC",
-      "price": 0.1375,
-      "volume": 239560.9
-    },
-    {
-      "pair": "COMMONUSDT",
-      "price": 0.0002788,
-      "volume": 115831669.0
+      "price": 0.1339,
+      "volume": 302131.0
     },
     {
       "pair": "SYNDUSDT",
-      "price": 0.04389,
-      "volume": 1483189.7
+      "price": 0.04475,
+      "volume": 6165904.1
     },
     {
       "pair": "EATUSDT",
-      "price": 0.0238,
-      "volume": 8553936.2
+      "price": 0.0234,
+      "volume": 8075152.4
     },
     {
       "pair": "GAIBUSDT",
-      "price": 0.02504,
-      "volume": 1100728.1
+      "price": 0.01967,
+      "volume": 7073921.7
     },
     {
       "pair": "MMTUSDT",
-      "price": 0.128,
-      "volume": 1506068.2
+      "price": 0.1344,
+      "volume": 5596484.4
     },
     {
       "pair": "CCUSDT",
-      "price": 0.15089,
-      "volume": 19006084.5
+      "price": 0.1479,
+      "volume": 103198268.2
     },
     {
       "pair": "CCUSDC",
-      "price": 0.15106,
-      "volume": 478317.3
+      "price": 0.14786,
+      "volume": 2073832.5
     },
     {
       "pair": "ELIZAOSUSDT",
-      "price": 0.0007201,
-      "volume": 35800756.6
+      "price": 0.0007383,
+      "volume": 34519671.8
     },
     {
       "pair": "PIEVERSEUSDT",
-      "price": 0.4245,
-      "volume": 3444242.8
+      "price": 0.4314,
+      "volume": 1813937.5
     },
     {
       "pair": "MONUSDT",
-      "price": 0.03418,
-      "volume": 566081043.8
+      "price": 0.03478,
+      "volume": 660403177.6
     },
     {
       "pair": "STABLEUSDT",
-      "price": 0.02805,
-      "volume": 198481378.3
+      "price": 0.0258,
+      "volume": 85214186.2
     },
     {
       "pair": "WETUSDT",
-      "price": 0.1526,
-      "volume": 54123901.4
+      "price": 0.1432,
+      "volume": 36107453.7
     },
     {
       "pair": "NIGHTUSDT",
-      "price": 0.03871,
-      "volume": 43879643.3
+      "price": 0.0357,
+      "volume": 58092963.5
     },
     {
       "pair": "SCORUSDT",
-      "price": 0.01397,
-      "volume": 6480097.7
+      "price": 0.01475,
+      "volume": 2402233.3
     },
     {
       "pair": "ZKPUSDT",
-      "price": 0.07121,
-      "volume": 619683.7
+      "price": 0.07271,
+      "volume": 1558375.8
     },
     {
       "pair": "VOOIUSDT",
-      "price": 0.007093,
-      "volume": 9030308.0
+      "price": 0.006824,
+      "volume": 11196486.9
     },
     {
       "pair": "LITUSDT",
-      "price": 1.109,
-      "volume": 5248166.45
+      "price": 1.0592,
+      "volume": 4855685.94
     },
     {
       "pair": "BREVUSDT",
-      "price": 0.1234,
-      "volume": 2239988.8
+      "price": 0.1198,
+      "volume": 1699356.8
     },
     {
       "pair": "WHITEWHALEUSDT",
-      "price": 0.00621,
-      "volume": 26433604.3
+      "price": 0.00685,
+      "volume": 31334256.4
     },
     {
       "pair": "FRAXUSDT",
-      "price": 0.4217,
-      "volume": 73142.7
+      "price": 0.4259,
+      "volume": 46011.9
     },
     {
       "pair": "FOGOUSDT",
-      "price": 0.01758,
-      "volume": 30024495.4
+      "price": 0.01824,
+      "volume": 50487804.6
     },
     {
       "pair": "ELSAUSDT",
-      "price": 0.06607,
-      "volume": 2785183.4
+      "price": 0.06736,
+      "volume": 8866182.6
     },
     {
       "pair": "IMUUSDT",
-      "price": 0.00258,
-      "volume": 12946644.5
+      "price": 0.002717,
+      "volume": 35248270.1
     },
     {
       "pair": "SKRUSDT",
-      "price": 0.01656,
-      "volume": 23183355.5
+      "price": 0.0161,
+      "volume": 25643208.0
     },
     {
       "pair": "FIGHTUSDT",
-      "price": 0.004485,
-      "volume": 1462585285.9
+      "price": 0.00396,
+      "volume": 490427953.7
     },
     {
       "pair": "SENTUSDT",
-      "price": 0.015711,
-      "volume": 13456377.4
+      "price": 0.015335,
+      "volume": 14351430.7
     },
     {
       "pair": "USATUSDT",
-      "price": 0.9996,
-      "volume": 491049.34
+      "price": 0.9997,
+      "volume": 307579.2
     },
     {
       "pair": "PYBOBOUSDT",
-      "price": 0.0007569,
-      "volume": 109504888.0
+      "price": 0.000754,
+      "volume": 130130280.0
     },
     {
       "pair": "BIRBUSDT",
-      "price": 0.13159,
-      "volume": 2949158.6
+      "price": 0.13022,
+      "volume": 1945659.3
     },
     {
       "pair": "ZAMAUSDT",
-      "price": 0.02498,
-      "volume": 357826536.7
+      "price": 0.03215,
+      "volume": 495353463.5
     },
     {
       "pair": "PENGUINUSDT",
-      "price": 0.003429,
-      "volume": 57128810.0
+      "price": 0.003368,
+      "volume": 54844490.0
     },
     {
       "pair": "ELONUSDT",
-      "price": 0.0701,
-      "volume": 1127652.5
+      "price": 0.073,
+      "volume": 558166.8
     },
     {
       "pair": "AEDZUSDT",
@@ -2727,2572 +2707,2572 @@
     },
     {
       "pair": "TRIAUSDT",
-      "price": 0.02537,
-      "volume": 71805588.1
+      "price": 0.02644,
+      "volume": 86928497.2
     },
     {
       "pair": "AZTECUSDT",
-      "price": 0.021,
-      "volume": 35764548.9
+      "price": 0.02149,
+      "volume": 56683910.1
     },
     {
       "pair": "ROBOUSDT",
-      "price": 0.02059,
-      "volume": 88742570.3
+      "price": 0.01934,
+      "volume": 39049994.6
     },
     {
       "pair": "BSBUSDT",
-      "price": 0.22621,
-      "volume": 12308219.9
+      "price": 0.22532,
+      "volume": 11907334.4
     },
     {
       "pair": "MANTRAUSDT",
-      "price": 0.01066,
-      "volume": 28378519.1
+      "price": 0.01044,
+      "volume": 19367064.4
     },
     {
       "pair": "OPNUSDT",
-      "price": 0.1534,
-      "volume": 2557536.1
+      "price": 0.1562,
+      "volume": 5094317.5
     },
     {
       "pair": "BASEDUSDT",
-      "price": 0.06422,
-      "volume": 101209196.8
+      "price": 0.06956,
+      "volume": 85781561.5
     },
     {
       "pair": "EDGEUSDT",
-      "price": 0.8622,
-      "volume": 94337675.6
+      "price": 0.9796,
+      "volume": 14605255.8
     }
   ],
   "futures": [
     {
       "token": "0G",
-      "price": 0.5823,
+      "price": 0.5833,
       "funding": 0.0,
-      "volume": 23060424.8
+      "volume": 10766649.7
     },
     {
       "token": "1000000BABYDOGE",
-      "price": 0.0003975,
+      "price": 0.0003957,
       "funding": 0.0,
-      "volume": 920599500.0
+      "volume": 582114200.0
     },
     {
       "token": "1000000CHEEMS",
-      "price": 0.4857,
+      "price": 0.4998,
       "funding": 0.0,
-      "volume": 304676.0
+      "volume": 246735.0
     },
     {
       "token": "1000000MOG",
-      "price": 0.13208,
+      "price": 0.13279,
       "funding": 0.0,
-      "volume": 3872463.0
+      "volume": 7707432.0
     },
     {
       "token": "10000QUBIC",
-      "price": 0.007373,
+      "price": 0.007729,
       "funding": 0.0,
-      "volume": 31036230.0
+      "volume": 37408780.0
     },
     {
       "token": "10000SATS",
-      "price": 0.0001147,
+      "price": 0.0001115,
       "funding": 0.0,
-      "volume": 11943983900.0
+      "volume": 10171316400.0
     },
     {
       "token": "1000BONK",
-      "price": 0.005798,
+      "price": 0.005809,
       "funding": 0.0,
-      "volume": 2745380.0
+      "volume": 6725930.0
     },
     {
       "token": "1000BTT",
-      "price": 0.0003256,
+      "price": 0.0003228,
       "funding": 0.0,
-      "volume": 1042816500.0
+      "volume": 579819600.0
     },
     {
       "token": "1000CAT",
-      "price": 0.0017047,
+      "price": 0.0017178,
       "funding": 0.0,
-      "volume": 173607347.0
+      "volume": 163812130.0
     },
     {
       "token": "1000FLOKI",
-      "price": 0.02829,
+      "price": 0.02805,
       "funding": 0.0,
-      "volume": 61694356.0
+      "volume": 135384910.0
     },
     {
       "token": "1000LUNC",
-      "price": 0.04193,
+      "price": 0.04064,
       "funding": 0.0,
-      "volume": 21168433.0
+      "volume": 12217003.0
     },
     {
       "token": "1000NEIROCTO",
-      "price": 0.05941,
+      "price": 0.06271,
       "funding": 0.0,
-      "volume": 4926922.0
+      "volume": 7162539.0
     },
     {
       "token": "1000PEPE",
-      "price": 0.003605,
+      "price": 0.003572,
       "funding": 0.0,
-      "volume": 15070500.0
+      "volume": 42829200.0
     },
     {
       "token": "1000RATS",
-      "price": 0.03652,
+      "price": 0.03605,
       "funding": 0.0,
-      "volume": 17333180.0
+      "volume": 22348340.0
     },
     {
       "token": "1000TAG",
-      "price": 0.761,
+      "price": 0.7188,
       "funding": 0.0,
-      "volume": 1553183.0
+      "volume": 695332.0
     },
     {
       "token": "1000TOSHI",
-      "price": 0.17468,
+      "price": 0.17396,
       "funding": 0.0,
-      "volume": 1544880.0
+      "volume": 2270275.0
     },
     {
       "token": "1000TURBO",
-      "price": 1.0372,
+      "price": 1.0219,
       "funding": 0.0,
-      "volume": 1326093.0
+      "volume": 1612955.0
     },
     {
       "token": "1000XEC",
-      "price": 0.006903,
+      "price": 0.006956,
       "funding": 0.0,
-      "volume": 8027480.0
+      "volume": 5999050.0
     },
     {
       "token": "1INCH",
-      "price": 0.09239,
+      "price": 0.09308,
       "funding": 0.0,
-      "volume": 8263281.3
+      "volume": 8387847.9
     },
     {
       "token": "2Z",
-      "price": 0.07775,
+      "price": 0.07821,
       "funding": 0.0,
-      "volume": 17946120.0
+      "volume": 13011082.0
     },
     {
       "token": "4",
-      "price": 0.01339,
+      "price": 0.010017,
       "funding": 0.0,
-      "volume": 260909497.0
+      "volume": 847275115.0
     },
     {
       "token": "AAVE",
-      "price": 96.13,
+      "price": 98.05,
       "funding": 0.0,
-      "volume": 1023.26
+      "volume": 384.85
     },
     {
       "token": "ACE",
-      "price": 0.10955,
+      "price": 0.11564,
       "funding": 0.0,
-      "volume": 1958035.4
+      "volume": 952772.7
     },
     {
       "token": "ACH",
-      "price": 0.006066,
+      "price": 0.005948,
       "funding": 0.0,
-      "volume": 161732640.0
+      "volume": 49075220.0
     },
     {
       "token": "ACT",
-      "price": 0.013029,
+      "price": 0.012891,
       "funding": 0.0,
-      "volume": 65302539.0
+      "volume": 50568821.0
     },
     {
       "token": "ACU",
-      "price": 0.08497,
+      "price": 0.09636,
       "funding": 0.0,
-      "volume": 22295444.0
+      "volume": 14997673.0
     },
     {
       "token": "ACX",
-      "price": 0.04297,
+      "price": 0.04203,
       "funding": 0.0,
-      "volume": 1484319.0
+      "volume": 1687588.0
     },
     {
       "token": "ADA",
-      "price": 0.2402,
+      "price": 0.241,
       "funding": 0.0,
-      "volume": 254270590.0
+      "volume": 369073893.0
     },
     {
       "token": "AERGO",
-      "price": 0.05417,
+      "price": 0.05408,
       "funding": 0.0,
-      "volume": 3645372.0
+      "volume": 3135329.0
     },
     {
       "token": "AERO",
-      "price": 0.3719,
+      "price": 0.3688,
       "funding": 0.0,
-      "volume": 10542332.0
+      "volume": 15870856.0
     },
     {
       "token": "AEVO",
-      "price": 0.02243,
+      "price": 0.02256,
       "funding": 0.0,
-      "volume": 126297.0
+      "volume": 171911.0
     },
     {
       "token": "AGI",
-      "price": 0.011144,
+      "price": 0.010988,
       "funding": 0.0,
-      "volume": 10742380.0
+      "volume": 25390670.0
     },
     {
       "token": "AGLD",
-      "price": 0.24641,
+      "price": 0.24588,
       "funding": 0.0,
-      "volume": 2003379.7
+      "volume": 1192771.6
     },
     {
       "token": "AIO",
-      "price": 0.10425,
+      "price": 0.08218,
       "funding": 0.0,
-      "volume": 40060330.0
+      "volume": 17515090.0
     },
     {
       "token": "AIOZ",
-      "price": 0.05633,
+      "price": 0.05566,
       "funding": 0.0,
-      "volume": 3318762.0
+      "volume": 3117525.0
     },
     {
       "token": "AIXBT",
-      "price": 0.024132,
+      "price": 0.023926,
       "funding": 0.0,
-      "volume": 40380910.0
+      "volume": 48663300.0
     },
     {
       "token": "AKE",
-      "price": 0.0005464,
+      "price": 0.0006588,
       "funding": 0.0,
-      "volume": 12773744900.0
+      "volume": 14643766600.0
     },
     {
       "token": "AKT",
-      "price": 0.4631,
+      "price": 0.4545,
       "funding": 0.0,
-      "volume": 1769370.9
+      "volume": 1700963.6
     },
     {
       "token": "ALCH",
-      "price": 0.06294,
+      "price": 0.06448,
       "funding": 0.0,
-      "volume": 5513053.0
+      "volume": 7900071.0
     },
     {
       "token": "ALGO",
-      "price": 0.10348,
+      "price": 0.1068,
       "funding": 0.0,
-      "volume": 74933934.7
+      "volume": 121239331.5
     },
     {
       "token": "ALICE",
-      "price": 0.10972,
+      "price": 0.11134,
       "funding": 0.0,
-      "volume": 2456287.0
+      "volume": 3317966.9
     },
     {
       "token": "ALLO",
-      "price": 0.11352,
+      "price": 0.10981,
       "funding": 0.0,
-      "volume": 6936443.0
+      "volume": 6663711.0
     },
     {
       "token": "ALPINE",
-      "price": 0.4093,
+      "price": 0.4184,
       "funding": 0.0,
-      "volume": 137143.2
+      "volume": 350838.4
     },
     {
       "token": "ALT",
-      "price": 0.006833,
+      "price": 0.00671,
       "funding": 0.0,
-      "volume": 141352498.0
+      "volume": 115222100.0
     },
     {
       "token": "ANIME",
-      "price": 0.004569,
+      "price": 0.004574,
       "funding": 0.0,
-      "volume": 105853576.0
+      "volume": 106168969.0
     },
     {
       "token": "ANKR",
-      "price": 0.005106,
+      "price": 0.005047,
       "funding": 0.0,
-      "volume": 532370670.0
+      "volume": 160638313.0
     },
     {
       "token": "APE",
-      "price": 0.08694,
+      "price": 0.08699,
       "funding": 0.0,
-      "volume": 19658330.3
+      "volume": 16382773.1
     },
     {
       "token": "APEX",
-      "price": 0.2763,
+      "price": 0.277,
       "funding": 0.0,
-      "volume": 2196885.4
+      "volume": 1507401.5
     },
     {
       "token": "API3",
-      "price": 0.28,
+      "price": 0.2801,
       "funding": 0.0,
-      "volume": 610641.7
+      "volume": 737997.4
     },
     {
       "token": "APR",
-      "price": 0.18019,
+      "price": 0.274,
       "funding": 0.0,
-      "volume": 4282628.0
+      "volume": 135195394.0
     },
     {
       "token": "APT",
-      "price": 0.8514,
+      "price": 0.8547,
       "funding": 0.0,
-      "volume": 21303633.75
+      "volume": 18362633.91
     },
     {
       "token": "ARB",
-      "price": 0.1118,
+      "price": 0.10973,
       "funding": 0.0,
-      "volume": 54699.6
+      "volume": 142827.6
     },
     {
       "token": "ARC",
-      "price": 0.0736,
+      "price": 0.07081,
       "funding": 0.0,
-      "volume": 48790135.0
+      "volume": 29340700.0
     },
     {
       "token": "ARIA",
-      "price": 0.82482,
+      "price": 0.14724,
       "funding": 0.0,
-      "volume": 130931121.0
+      "volume": 550761759.0
     },
     {
       "token": "ARKM",
-      "price": 0.09812,
+      "price": 0.09882,
       "funding": 0.0,
-      "volume": 8753382.0
+      "volume": 13487463.0
     },
     {
       "token": "ARK",
-      "price": 0.16626,
+      "price": 0.16738,
       "funding": 0.0,
-      "volume": 1346658.0
+      "volume": 1004056.0
     },
     {
       "token": "ARPA",
-      "price": 0.009259,
+      "price": 0.009253,
       "funding": 0.0,
-      "volume": 11117950.0
+      "volume": 17190820.0
     },
     {
       "token": "AR",
-      "price": 1.7255,
+      "price": 1.7401,
       "funding": 0.0,
-      "volume": 354475.4
+      "volume": 487491.7
     },
     {
       "token": "ASP",
-      "price": 0.02611,
+      "price": 0.02693,
       "funding": 0.0,
-      "volume": 1680721.0
+      "volume": 6993309.0
     },
     {
       "token": "ASR",
-      "price": 1.2361,
+      "price": 1.2936,
       "funding": 0.0,
-      "volume": 81602.1
+      "volume": 110107.6
     },
     {
       "token": "ASTER",
-      "price": 0.6679,
+      "price": 0.6643,
       "funding": 0.0,
-      "volume": 41925.0
+      "volume": 280201.0
     },
     {
       "token": "ASTR",
-      "price": 0.00757,
+      "price": 0.007434,
       "funding": 0.0,
-      "volume": 21580651.0
+      "volume": 30749216.0
     },
     {
       "token": "ATH",
-      "price": 0.006494,
+      "price": 0.006089,
       "funding": 0.0,
-      "volume": 1323583060.0
+      "volume": 570754070.0
     },
     {
       "token": "ATOM",
-      "price": 1.7315,
+      "price": 1.7426,
       "funding": 0.0,
-      "volume": 3409676.6
+      "volume": 3357395.5
     },
     {
       "token": "AT",
-      "price": 0.17052,
+      "price": 0.16991,
       "funding": 0.0,
-      "volume": 5325836.0
+      "volume": 6454776.0
     },
     {
       "token": "AUCTION",
-      "price": 4.708,
+      "price": 4.727,
       "funding": 0.0,
-      "volume": 189688.9
+      "volume": 269608.5
     },
     {
       "token": "A",
-      "price": 0.07732,
+      "price": 0.07753,
       "funding": 0.0,
-      "volume": 7192816.0
+      "volume": 8491767.0
     },
     {
       "token": "AVAAI",
-      "price": 0.007663,
+      "price": 0.008293,
       "funding": 0.0,
-      "volume": 96722550.0
+      "volume": 398145007.0
     },
     {
       "token": "AVA",
-      "price": 0.2043,
+      "price": 0.2061,
       "funding": 0.0,
-      "volume": 305899.1
+      "volume": 367863.7
     },
     {
       "token": "AVAX",
-      "price": 9.294,
+      "price": 9.289,
       "funding": 0.0,
-      "volume": 4144216.0
+      "volume": 4915766.3
     },
     {
       "token": "AVNT",
-      "price": 0.13276,
+      "price": 0.1302,
       "funding": 0.0,
-      "volume": 32413.0
+      "volume": 70656.0
     },
     {
       "token": "AWE",
-      "price": 0.05129,
+      "price": 0.05206,
       "funding": 0.0,
-      "volume": 2385140.0
+      "volume": 2912140.0
     },
     {
       "token": "AXL",
-      "price": 0.04604,
+      "price": 0.04478,
       "funding": 0.0,
-      "volume": 63919778.0
+      "volume": 23972885.0
     },
     {
       "token": "AXS",
-      "price": 1.0763,
+      "price": 1.0924,
       "funding": 0.0,
-      "volume": 4709975.3
+      "volume": 5270461.0
     },
     {
       "token": "AZTEC",
-      "price": 0.020942,
+      "price": 0.021479,
       "funding": 0.0,
-      "volume": 61700660.0
+      "volume": 118599680.0
     },
     {
       "token": "B2",
-      "price": 0.7168,
+      "price": 0.6722,
       "funding": 0.0,
-      "volume": 616050.0
+      "volume": 559992.0
     },
     {
       "token": "B3",
-      "price": 0.0003073,
+      "price": 0.0003068,
       "funding": 0.0,
-      "volume": 1472173500.0
+      "volume": 985957600.0
     },
     {
       "token": "BABY",
-      "price": 0.014338,
+      "price": 0.014473,
       "funding": 0.0,
-      "volume": 73055460.0
+      "volume": 58527750.0
     },
     {
       "token": "BANANAS31",
-      "price": 0.010372,
+      "price": 0.010627,
       "funding": 0.0,
-      "volume": 258947300.0
+      "volume": 172228700.0
     },
     {
       "token": "BANANA",
-      "price": 3.444,
+      "price": 3.496,
       "funding": 0.0,
-      "volume": 67331.34
+      "volume": 52916.83
     },
     {
       "token": "BAND",
-      "price": 0.2021,
+      "price": 0.2023,
       "funding": 0.0,
-      "volume": 537552.8
+      "volume": 582941.0
     },
     {
       "token": "BANK",
-      "price": 0.03646,
+      "price": 0.03751,
       "funding": 0.0,
-      "volume": 32482970.0
+      "volume": 27971070.0
     },
     {
       "token": "BAN",
-      "price": 0.08935,
+      "price": 0.08161,
       "funding": 0.0,
-      "volume": 175603556.0
+      "volume": 66767695.0
     },
     {
       "token": "BARD",
-      "price": 0.3281,
+      "price": 0.3158,
       "funding": 0.0,
-      "volume": 9246603.7
+      "volume": 19989063.8
     },
     {
       "token": "BASED",
-      "price": 0.0639,
+      "price": 0.0694,
       "funding": 0.0,
-      "volume": 204161406.0
+      "volume": 123509794.0
     },
     {
       "token": "BAT",
       "price": 0.0952,
       "funding": 0.0,
-      "volume": 3482871.4
+      "volume": 4807337.7
     },
     {
       "token": "BB",
-      "price": 0.02597,
+      "price": 0.02446,
       "funding": 0.0,
-      "volume": 35903706.0
+      "volume": 13762425.0
     },
     {
       "token": "BCH",
-      "price": 427.8,
+      "price": 436.3,
       "funding": 0.0,
-      "volume": 77.15
+      "volume": 71.37
     },
     {
       "token": "BEAM",
-      "price": 0.0018798,
+      "price": 0.0018574,
       "funding": 0.0,
-      "volume": 257876800.0
+      "volume": 244612600.0
     },
     {
       "token": "BEAT",
-      "price": 0.37951,
+      "price": 0.37102,
       "funding": 0.0,
-      "volume": 70095797.0
+      "volume": 31894175.0
     },
     {
       "token": "BEL",
-      "price": 0.0995,
+      "price": 0.10661,
       "funding": 0.0,
-      "volume": 2290897.0
+      "volume": 8261926.0
     },
     {
       "token": "BERA",
-      "price": 0.4072,
+      "price": 0.3993,
       "funding": 0.0,
-      "volume": 6069506.0
+      "volume": 7191209.0
     },
     {
       "token": "BICO",
-      "price": 0.02106,
+      "price": 0.02077,
       "funding": 0.0,
-      "volume": 5302626.2
+      "volume": 4233730.9
     },
     {
       "token": "BIGTIME",
-      "price": 0.012536,
+      "price": 0.012429,
       "funding": 0.0,
-      "volume": 38468875.0
+      "volume": 34467213.0
     },
     {
       "token": "BIO",
-      "price": 0.01809,
+      "price": 0.01974,
       "funding": 0.0,
-      "volume": 66902515.0
+      "volume": 307205645.0
     },
     {
       "token": "BIRB",
-      "price": 0.13189,
+      "price": 0.13019,
       "funding": 0.0,
-      "volume": 2914354.0
+      "volume": 3730272.0
     },
     {
       "token": "BLAST",
-      "price": 0.0004807,
+      "price": 0.0005026,
       "funding": 0.0,
-      "volume": 1986489800.0
+      "volume": 6276222780.0
     },
     {
       "token": "BLESS",
-      "price": 0.019166,
+      "price": 0.016968,
       "funding": 0.0,
-      "volume": 3442422310.0
+      "volume": 8327915350.0
     },
     {
       "token": "BLUAI",
-      "price": 0.008489,
+      "price": 0.00895,
       "funding": 0.0,
-      "volume": 203463600.0
+      "volume": 279578920.0
     },
     {
       "token": "BLUR",
-      "price": 0.021153,
+      "price": 0.020615,
       "funding": 0.0,
-      "volume": 243278376.0
+      "volume": 233329124.0
     },
     {
       "token": "BMT",
-      "price": 0.014434,
+      "price": 0.014669,
       "funding": 0.0,
-      "volume": 4377396.0
+      "volume": 7321334.0
     },
     {
       "token": "BNB",
-      "price": 608.4,
+      "price": 613.8,
       "funding": 0.0,
-      "volume": 262.15
+      "volume": 541.39
     },
     {
       "token": "BNT",
-      "price": 0.2969,
+      "price": 0.3003,
       "funding": 0.0,
-      "volume": 232221.0
+      "volume": 101310.0
     },
     {
       "token": "BOBA",
-      "price": 0.02224,
+      "price": 0.02232,
       "funding": 0.0,
-      "volume": 4575167.8
+      "volume": 6210383.9
     },
     {
       "token": "BOBBOB",
-      "price": 0.008313,
+      "price": 0.007651,
       "funding": 0.0,
-      "volume": 162354240.0
+      "volume": 90122090.0
     },
     {
       "token": "BOME",
-      "price": 0.0004132,
+      "price": 0.000409,
       "funding": 0.0,
-      "volume": 3987740200.0
+      "volume": 5970050400.0
     },
     {
       "token": "BRETT",
-      "price": 0.00713,
+      "price": 0.006982,
       "funding": 0.0,
-      "volume": 472910610.0
+      "volume": 449077750.0
     },
     {
       "token": "BREV",
-      "price": 0.12323,
+      "price": 0.11981,
       "funding": 0.0,
-      "volume": 9915604.0
+      "volume": 6234123.0
     },
     {
       "token": "BROCCOLI",
-      "price": 0.01653,
+      "price": 0.015814,
       "funding": 0.0,
-      "volume": 943049639.0
+      "volume": 626727878.0
     },
     {
       "token": "BR",
-      "price": 0.12478,
+      "price": 0.17426,
       "funding": 0.0,
-      "volume": 9943784.0
+      "volume": 44959352.0
     },
     {
       "token": "BSB",
-      "price": 0.2266,
+      "price": 0.2257,
       "funding": 0.0,
-      "volume": 22049259.0
+      "volume": 17768050.0
     },
     {
       "token": "BSU",
-      "price": 0.04519,
+      "price": 0.04134,
       "funding": 0.0,
-      "volume": 3332350.0
+      "volume": 3439557.0
     },
     {
       "token": "BSV",
-      "price": 15.108,
+      "price": 15.385,
       "funding": 0.0,
-      "volume": 43558.23
+      "volume": 69552.79
     },
     {
       "token": "BTC",
-      "price": 73136.3,
+      "price": 74315.3,
       "funding": 0.0,
-      "volume": 768.237
+      "volume": 1066.349
     },
     {
       "token": "BTR",
-      "price": 0.02811,
+      "price": 0.02789,
       "funding": 0.0,
-      "volume": 28428383.0
+      "volume": 24256332.0
     },
     {
       "token": "B",
-      "price": 0.1822,
+      "price": 0.11375,
       "funding": 0.0,
-      "volume": 4472002.0
+      "volume": 52400858.0
     },
     {
       "token": "C98",
-      "price": 0.01913,
+      "price": 0.01905,
       "funding": 0.0,
-      "volume": 44796367.0
+      "volume": 41465314.0
     },
     {
       "token": "CAKE",
-      "price": 1.5803,
+      "price": 1.585,
       "funding": 0.0,
-      "volume": 2948137.9
+      "volume": 5692241.4
     },
     {
       "token": "CAMP",
-      "price": 0.002051,
+      "price": 0.002077,
       "funding": 0.0,
-      "volume": 192131991.0
+      "volume": 165912333.0
     },
     {
       "token": "CARV",
-      "price": 0.05335,
+      "price": 0.05281,
       "funding": 0.0,
-      "volume": 12601109.0
+      "volume": 5961244.0
     },
     {
       "token": "CATI",
-      "price": 0.047,
+      "price": 0.04863,
       "funding": 0.0,
-      "volume": 19506867.0
+      "volume": 14900370.0
     },
     {
       "token": "CC",
-      "price": 0.15075,
+      "price": 0.14781,
       "funding": 0.0,
-      "volume": 11928076.0
+      "volume": 112044098.0
     },
     {
       "token": "CELO",
-      "price": 0.07998,
+      "price": 0.0794,
       "funding": 0.0,
-      "volume": 6454411.7
+      "volume": 4526302.9
     },
     {
       "token": "CETUS",
-      "price": 0.019443,
+      "price": 0.019445,
       "funding": 0.0,
-      "volume": 2281090.0
+      "volume": 16652562.0
     },
     {
       "token": "CFG",
-      "price": 0.2048,
+      "price": 0.2066,
       "funding": 0.0,
-      "volume": 23629564.0
+      "volume": 14919763.0
     },
     {
       "token": "CFX",
-      "price": 0.05351,
+      "price": 0.05298,
       "funding": 0.0,
-      "volume": 13980566.0
+      "volume": 15957873.0
     },
     {
       "token": "CGPT",
-      "price": 0.019313,
+      "price": 0.020188,
       "funding": 0.0,
-      "volume": 3573398.0
+      "volume": 8803233.0
     },
     {
       "token": "CHILLGUY",
-      "price": 0.014715,
+      "price": 0.013646,
       "funding": 0.0,
-      "volume": 455092903.0
+      "volume": 153377178.0
     },
     {
       "token": "CHR",
-      "price": 0.01842,
+      "price": 0.0181,
       "funding": 0.0,
-      "volume": 82144866.1
+      "volume": 36137978.0
     },
     {
       "token": "CHZ",
-      "price": 0.03647,
+      "price": 0.03666,
       "funding": 0.0,
-      "volume": 94644556.0
+      "volume": 60321295.0
     },
     {
       "token": "CKB",
-      "price": 0.0014719,
+      "price": 0.0014671,
       "funding": 0.0,
-      "volume": 332777920.0
+      "volume": 148301040.0
     },
     {
       "token": "CLANKER",
-      "price": 27.839,
+      "price": 26.605,
       "funding": 0.0,
-      "volume": 15004.06
+      "volume": 28551.03
     },
     {
       "token": "CLOUD",
-      "price": 0.02137,
+      "price": 0.02202,
       "funding": 0.0,
-      "volume": 3927914.0
+      "volume": 11995844.0
     },
     {
       "token": "CLO",
-      "price": 0.07534,
+      "price": 0.07816,
       "funding": 0.0,
-      "volume": 14760472.0
+      "volume": 15905680.0
     },
     {
       "token": "CL",
-      "price": 93.232,
+      "price": 88.455,
       "funding": 0.0,
-      "volume": 1145421.15
+      "volume": 764945.06
     },
     {
       "token": "COAI",
-      "price": 0.2898,
+      "price": 0.3878,
       "funding": 0.0,
-      "volume": 3199952.0
+      "volume": 104926037.0
     },
     {
       "token": "COMP",
-      "price": 20.878,
+      "price": 21.209,
       "funding": 0.0,
-      "volume": 145309.79
+      "volume": 300685.02
     },
     {
       "token": "COOKIE",
-      "price": 0.015501,
+      "price": 0.015698,
       "funding": 0.0,
-      "volume": 13648772.0
+      "volume": 18779506.0
     },
     {
       "token": "CORE",
-      "price": 0.02593,
+      "price": 0.02513,
       "funding": 0.0,
-      "volume": 33168179.7
+      "volume": 24515857.9
     },
     {
       "token": "COTI",
-      "price": 0.013493,
+      "price": 0.01332,
       "funding": 0.0,
-      "volume": 9316151.0
+      "volume": 10959542.0
     },
     {
       "token": "COW",
-      "price": 0.21561,
+      "price": 0.21966,
       "funding": 0.0,
-      "volume": 1949050.0
+      "volume": 8617413.0
     },
     {
       "token": "CROSS",
-      "price": 0.06745,
+      "price": 0.07161,
       "funding": 0.0,
-      "volume": 15169296.0
+      "volume": 11526939.0
     },
     {
       "token": "CRO",
-      "price": 0.06875,
+      "price": 0.06906,
       "funding": 0.0,
-      "volume": 10061524.0
+      "volume": 17151608.0
     },
     {
       "token": "CRV",
-      "price": 0.2132,
+      "price": 0.2127,
       "funding": 0.0,
-      "volume": 114768.1
+      "volume": 173287.5
     },
     {
       "token": "CTC",
-      "price": 0.14658,
+      "price": 0.14544,
       "funding": 0.0,
-      "volume": 1699173.0
+      "volume": 1888893.0
     },
     {
       "token": "CTK",
-      "price": 0.16886,
+      "price": 0.17397,
       "funding": 0.0,
-      "volume": 191652.4
+      "volume": 180095.0
     },
     {
       "token": "C",
-      "price": 0.06502,
+      "price": 0.07182,
       "funding": 0.0,
-      "volume": 9670810.0
+      "volume": 22061766.0
     },
     {
       "token": "CVC",
-      "price": 0.02953,
+      "price": 0.02963,
       "funding": 0.0,
-      "volume": 3281652.0
+      "volume": 4023057.0
     },
     {
       "token": "CVX",
-      "price": 1.7454,
+      "price": 1.757,
       "funding": 0.0,
-      "volume": 69431.23
+      "volume": 135314.41
     },
     {
       "token": "CYBER",
-      "price": 0.5035,
+      "price": 0.4983,
       "funding": 0.0,
-      "volume": 422559.1
+      "volume": 504739.9
     },
     {
       "token": "CYS",
-      "price": 0.2764,
+      "price": 0.3281,
       "funding": 0.0,
-      "volume": 12065031.0
+      "volume": 28014423.0
     },
     {
       "token": "DASH",
-      "price": 40.32,
+      "price": 38.18,
       "funding": 0.0,
-      "volume": 380766.26
+      "volume": 306856.63
     },
     {
       "token": "DBR",
-      "price": 0.01437,
+      "price": 0.013927,
       "funding": 0.0,
-      "volume": 6405840.0
+      "volume": 10201600.0
     },
     {
       "token": "DEEP",
-      "price": 0.02799,
+      "price": 0.02851,
       "funding": 0.0,
-      "volume": 14766120.0
+      "volume": 20662300.0
     },
     {
       "token": "DEGEN",
-      "price": 0.0007217,
+      "price": 0.0007187,
       "funding": 0.0,
-      "volume": 240607760.0
+      "volume": 148148110.0
     },
     {
       "token": "DEXE",
-      "price": 10.027,
+      "price": 10.0481,
       "funding": 0.0,
-      "volume": 187836.3
+      "volume": 210008.1
     },
     {
       "token": "DIA",
-      "price": 0.17362,
+      "price": 0.17458,
       "funding": 0.0,
-      "volume": 536647.0
+      "volume": 347030.0
     },
     {
       "token": "DOGE",
-      "price": 0.09287,
+      "price": 0.09329,
       "funding": 0.0,
-      "volume": 2446050.0
+      "volume": 6581525.0
     },
     {
       "token": "DOG",
-      "price": 0.0006716,
+      "price": 0.0007131,
       "funding": 0.0,
-      "volume": 2139367700.0
+      "volume": 1524514300.0
     },
     {
       "token": "DOLO",
-      "price": 0.03197,
+      "price": 0.03196,
       "funding": 0.0,
-      "volume": 8956339.0
+      "volume": 18495994.0
     },
     {
       "token": "DOOD",
-      "price": 0.003095,
+      "price": 0.002988,
       "funding": 0.0,
-      "volume": 445826570.0
+      "volume": 169325070.0
     },
     {
       "token": "DOT",
-      "price": 1.176,
+      "price": 1.149,
       "funding": 0.0,
-      "volume": 743171.9
+      "volume": 508163.9
     },
     {
       "token": "DRIFT",
-      "price": 0.03942,
+      "price": 0.04439,
       "funding": 0.0,
-      "volume": 449373635.0
+      "volume": 188780561.0
     },
     {
       "token": "DUSK",
-      "price": 0.15206,
+      "price": 0.14316,
       "funding": 0.0,
-      "volume": 24221474.0
+      "volume": 16638805.0
     },
     {
       "token": "DYDX",
-      "price": 0.09485,
+      "price": 0.09457,
       "funding": 0.0,
-      "volume": 28642301.6
+      "volume": 39829192.9
     },
     {
       "token": "DYM",
-      "price": 0.01678,
+      "price": 0.01691,
       "funding": 0.0,
-      "volume": 39768576.3
+      "volume": 47769871.3
     },
     {
       "token": "EDEN",
-      "price": 0.03085,
+      "price": 0.03391,
       "funding": 0.0,
-      "volume": 6177618.0
+      "volume": 11356636.0
     },
     {
       "token": "EDGE",
-      "price": 0.864,
+      "price": 0.981,
       "funding": 0.0,
-      "volume": 14590425.0
+      "volume": 26268744.0
     },
     {
       "token": "EDU",
-      "price": 0.04846,
+      "price": 0.04652,
       "funding": 0.0,
-      "volume": 17049081.6
+      "volume": 11453257.9
     },
     {
       "token": "EGLD",
-      "price": 3.752,
+      "price": 3.74,
       "funding": 0.0,
-      "volume": 864261.68
+      "volume": 918073.53
     },
     {
       "token": "EIGEN",
-      "price": 0.15531,
+      "price": 0.15771,
       "funding": 0.0,
-      "volume": 304295.0
+      "volume": 275852.0
     },
     {
       "token": "ELSA",
-      "price": 0.06607,
+      "price": 0.06735,
       "funding": 0.0,
-      "volume": 7854058.0
+      "volume": 27919306.0
     },
     {
       "token": "ENA",
-      "price": 0.09544,
+      "price": 0.09517,
       "funding": 0.0,
-      "volume": 1048916.0
+      "volume": 992846.0
     },
     {
       "token": "ENJ",
-      "price": 0.044065,
+      "price": 0.052686,
       "funding": 0.0,
-      "volume": 2478366956.1
+      "volume": 2243199055.4
     },
     {
       "token": "ENSO",
-      "price": 0.8777,
+      "price": 0.8511,
       "funding": 0.0,
-      "volume": 1704049.1
+      "volume": 1377555.3
     },
     {
       "token": "ENS",
-      "price": 5.709,
+      "price": 5.741,
       "funding": 0.0,
-      "volume": 282359.0
+      "volume": 402620.8
     },
     {
       "token": "EPIC",
-      "price": 0.2654,
+      "price": 0.286,
       "funding": 0.0,
-      "volume": 812315.0
+      "volume": 2123689.0
     },
     {
       "token": "ERA",
-      "price": 0.12368,
+      "price": 0.12467,
       "funding": 0.0,
-      "volume": 1939035.0
+      "volume": 1572254.0
     },
     {
       "token": "ESPORTS",
-      "price": 0.42938,
+      "price": 0.40575,
       "funding": 0.0,
-      "volume": 1086010.0
+      "volume": 1643095.0
     },
     {
       "token": "ESP",
-      "price": 0.07524,
+      "price": 0.07326,
       "funding": 0.0,
-      "volume": 18418690.0
+      "volume": 17029380.0
     },
     {
       "token": "ES",
-      "price": 0.15989,
+      "price": 0.15717,
       "funding": 0.0,
-      "volume": 500096.0
+      "volume": 407608.0
     },
     {
       "token": "ETC",
-      "price": 8.282,
+      "price": 8.281,
       "funding": 0.0,
-      "volume": 1037.6
+      "volume": 3426.7
     },
     {
       "token": "ETHBTC",
-      "price": 0.03082,
+      "price": 0.031215,
       "funding": 0.0,
-      "volume": 7256500.0
+      "volume": 15283760.0
     },
     {
       "token": "ETHFI",
-      "price": 0.4133,
+      "price": 0.421,
       "funding": 0.0,
-      "volume": 25651.8
+      "volume": 23303.4
     },
     {
       "token": "ETH",
-      "price": 2253.4,
+      "price": 2320.88,
       "funding": 0.0,
-      "volume": 9148.82
+      "volume": 17684.47
     },
     {
       "token": "EUL",
-      "price": 1.0439,
+      "price": 1.1078,
       "funding": 0.0,
-      "volume": 353047.4
+      "volume": 642108.6
     },
     {
       "token": "EVAA",
-      "price": 0.8156,
+      "price": 0.8376,
       "funding": 0.0,
-      "volume": 4310527.4
+      "volume": 7622579.6
     },
     {
       "token": "FARTCOIN",
-      "price": 0.18901,
+      "price": 0.19986,
       "funding": 0.0,
-      "volume": 166471.7
+      "volume": 270588.4
     },
     {
       "token": "FF",
-      "price": 0.07937,
+      "price": 0.07732,
       "funding": 0.0,
-      "volume": 186377367.0
+      "volume": 86581297.0
     },
     {
       "token": "FHE",
-      "price": 0.01717,
+      "price": 0.01835,
       "funding": 0.0,
-      "volume": 52775902.0
+      "volume": 104747947.0
     },
     {
       "token": "FIDA",
-      "price": 0.016581,
+      "price": 0.016384,
       "funding": 0.0,
-      "volume": 96831120.0
+      "volume": 35403614.0
     },
     {
       "token": "FIGHT",
-      "price": 0.004482,
+      "price": 0.003943,
       "funding": 0.0,
-      "volume": 4041102860.0
+      "volume": 1057195300.0
     },
     {
       "token": "FIL",
-      "price": 0.8983,
+      "price": 0.8814,
       "funding": 0.0,
-      "volume": 4039.0
+      "volume": 921.9
     },
     {
       "token": "FIO",
-      "price": 0.00347,
+      "price": 0.003023,
       "funding": 0.0,
-      "volume": 292717530.0
+      "volume": 301007790.0
     },
     {
       "token": "FLOCK",
-      "price": 0.05493,
+      "price": 0.05572,
       "funding": 0.0,
-      "volume": 31327009.0
+      "volume": 32365647.0
     },
     {
       "token": "FLOW",
-      "price": 0.03376,
+      "price": 0.03462,
       "funding": 0.0,
-      "volume": 58243200.5
+      "volume": 73072049.9
     },
     {
       "token": "FLR",
-      "price": 0.007882,
+      "price": 0.007981,
       "funding": 0.0,
-      "volume": 41263590.0
+      "volume": 50149220.0
     },
     {
       "token": "FLUID",
-      "price": 1.603,
+      "price": 1.574,
       "funding": 0.0,
-      "volume": 165814.2
+      "volume": 409926.7
     },
     {
       "token": "FLUX",
-      "price": 0.05407,
+      "price": 0.05465,
       "funding": 0.0,
-      "volume": 1635360.0
+      "volume": 1400343.0
     },
     {
       "token": "FOGO",
-      "price": 0.01755,
+      "price": 0.0182,
       "funding": 0.0,
-      "volume": 21507290.0
+      "volume": 38660500.0
     },
     {
       "token": "FOLKS",
-      "price": 1.193,
+      "price": 1.3548,
       "funding": 0.0,
-      "volume": 4895574.22
+      "volume": 6048447.41
     },
     {
       "token": "FORM",
-      "price": 0.25598,
+      "price": 0.25276,
       "funding": 0.0,
-      "volume": 6524083.0
+      "volume": 10480180.0
     },
     {
       "token": "F",
-      "price": 0.005246,
+      "price": 0.005408,
       "funding": 0.0,
-      "volume": 110264790.0
+      "volume": 148466873.0
     },
     {
       "token": "GALA",
-      "price": 0.002933,
+      "price": 0.002928,
       "funding": 0.0,
-      "volume": 5378006812.0
+      "volume": 5040622119.0
     },
     {
       "token": "GAS",
-      "price": 1.6851,
+      "price": 1.6623,
       "funding": 0.0,
-      "volume": 211004.1
+      "volume": 293068.5
     },
     {
       "token": "GIGA",
-      "price": 0.0019441,
+      "price": 0.0019203,
       "funding": 0.0,
-      "volume": 166175930.0
+      "volume": 133063350.0
     },
     {
       "token": "GIGGLE",
-      "price": 38.7,
+      "price": 47.77,
       "funding": 0.0,
-      "volume": 761553.799
+      "volume": 625075.439
     },
     {
       "token": "GLM",
-      "price": 0.1247,
+      "price": 0.12466,
       "funding": 0.0,
-      "volume": 1135044.0
+      "volume": 1395583.0
     },
     {
       "token": "GMT",
-      "price": 0.010458,
+      "price": 0.01041,
       "funding": 0.0,
-      "volume": 128606213.0
+      "volume": 145718964.0
     },
     {
       "token": "GMX",
-      "price": 5.988,
+      "price": 5.986,
       "funding": 0.0,
-      "volume": 49486.04
+      "volume": 53377.57
     },
     {
       "token": "GNO",
-      "price": 117.64,
+      "price": 116.78,
       "funding": 0.0,
-      "volume": 2136.999
+      "volume": 801.861
     },
     {
       "token": "GOAT",
-      "price": 0.01491,
+      "price": 0.01454,
       "funding": 0.0,
-      "volume": 237899882.0
+      "volume": 97835309.0
     },
     {
       "token": "GODS",
-      "price": 0.03152,
+      "price": 0.03147,
       "funding": 0.0,
-      "volume": 1272581.0
+      "volume": 846126.0
     },
     {
       "token": "GPS",
-      "price": 0.008552,
+      "price": 0.008877,
       "funding": 0.0,
-      "volume": 43589194.0
+      "volume": 51247178.0
     },
     {
       "token": "GRASS",
-      "price": 0.33751,
+      "price": 0.32679,
       "funding": 0.0,
-      "volume": 8211326.0
+      "volume": 6018270.0
     },
     {
       "token": "GRIFFAIN",
-      "price": 0.016079,
+      "price": 0.014013,
       "funding": 0.0,
-      "volume": 28117663.0
+      "volume": 151870384.0
     },
     {
       "token": "GRT",
-      "price": 0.02396,
+      "price": 0.02384,
       "funding": 0.0,
-      "volume": 37381405.7
+      "volume": 35801788.6
     },
     {
       "token": "GUN",
-      "price": 0.015321,
+      "price": 0.015406,
       "funding": 0.0,
-      "volume": 33971595.0
+      "volume": 57015614.0
     },
     {
       "token": "HAEDAL",
-      "price": 0.02779,
+      "price": 0.02884,
       "funding": 0.0,
-      "volume": 14726940.0
+      "volume": 8626990.0
     },
     {
       "token": "HANA",
-      "price": 0.03767,
+      "price": 0.041405,
       "funding": 0.0,
-      "volume": 70929570.0
+      "volume": 191374470.0
     },
     {
       "token": "HBAR",
-      "price": 0.08555,
+      "price": 0.08528,
       "funding": 0.0,
-      "volume": 282543.0
+      "volume": 419703.0
     },
     {
       "token": "HEI",
-      "price": 0.08951,
+      "price": 0.08851,
       "funding": 0.0,
-      "volume": 860330.4
+      "volume": 666914.1
     },
     {
       "token": "HEMI",
-      "price": 0.007012,
+      "price": 0.007864,
       "funding": 0.0,
-      "volume": 60669956.0
+      "volume": 423530428.0
     },
     {
       "token": "HFT",
-      "price": 0.013296,
+      "price": 0.013141,
       "funding": 0.0,
-      "volume": 17590875.0
+      "volume": 8392917.0
     },
     {
       "token": "HIGH",
-      "price": 0.12242,
+      "price": 0.11246,
       "funding": 0.0,
-      "volume": 1567834.4
+      "volume": 5271457.7
     },
     {
       "token": "HIPPO",
-      "price": 0.0001928,
+      "price": 0.0001682,
       "funding": 0.0,
-      "volume": 2975913820.0
+      "volume": 2132996220.0
     },
     {
       "token": "HIVE",
-      "price": 0.05828,
+      "price": 0.05821,
       "funding": 0.0,
-      "volume": 1396703.0
+      "volume": 1045062.0
     },
     {
       "token": "HMSTR",
-      "price": 0.0001428,
+      "price": 0.0001462,
       "funding": 0.0,
-      "volume": 3084922490.0
+      "volume": 5109583160.0
     },
     {
       "token": "HNT",
-      "price": 1.0137,
+      "price": 1.0155,
       "funding": 0.0,
-      "volume": 370312.21
+      "volume": 347525.43
     },
     {
       "token": "HOLO",
-      "price": 0.06321,
+      "price": 0.0587,
       "funding": 0.0,
-      "volume": 201647386.0
+      "volume": 78816618.0
     },
     {
       "token": "HOME",
-      "price": 0.018847,
+      "price": 0.01867,
       "funding": 0.0,
-      "volume": 10828350.0
+      "volume": 34868420.0
     },
     {
       "token": "H",
-      "price": 0.09684,
+      "price": 0.09695,
       "funding": 0.0,
-      "volume": 506580.0
+      "volume": 1136350.0
     },
     {
       "token": "HPOS10I",
-      "price": 0.017512,
+      "price": 0.01777,
       "funding": 0.0,
-      "volume": 15783933.0
+      "volume": 3818310.0
     },
     {
       "token": "HUMA",
-      "price": 0.017262,
+      "price": 0.017027,
       "funding": 0.0,
-      "volume": 151057633.0
+      "volume": 130802501.0
     },
     {
       "token": "HYPE",
-      "price": 43.648,
+      "price": 43.48,
       "funding": 0.0,
-      "volume": 18924.38
+      "volume": 9779.75
     },
     {
       "token": "HYPER",
-      "price": 0.09032,
+      "price": 0.09422,
       "funding": 0.0,
-      "volume": 4034668.0
+      "volume": 39581011.0
     },
     {
       "token": "ICNT",
-      "price": 0.27,
+      "price": 0.2898,
       "funding": 0.0,
-      "volume": 26778.0
+      "volume": 66615.0
     },
     {
       "token": "ICP",
-      "price": 2.459,
+      "price": 2.425,
       "funding": 0.0,
-      "volume": 33908.1
+      "volume": 12651.2
     },
     {
       "token": "ICX",
-      "price": 0.03558,
+      "price": 0.03599,
       "funding": 0.0,
-      "volume": 10504413.0
+      "volume": 9161782.0
     },
     {
       "token": "ID",
-      "price": 0.03243,
+      "price": 0.03088,
       "funding": 0.0,
-      "volume": 103118702.0
+      "volume": 43268680.0
     },
     {
       "token": "ILV",
-      "price": 4.186,
+      "price": 4.179,
       "funding": 0.0,
-      "volume": 186361.0
+      "volume": 146467.69
     },
     {
       "token": "IMX",
-      "price": 0.14404,
+      "price": 0.14407,
       "funding": 0.0,
-      "volume": 40806151.9
+      "volume": 21914270.4
     },
     {
       "token": "INIT",
-      "price": 0.0785,
+      "price": 0.07981,
       "funding": 0.0,
-      "volume": 12960728.0
+      "volume": 10787517.0
     },
     {
       "token": "INJ",
-      "price": 2.968,
+      "price": 2.963,
       "funding": 0.0,
-      "volume": 3733.52
+      "volume": 7336.54
     },
     {
       "token": "IN",
-      "price": 0.05786,
+      "price": 0.07473,
       "funding": 0.0,
-      "volume": 3864870.0
+      "volume": 71410930.0
     },
     {
       "token": "INX",
-      "price": 0.014956,
+      "price": 0.012688,
       "funding": 0.0,
-      "volume": 2065606990.0
+      "volume": 638940510.0
     },
     {
       "token": "IOST",
-      "price": 0.0010736,
+      "price": 0.0010704,
       "funding": 0.0,
-      "volume": 297160990.0
+      "volume": 150296870.0
     },
     {
       "token": "IOTA",
-      "price": 0.05377,
+      "price": 0.05516,
       "funding": 0.0,
-      "volume": 47152979.6
+      "volume": 28296585.2
     },
     {
       "token": "IOTX",
-      "price": 0.004433,
+      "price": 0.004445,
       "funding": 0.0,
-      "volume": 11876990.0
+      "volume": 17991300.0
     },
     {
       "token": "IO",
-      "price": 0.09976,
+      "price": 0.09977,
       "funding": 0.0,
-      "volume": 3126409.7
+      "volume": 3816605.1
     },
     {
       "token": "IP",
-      "price": 0.4809,
+      "price": 0.4892,
       "funding": 0.0,
-      "volume": 10477.7
+      "volume": 3616.9
     },
     {
       "token": "IRYS",
-      "price": 0.031637,
+      "price": 0.028152,
       "funding": 0.0,
-      "volume": 267068720.0
+      "volume": 290678530.0
     },
     {
       "token": "JASMY",
-      "price": 0.005302,
+      "price": 0.005277,
       "funding": 0.0,
-      "volume": 326675241.0
+      "volume": 350708874.0
     },
     {
       "token": "JCT",
-      "price": 0.0035542,
+      "price": 0.0037468,
       "funding": 0.0,
-      "volume": 229009500.0
+      "volume": 512096600.0
     },
     {
       "token": "JELLYJELLY",
-      "price": 0.04205,
+      "price": 0.04654,
       "funding": 0.0,
-      "volume": 22223404.0
+      "volume": 79480312.0
     },
     {
       "token": "JST",
-      "price": 0.075983,
+      "price": 0.077583,
       "funding": 0.0,
-      "volume": 70244150.0
+      "volume": 32362910.0
     },
     {
       "token": "JTO",
-      "price": 0.3181,
+      "price": 0.3082,
       "funding": 0.0,
-      "volume": 45433808.7
+      "volume": 14222657.9
     },
     {
       "token": "JUP",
-      "price": 0.16508,
+      "price": 0.16439,
       "funding": 0.0,
-      "volume": 25127611.0
+      "volume": 36103396.0
     },
     {
       "token": "KAIA",
-      "price": 0.04688,
+      "price": 0.04674,
       "funding": 0.0,
-      "volume": 18614083.0
+      "volume": 13496314.0
     },
     {
       "token": "KAITO",
-      "price": 0.406,
+      "price": 0.4425,
       "funding": 0.0,
-      "volume": 5394276.0
+      "volume": 8255511.0
     },
     {
       "token": "KAS",
-      "price": 0.03198,
+      "price": 0.03223,
       "funding": 0.0,
-      "volume": 197920.0
+      "volume": 859390.0
     },
     {
       "token": "KAT",
-      "price": 0.00814,
+      "price": 0.00793,
       "funding": 0.0,
-      "volume": 127568890.0
+      "volume": 79278410.0
     },
     {
       "token": "KAVA",
-      "price": 0.05288,
+      "price": 0.05216,
       "funding": 0.0,
-      "volume": 35500954.9
+      "volume": 17115133.9
     },
     {
       "token": "KERNEL",
-      "price": 0.08384,
+      "price": 0.08294,
       "funding": 0.0,
-      "volume": 44120140.0
+      "volume": 23881487.0
     },
     {
       "token": "KGEN",
-      "price": 0.14703,
+      "price": 0.15947,
       "funding": 0.0,
-      "volume": 4735346.0
+      "volume": 3637462.0
     },
     {
       "token": "KITE",
-      "price": 0.13441,
+      "price": 0.13579,
       "funding": 0.0,
-      "volume": 56702125.0
+      "volume": 43155856.0
     },
     {
       "token": "KMNO",
-      "price": 0.02051,
+      "price": 0.0203,
       "funding": 0.0,
-      "volume": 11756740.0
+      "volume": 9724870.0
     },
     {
       "token": "KNC",
-      "price": 0.13205,
+      "price": 0.13338,
       "funding": 0.0,
-      "volume": 1438514.3
+      "volume": 1828250.8
     },
     {
       "token": "KSM",
-      "price": 4.173,
+      "price": 4.139,
       "funding": 0.0,
-      "volume": 93951.88
+      "volume": 129657.01
     },
     {
       "token": "LAB",
-      "price": 0.58718,
+      "price": 0.51108,
       "funding": 0.0,
-      "volume": 34969492.0
+      "volume": 33578764.0
     },
     {
       "token": "LA",
-      "price": 0.16145,
+      "price": 0.1573,
       "funding": 0.0,
-      "volume": 14390810.9
+      "volume": 6759762.8
     },
     {
       "token": "LDO",
-      "price": 0.3205,
+      "price": 0.346,
       "funding": 0.0,
-      "volume": 31819222.1
+      "volume": 74086826.5
     },
     {
       "token": "LIGHT",
-      "price": 0.1748,
+      "price": 0.175,
       "funding": 0.0,
-      "volume": 33683215.0
+      "volume": 23203240.0
     },
     {
       "token": "LINEA",
-      "price": 0.003267,
+      "price": 0.003293,
       "funding": 0.0,
-      "volume": 479459890.0
+      "volume": 516089620.0
     },
     {
       "token": "LINK",
-      "price": 8.981,
+      "price": 8.979,
       "funding": 0.0,
-      "volume": 12717.2
+      "volume": 10983.19
     },
     {
       "token": "LISTA",
-      "price": 0.07692,
+      "price": 0.08052,
       "funding": 0.0,
-      "volume": 2114472.0
+      "volume": 1896390.0
     },
     {
       "token": "LIT",
-      "price": 1.1085,
+      "price": 1.0585,
       "funding": 0.0,
-      "volume": 13606674.1
+      "volume": 11448214.6
     },
     {
       "token": "LPT",
-      "price": 2.05,
+      "price": 2.064,
       "funding": 0.0,
-      "volume": 586323.3
+      "volume": 826050.0
     },
     {
       "token": "LQTY",
-      "price": 0.2756,
+      "price": 0.2754,
       "funding": 0.0,
-      "volume": 272127.7
+      "volume": 324166.2
     },
     {
       "token": "LRC",
-      "price": 0.01599,
+      "price": 0.01595,
       "funding": 0.0,
-      "volume": 18618735.6
+      "volume": 15772754.2
     },
     {
       "token": "LSK",
-      "price": 0.1255,
+      "price": 0.12474,
       "funding": 0.0,
-      "volume": 1485601.8
+      "volume": 2480066.7
     },
     {
       "token": "LTC",
-      "price": 53.44,
+      "price": 54.39,
       "funding": 0.0,
-      "volume": 964.9
+      "volume": 1376.7
     },
     {
       "token": "LUMIA",
-      "price": 0.08486,
+      "price": 0.08595,
       "funding": 0.0,
-      "volume": 2677561.7
+      "volume": 1751807.7
     },
     {
       "token": "LUNA2",
-      "price": 0.05465,
+      "price": 0.05432,
       "funding": 0.0,
-      "volume": 8804425.9
+      "volume": 6991479.4
     },
     {
       "token": "LYN",
-      "price": 0.04801,
+      "price": 0.05123,
       "funding": 0.0,
-      "volume": 37422827.0
+      "volume": 70104744.0
     },
     {
       "token": "MAGIC",
-      "price": 0.06041,
+      "price": 0.06021,
       "funding": 0.0,
-      "volume": 15749646.0
+      "volume": 15106067.0
     },
     {
       "token": "MAGMA",
-      "price": 0.20616,
+      "price": 0.19009,
       "funding": 0.0,
-      "volume": 24373234.0
+      "volume": 18108892.0
     },
     {
       "token": "MANA",
-      "price": 0.08667,
+      "price": 0.08565,
       "funding": 0.0,
-      "volume": 9740417.6
+      "volume": 14457554.4
     },
     {
       "token": "MANTA",
-      "price": 0.06382,
+      "price": 0.06419,
       "funding": 0.0,
-      "volume": 5999196.5
+      "volume": 4895611.3
     },
     {
       "token": "MASK",
-      "price": 0.4262,
+      "price": 0.4297,
       "funding": 0.0,
-      "volume": 745957.5
+      "volume": 1983093.5
     },
     {
       "token": "MAVIA",
-      "price": 0.03007,
+      "price": 0.03147,
       "funding": 0.0,
-      "volume": 24449692.1
+      "volume": 42921444.1
     },
     {
       "token": "MAV",
-      "price": 0.014388,
+      "price": 0.014013,
       "funding": 0.0,
-      "volume": 13305212.0
+      "volume": 12726661.0
     },
     {
       "token": "MBOX",
-      "price": 0.011429,
+      "price": 0.010629,
       "funding": 0.0,
-      "volume": 9796290.0
+      "volume": 52818961.0
     },
     {
       "token": "MELANIA",
-      "price": 0.10047,
+      "price": 0.10097,
       "funding": 0.0,
-      "volume": 8296905.6
+      "volume": 14491299.2
     },
     {
       "token": "MEME",
-      "price": 0.000515,
+      "price": 0.0005109,
       "funding": 0.0,
-      "volume": 1305717590.0
+      "volume": 1591282370.0
     },
     {
       "token": "MERL",
-      "price": 0.02529,
+      "price": 0.02754,
       "funding": 0.0,
-      "volume": 2890610.0
+      "volume": 854060.0
     },
     {
       "token": "METIS",
-      "price": 2.996,
+      "price": 3.036,
       "funding": 0.0,
-      "volume": 127794.05
+      "volume": 69482.76
     },
     {
       "token": "MET",
-      "price": 0.13757,
+      "price": 0.13408,
       "funding": 0.0,
-      "volume": 9777201.7
+      "volume": 8519597.5
     },
     {
       "token": "ME",
-      "price": 0.10313,
+      "price": 0.10069,
       "funding": 0.0,
-      "volume": 9624755.0
+      "volume": 13418183.0
     },
     {
       "token": "MEW",
-      "price": 0.0005761,
+      "price": 0.0005641,
       "funding": 0.0,
-      "volume": 1232279900.0
+      "volume": 1375215000.0
     },
     {
       "token": "MINA",
-      "price": 0.05655,
+      "price": 0.05671,
       "funding": 0.0,
-      "volume": 8390104.8
+      "volume": 8665621.7
     },
     {
       "token": "MIRA",
-      "price": 0.08211,
+      "price": 0.0813,
       "funding": 0.0,
-      "volume": 9401307.4
+      "volume": 7542969.8
     },
     {
       "token": "MITO",
-      "price": 0.03512,
+      "price": 0.03525,
       "funding": 0.0,
-      "volume": 29706393.0
+      "volume": 6626249.0
     },
     {
       "token": "MLN",
-      "price": 3.315,
+      "price": 3.066,
       "funding": 0.0,
-      "volume": 116802.3
+      "volume": 450401.1
     },
     {
       "token": "MMT",
-      "price": 0.12789,
+      "price": 0.13416,
       "funding": 0.0,
-      "volume": 24847617.0
+      "volume": 52801140.0
     },
     {
       "token": "MNT",
-      "price": 0.6697,
+      "price": 0.656,
       "funding": 0.0,
-      "volume": 82148.1
+      "volume": 235839.8
     },
     {
       "token": "MOCA",
-      "price": 0.012807,
+      "price": 0.012792,
       "funding": 0.0,
-      "volume": 22500539.0
+      "volume": 21822204.0
     },
     {
       "token": "MON",
-      "price": 0.034104,
+      "price": 0.034754,
       "funding": 0.0,
-      "volume": 751505445.0
+      "volume": 853456354.0
     },
     {
       "token": "MOODENG",
-      "price": 0.04975,
+      "price": 0.04997,
       "funding": 0.0,
-      "volume": 3188130.0
+      "volume": 1100270.0
     },
     {
       "token": "MORPHO",
-      "price": 1.7069,
+      "price": 1.7319,
       "funding": 0.0,
-      "volume": 1253593.0
+      "volume": 1245737.0
     },
     {
       "token": "MOVE",
-      "price": 0.017,
+      "price": 0.01681,
       "funding": 0.0,
-      "volume": 54271896.0
+      "volume": 57749785.0
     },
     {
       "token": "MOVR",
-      "price": 1.1613,
+      "price": 1.1886,
       "funding": 0.0,
-      "volume": 127605.9
+      "volume": 133788.4
     },
     {
       "token": "MTL",
-      "price": 0.2829,
+      "price": 0.2845,
       "funding": 0.0,
-      "volume": 141551.5
+      "volume": 222652.8
     },
     {
       "token": "MUBARAK",
-      "price": 0.013222,
+      "price": 0.013276,
       "funding": 0.0,
-      "volume": 107598239.0
+      "volume": 95400030.0
     },
     {
       "token": "M",
-      "price": 2.7741,
+      "price": 2.879,
       "funding": 0.0,
-      "volume": 3866266.0
+      "volume": 3740306.0
     },
     {
       "token": "MYX",
-      "price": 0.2109,
+      "price": 0.2779,
       "funding": 0.0,
-      "volume": 10899081.0
+      "volume": 311641077.0
     },
     {
       "token": "NAORIS",
-      "price": 0.061089,
+      "price": 0.05311,
       "funding": 0.0,
-      "volume": 17477780.0
+      "volume": 14024300.0
     },
     {
       "token": "NEAR",
-      "price": 1.3896,
+      "price": 1.3678,
       "funding": 0.0,
-      "volume": 41111490.2
+      "volume": 36886918.7
     },
     {
       "token": "NEO",
-      "price": 2.775,
+      "price": 2.824,
       "funding": 0.0,
-      "volume": 338821.22
+      "volume": 481636.23
     },
     {
       "token": "NEWT",
-      "price": 0.06945,
+      "price": 0.06983,
       "funding": 0.0,
-      "volume": 14464986.0
+      "volume": 7152043.0
     },
     {
       "token": "NIGHT",
-      "price": 0.03899,
+      "price": 0.03551,
       "funding": 0.0,
-      "volume": 1518890.0
+      "volume": 2012240.0
     },
     {
       "token": "NIL",
-      "price": 0.03282,
+      "price": 0.03459,
       "funding": 0.0,
-      "volume": 5385172.0
+      "volume": 17810191.0
     },
     {
       "token": "NMR",
-      "price": 8.462,
+      "price": 8.508,
       "funding": 0.0,
-      "volume": 65480.7
+      "volume": 67415.2
     },
     {
       "token": "NOM",
-      "price": 0.003484,
+      "price": 0.00343,
       "funding": 0.0,
-      "volume": 2517353560.0
+      "volume": 2646330120.0
     },
     {
       "token": "NOT",
-      "price": 0.0003619,
+      "price": 0.0003573,
       "funding": 0.0,
-      "volume": 73626700.0
+      "volume": 76802000.0
     },
     {
       "token": "NXPC",
-      "price": 0.2754,
+      "price": 0.2785,
       "funding": 0.0,
-      "volume": 960102.2
+      "volume": 851083.0
     },
     {
       "token": "OGN",
-      "price": 0.021324,
+      "price": 0.02122,
       "funding": 0.0,
-      "volume": 6203310.0
+      "volume": 8227436.0
     },
     {
       "token": "OG",
-      "price": 2.654,
+      "price": 3.268,
       "funding": 0.0,
-      "volume": 106877.6
+      "volume": 299124.9
     },
     {
       "token": "OKB",
-      "price": 83.47,
+      "price": 85.84,
       "funding": 0.0,
-      "volume": 1875.68
+      "volume": 9097.86
     },
     {
       "token": "OL",
-      "price": 0.006883,
+      "price": 0.006712,
       "funding": 0.0,
-      "volume": 7773646.0
+      "volume": 9957217.0
     },
     {
       "token": "ONDO",
-      "price": 0.2517,
+      "price": 0.2501,
       "funding": 0.0,
-      "volume": 65033.0
+      "volume": 179982.0
     },
     {
       "token": "ONG",
-      "price": 0.08742,
+      "price": 0.08312,
       "funding": 0.0,
-      "volume": 43554172.0
+      "volume": 24310414.0
     },
     {
       "token": "ONT",
-      "price": 0.08155,
+      "price": 0.07743,
       "funding": 0.0,
-      "volume": 73206275.0
+      "volume": 60261479.0
     },
     {
       "token": "OPEN",
-      "price": 0.19279,
+      "price": 0.20483,
       "funding": 0.0,
-      "volume": 7280108.0
+      "volume": 22574859.0
     },
     {
       "token": "OPN",
-      "price": 0.1534,
+      "price": 0.1563,
       "funding": 0.0,
-      "volume": 13404893.0
+      "volume": 14373485.0
     },
     {
       "token": "OP",
-      "price": 0.11082,
+      "price": 0.11078,
       "funding": 0.0,
-      "volume": 35474.0
+      "volume": 100358.0
     },
     {
       "token": "ORBS",
-      "price": 0.008937,
+      "price": 0.008866,
       "funding": 0.0,
-      "volume": 69212480.0
+      "volume": 62616170.0
     },
     {
       "token": "ORCA",
-      "price": 0.8833,
+      "price": 0.8816,
       "funding": 0.0,
-      "volume": 389472.4
+      "volume": 427826.2
     },
     {
       "token": "ORDER",
-      "price": 0.05639,
+      "price": 0.05967,
       "funding": 0.0,
-      "volume": 29397789.0
+      "volume": 87715876.0
     },
     {
       "token": "ORDI",
-      "price": 2.48,
+      "price": 2.409,
       "funding": 0.0,
-      "volume": 8770.67
+      "volume": 9217.38
     },
     {
       "token": "OXT",
-      "price": 0.010513,
+      "price": 0.011034,
       "funding": 0.0,
-      "volume": 20663960.0
+      "volume": 28546910.0
     },
     {
       "token": "PARTI",
-      "price": 0.04551,
+      "price": 0.04249,
       "funding": 0.0,
-      "volume": 60336466.0
+      "volume": 34314841.0
     },
     {
       "token": "PAXG",
-      "price": 4733.0,
+      "price": 4827.1,
       "funding": 0.0,
-      "volume": 7.594
+      "volume": 6.626
     },
     {
       "token": "PEAQ",
-      "price": 0.012965,
+      "price": 0.01364,
       "funding": 0.0,
-      "volume": 14094421.0
+      "volume": 16399403.0
     },
     {
       "token": "PENDLE",
-      "price": 1.0676,
+      "price": 1.0379,
       "funding": 0.0,
-      "volume": 38113.6
+      "volume": 50167.0
     },
     {
       "token": "PENGU",
-      "price": 0.006736,
+      "price": 0.006772,
       "funding": 0.0,
-      "volume": 2625520.0
+      "volume": 7166440.0
     },
     {
       "token": "PEOPLE",
-      "price": 0.006824,
+      "price": 0.00709,
       "funding": 0.0,
-      "volume": 98637819.0
+      "volume": 364059293.0
     },
     {
       "token": "PHA",
-      "price": 0.04001,
+      "price": 0.03699,
       "funding": 0.0,
-      "volume": 15345200.0
+      "volume": 12753103.0
     },
     {
       "token": "PIEVERSE",
-      "price": 0.4247,
+      "price": 0.4328,
       "funding": 0.0,
-      "volume": 7130852.0
+      "volume": 4163515.0
     },
     {
       "token": "PIPPIN",
-      "price": 0.02661,
+      "price": 0.02614,
       "funding": 0.0,
-      "volume": 432094462.0
+      "volume": 355301636.0
     },
     {
       "token": "PIXEL",
-      "price": 0.007741,
+      "price": 0.008112,
       "funding": 0.0,
-      "volume": 413485194.0
+      "volume": 535512136.0
     },
     {
       "token": "PLAYSOUT",
-      "price": 0.10181,
+      "price": 0.10362,
       "funding": 0.0,
-      "volume": 28330520.0
+      "volume": 46553560.0
     },
     {
       "token": "PLUME",
-      "price": 0.010949,
+      "price": 0.011689,
       "funding": 0.0,
-      "volume": 623806853.0
+      "volume": 1158593749.0
     },
     {
       "token": "PNUT",
-      "price": 0.04196,
+      "price": 0.04353,
       "funding": 0.0,
-      "volume": 182156.0
+      "volume": 829034.0
     },
     {
       "token": "POL",
-      "price": 0.08354,
+      "price": 0.08291,
       "funding": 0.0,
-      "volume": 373084.0
+      "volume": 446147.0
     },
     {
       "token": "POLYX",
-      "price": 0.04889,
+      "price": 0.05188,
       "funding": 0.0,
-      "volume": 8829964.0
+      "volume": 44593295.0
     },
     {
       "token": "POPCAT",
-      "price": 0.05076,
+      "price": 0.05017,
       "funding": 0.0,
-      "volume": 40967.0
+      "volume": 217838.0
     },
     {
       "token": "PORTAL",
-      "price": 0.007972,
+      "price": 0.008409,
       "funding": 0.0,
-      "volume": 24798702.3
+      "volume": 31911427.4
     },
     {
       "token": "POWER",
-      "price": 0.08435,
+      "price": 0.0929,
       "funding": 0.0,
-      "volume": 39431677.0
+      "volume": 69683326.0
     },
     {
       "token": "POWR",
-      "price": 0.0658,
+      "price": 0.06543,
       "funding": 0.0,
-      "volume": 1090234.0
+      "volume": 1896657.0
     },
     {
       "token": "PRL",
-      "price": 0.1743,
+      "price": 0.1764,
       "funding": 0.0,
-      "volume": 9361399.0
+      "volume": 6756355.0
     },
     {
       "token": "PROMPT",
-      "price": 0.03035,
+      "price": 0.03136,
       "funding": 0.0,
-      "volume": 2657600.0
+      "volume": 12601241.0
     },
     {
       "token": "PROM",
-      "price": 1.3849,
+      "price": 1.3677,
       "funding": 0.0,
-      "volume": 1000044.4
+      "volume": 654867.6
     },
     {
       "token": "PROVE",
-      "price": 0.2218,
+      "price": 0.2241,
       "funding": 0.0,
-      "volume": 1402151.0
+      "volume": 1250322.0
     },
     {
       "token": "PTB",
-      "price": 0.0009054,
+      "price": 0.001108,
       "funding": 0.0,
-      "volume": 737702050.0
+      "volume": 5455528770.0
     },
     {
       "token": "PUFFER",
-      "price": 0.02467,
+      "price": 0.02425,
       "funding": 0.0,
-      "volume": 8381569.0
+      "volume": 10461789.0
     },
     {
       "token": "PUMPBTC",
-      "price": 0.0216,
+      "price": 0.019872,
       "funding": 0.0,
-      "volume": 141253280.0
+      "volume": 94193380.0
     },
     {
       "token": "PUMPFUN",
-      "price": 0.0018477,
+      "price": 0.0018316,
       "funding": 0.0,
-      "volume": 3532200.0
+      "volume": 2972800.0
     },
     {
       "token": "PUNDIX",
-      "price": 0.14478,
+      "price": 0.14507,
       "funding": 0.0,
-      "volume": 441714.0
+      "volume": 432822.0
     },
     {
       "token": "PYR",
       "price": 0.259,
       "funding": 0.0,
-      "volume": 911379.0
+      "volume": 358540.0
     },
     {
       "token": "PYTH",
-      "price": 0.04298,
+      "price": 0.04268,
       "funding": 0.0,
-      "volume": 56379160.0
+      "volume": 82576994.0
     },
     {
       "token": "QNT",
-      "price": 74.72,
+      "price": 74.06,
       "funding": 0.0,
-      "volume": 7135.28
+      "volume": 10448.48
     },
     {
       "token": "QTUM",
-      "price": 0.8907,
+      "price": 0.8944,
       "funding": 0.0,
-      "volume": 259363.7
+      "volume": 375695.5
     },
     {
       "token": "Q",
-      "price": 0.008984,
+      "price": 0.008928,
       "funding": 0.0,
-      "volume": 93629180.0
+      "volume": 76297870.0
     },
     {
       "token": "RARE",
-      "price": 0.014823,
+      "price": 0.014762,
       "funding": 0.0,
-      "volume": 5668862.0
+      "volume": 4150856.0
     },
     {
       "token": "RAVE",
-      "price": 10.63334,
+      "price": 15.44002,
       "funding": 0.0,
-      "volume": 143780887.0
+      "volume": 107735635.0
     },
     {
       "token": "RAYDIUM",
-      "price": 0.6407,
+      "price": 0.6434,
       "funding": 0.0,
-      "volume": 457904.5
+      "volume": 857751.0
     },
     {
       "token": "RDNT",
-      "price": 0.002088,
+      "price": 0.00203,
       "funding": 0.0,
-      "volume": 114774681.0
+      "volume": 302847659.0
     },
     {
       "token": "RECALL",
-      "price": 0.0471,
+      "price": 0.04691,
       "funding": 0.0,
-      "volume": 25756389.0
+      "volume": 15802243.0
     },
     {
       "token": "RED",
-      "price": 0.14159,
+      "price": 0.1379,
       "funding": 0.0,
-      "volume": 50093729.0
+      "volume": 33887784.0
     },
     {
       "token": "RENDER",
-      "price": 1.8856,
+      "price": 1.8341,
       "funding": 0.0,
-      "volume": 5600031.5
+      "volume": 7680170.3
     },
     {
       "token": "REQ",
-      "price": 0.06637,
+      "price": 0.06607,
       "funding": 0.0,
-      "volume": 2472735.0
+      "volume": 1659437.0
     },
     {
       "token": "RESOLV",
-      "price": 0.03946,
+      "price": 0.0351,
       "funding": 0.0,
-      "volume": 390946.0
+      "volume": 954431.0
     },
     {
       "token": "REZ",
-      "price": 0.003581,
+      "price": 0.003612,
       "funding": 0.0,
-      "volume": 110648791.0
+      "volume": 94923768.0
     },
     {
       "token": "RIVER",
-      "price": 7.241,
+      "price": 8.833,
       "funding": 0.0,
-      "volume": 4388445.7
+      "volume": 5424088.4
     },
     {
       "token": "RLC",
-      "price": 0.4108,
+      "price": 0.4118,
       "funding": 0.0,
-      "volume": 175578.2
+      "volume": 208169.0
     },
     {
       "token": "RLS",
-      "price": 0.002482,
+      "price": 0.003001,
       "funding": 0.0,
-      "volume": 68432960.0
+      "volume": 563194240.0
     },
     {
       "token": "RLUSD",
-      "price": 0.999,
+      "price": 0.9991,
       "funding": 0.0,
-      "volume": 43122.0
+      "volume": 20965.0
     },
     {
       "token": "ROAM",
-      "price": 0.020092,
+      "price": 0.018994,
       "funding": 0.0,
-      "volume": 9595707.0
+      "volume": 20053189.0
     },
     {
       "token": "ROBO",
-      "price": 0.02058,
+      "price": 0.01933,
       "funding": 0.0,
-      "volume": 233184170.0
+      "volume": 125663460.0
     },
     {
       "token": "RONIN",
-      "price": 0.08616,
+      "price": 0.08898,
       "funding": 0.0,
-      "volume": 453338.0
+      "volume": 1390044.9
     },
     {
       "token": "ROSE",
-      "price": 0.01068,
+      "price": 0.010469,
       "funding": 0.0,
-      "volume": 92508486.0
+      "volume": 88854283.0
     },
     {
       "token": "RPL",
-      "price": 1.75,
+      "price": 1.779,
       "funding": 0.0,
-      "volume": 34560.06
+      "volume": 119941.41
     },
     {
       "token": "RSR",
-      "price": 0.0014834,
+      "price": 0.0014918,
       "funding": 0.0,
-      "volume": 88137550.0
+      "volume": 208249790.0
     },
     {
       "token": "RUNE",
-      "price": 0.3975,
+      "price": 0.4011,
       "funding": 0.0,
-      "volume": 1324037.4
+      "volume": 1981834.2
     },
     {
       "token": "RVN",
-      "price": 0.005663,
+      "price": 0.00561,
       "funding": 0.0,
-      "volume": 73719244.0
+      "volume": 42704275.0
     },
     {
       "token": "SAFE",
-      "price": 0.14775,
+      "price": 0.14674,
       "funding": 0.0,
-      "volume": 21882031.0
+      "volume": 14256314.3
     },
     {
       "token": "SAGA",
-      "price": 0.02758,
+      "price": 0.02716,
       "funding": 0.0,
-      "volume": 4852406.8
+      "volume": 9359982.1
     },
     {
       "token": "SAHARA",
-      "price": 0.022009,
+      "price": 0.022297,
       "funding": 0.0,
-      "volume": 960870.0
+      "volume": 1289090.0
     },
     {
       "token": "SAND",
-      "price": 0.07623,
+      "price": 0.07596,
       "funding": 0.0,
-      "volume": 36692467.0
+      "volume": 68524168.0
     },
     {
       "token": "SAPIEN",
-      "price": 0.07308,
+      "price": 0.07719,
       "funding": 0.0,
-      "volume": 5316446.0
+      "volume": 4175906.0
     },
     {
       "token": "SCRT",
-      "price": 0.09217,
+      "price": 0.08744,
       "funding": 0.0,
-      "volume": 2136824.1
+      "volume": 2250119.8
     },
     {
       "token": "SCR",
-      "price": 0.04086,
+      "price": 0.04281,
       "funding": 0.0,
-      "volume": 2128888.5
+      "volume": 5929670.0
     },
     {
       "token": "SC",
-      "price": 0.000948,
+      "price": 0.0009439,
       "funding": 0.0,
-      "volume": 179665660.0
+      "volume": 126470130.0
     },
     {
       "token": "SEI",
-      "price": 0.05475,
+      "price": 0.05418,
       "funding": 0.0,
-      "volume": 2033373.0
+      "volume": 8883110.0
     },
     {
       "token": "SENT",
-      "price": 0.015686,
+      "price": 0.01532,
       "funding": 0.0,
-      "volume": 82678640.0
+      "volume": 64767800.0
     },
     {
       "token": "SHELL",
-      "price": 0.02866,
+      "price": 0.02908,
       "funding": 0.0,
-      "volume": 4161745.0
+      "volume": 8022296.0
     },
     {
       "token": "SHIB1000",
-      "price": 0.005826,
+      "price": 0.005809,
       "funding": 0.0,
-      "volume": 8583350.0
+      "volume": 5173050.0
     },
     {
       "token": "SIGN",
-      "price": 0.03109,
+      "price": 0.02822,
       "funding": 0.0,
-      "volume": 123905150.0
+      "volume": 222355520.0
     },
     {
       "token": "SIREN",
-      "price": 0.81073,
+      "price": 0.69143,
       "funding": 0.0,
-      "volume": 22638574.0
+      "volume": 26348802.0
     },
     {
       "token": "SKL",
-      "price": 0.006366,
+      "price": 0.006272,
       "funding": 0.0,
-      "volume": 29075945.0
+      "volume": 25192819.0
     },
     {
       "token": "SKR",
-      "price": 0.016556,
+      "price": 0.016093,
       "funding": 0.0,
-      "volume": 73023840.0
+      "volume": 50751360.0
     },
     {
       "token": "SKY",
-      "price": 0.07416,
+      "price": 0.07438,
       "funding": 0.0,
-      "volume": 20765110.0
+      "volume": 23324170.0
     },
     {
       "token": "SLP",
-      "price": 0.0006025,
+      "price": 0.0006084,
       "funding": 0.0,
-      "volume": 135807430.0
+      "volume": 185747670.0
     },
     {
       "token": "SNT",
-      "price": 0.009857,
+      "price": 0.009812,
       "funding": 0.0,
-      "volume": 12801610.0
+      "volume": 10204890.0
     },
     {
       "token": "SNX",
-      "price": 0.2853,
+      "price": 0.2831,
       "funding": 0.0,
-      "volume": 6749880.3
+      "volume": 8120825.7
     },
     {
       "token": "SOLAYER",
-      "price": 0.08138,
+      "price": 0.08089,
       "funding": 0.0,
-      "volume": 5521208.0
+      "volume": 4883436.0
     },
     {
       "token": "SOL",
-      "price": 84.09,
+      "price": 84.26,
       "funding": 0.0,
-      "volume": 69703.6
+      "volume": 117344.8
     },
     {
       "token": "SOLV",
-      "price": 0.004248,
+      "price": 0.004238,
       "funding": 0.0,
-      "volume": 538087111.0
+      "volume": 343527766.0
     },
     {
       "token": "SOMI",
-      "price": 0.16463,
+      "price": 0.16566,
       "funding": 0.0,
-      "volume": 4802022.6
+      "volume": 5485117.8
     },
     {
       "token": "SONIC",
-      "price": 0.03507,
+      "price": 0.03515,
       "funding": 0.0,
-      "volume": 10113556.0
+      "volume": 19322860.0
     }
   ],
-  "last_update": "2026-04-13T23:40:07.876205"
+  "last_update": "2026-04-14T22:06:43.008006"
 }
