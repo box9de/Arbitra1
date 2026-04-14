@@ -2,1984 +2,3316 @@
   "spot": [
     {
       "pair": "BTC/USDT",
-      "price": 74302.5,
-      "volume": 794620616.0505923
+      "price": 74024.1,
+      "change24h": 1.1196033030756305,
+      "volume": 748453734.9161607,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ETH/USDT",
-      "price": 2321.2,
-      "volume": 719953395.8448625
+      "price": 2319.62,
+      "change24h": 2.750806194408023,
+      "volume": 676047478.531018,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "OKB/USDT",
-      "price": 85.84,
-      "volume": 8605399.16985421
+      "price": 84.99,
+      "change24h": 1.5290885198900968,
+      "volume": 8844233.15282599,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "SOL/USDT",
-      "price": 84.29,
-      "volume": 140168057.65236494
+      "price": 83.7,
+      "change24h": -0.2621544327931363,
+      "volume": 132225571.67835177,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "DOGE/USDT",
-      "price": 0.09327,
-      "volume": 105175600.79614164
+      "price": 0.09321,
+      "change24h": 0.5935678825814806,
+      "volume": 101461749.45260325,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "XRP/USDT",
-      "price": 1.3574,
-      "volume": 35071863.036531575
+      "price": 1.3594,
+      "change24h": 0.6143142624528162,
+      "volume": 33645472.243530676,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "BCH/USDT",
-      "price": 435.9,
-      "volume": 2656756.3085733
+      "price": 436.1,
+      "change24h": 1.631321370309951,
+      "volume": 2691749.2358972,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "PUMP/USDT",
-      "price": 0.00184,
-      "volume": 3682470.6594
+      "price": 0.00183,
+      "change24h": -0.92041147807255,
+      "volume": 3541186.949626,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "WLFI/USDT",
-      "price": 0.08078,
-      "volume": 4864612.8005334
+      "price": 0.08026,
+      "change24h": 0.6268806419257773,
+      "volume": 4943273.0648947,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "LINEA/USDT",
-      "price": 0.003292,
-      "volume": 408113.2033714
+      "price": 0.003295,
+      "change24h": 0.1519756838905775,
+      "volume": 380354.8036117,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "1INCH/USDT",
-      "price": 0.09331,
-      "volume": 163169.79747159148
+      "price": 0.09327,
+      "change24h": 0.3766681015927679,
+      "volume": 177322.62914283,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "2Z/USDT",
-      "price": 0.07826,
-      "volume": 54847.5969776
+      "price": 0.07848,
+      "change24h": -0.3048780487804878,
+      "volume": 50915.3211428,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "A/USDT",
-      "price": 0.07768,
-      "volume": 194177.3490831
+      "price": 0.07772,
+      "change24h": -0.7787565428316098,
+      "volume": 198029.7915359,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "AAVE/USDT",
-      "price": 98.25,
-      "volume": 4348024.35078102
+      "price": 98.51,
+      "change24h": 1.546232347180703,
+      "volume": 4310956.74252434,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ACE/USDT",
-      "price": 0.115,
-      "volume": 30468.42801142
+      "price": 0.1148,
+      "change24h": 3.5166816952209197,
+      "volume": 33922.71792396,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ACH/USDT",
-      "price": 0.005949,
-      "volume": 67321.8892038
+      "price": 0.00596,
+      "change24h": -2.070325336838646,
+      "volume": 65127.36362808,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ACT/USDT",
-      "price": 0.01289,
-      "volume": 657107.46607929
+      "price": 0.01297,
+      "change24h": -1.518602885345482,
+      "volume": 609171.76388117,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ADA/USDT",
-      "price": 0.241,
-      "volume": 12090474.34125754
+      "price": 0.2404,
+      "change24h": 0.0832639467110741,
+      "volume": 11604855.92581039,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "AERGO/USDT",
-      "price": 0.05404,
-      "volume": 49703.43137759384
+      "price": 0.05439,
+      "change24h": 0.1473025225556987,
+      "volume": 49206.69264471803,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "AEVO/USDT",
-      "price": 0.02262,
-      "volume": 57336.847107577
+      "price": 0.02273,
+      "change24h": 0.3975265017667844,
+      "volume": 52987.588362315,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "AGLD/USDT",
-      "price": 0.2456,
-      "volume": 63073.9303107365
+      "price": 0.2463,
+      "change24h": -1.48,
+      "volume": 61020.9534177386,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "AIXBT/USDT",
-      "price": 0.02398,
-      "volume": 228171.25111833
+      "price": 0.02387,
+      "change24h": -1.7695473251028806,
+      "volume": 220199.02130931,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ALGO/USDT",
-      "price": 0.10691,
-      "volume": 1227431.3631655492
+      "price": 0.10752,
+      "change24h": 2.821076790666539,
+      "volume": 1187760.926519833,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ALLO/USDT",
-      "price": 0.1098,
-      "volume": 286479.186206
+      "price": 0.10998,
+      "change24h": -3.880440482433141,
+      "volume": 255429.144533,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ANIME/USDT",
-      "price": 0.004571,
-      "volume": 75589.72910855
+      "price": 0.004583,
+      "change24h": -0.3262287951283166,
+      "volume": 75276.81726058,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "APE/USDT",
-      "price": 0.08706,
-      "volume": 217531.7992137614
+      "price": 0.08747,
+      "change24h": -0.3758542141230068,
+      "volume": 205614.14490379632,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "API3/USDT",
-      "price": 0.2801,
-      "volume": 58188.6529829255
+      "price": 0.2809,
+      "change24h": -0.4606661941885187,
+      "volume": 59941.2152978244,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "APT/USDT",
-      "price": 0.8553,
-      "volume": 1513223.93826206
+      "price": 0.8585,
+      "change24h": 0.3272174827626504,
+      "volume": 1378211.31927698,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "AR/USDT",
-      "price": 1.74,
-      "volume": 623933.482274499
+      "price": 1.737,
+      "change24h": -0.7428571428571428,
+      "volume": 610091.07297243,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ARB/USDT",
-      "price": 0.11002,
-      "volume": 1247339.948786053
+      "price": 0.11018,
+      "change24h": -1.2192935269858347,
+      "volume": 1226663.964835418,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ARG/USDT",
-      "price": 0.6484,
-      "volume": 126676.72276053
+      "price": 0.6429,
+      "change24h": -2.561382237041528,
+      "volume": 180109.08915783,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ARKM/USDT",
-      "price": 0.09878,
-      "volume": 219565.90533244
+      "price": 0.09918,
+      "change24h": -0.221327967806841,
+      "volume": 202877.90874528,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ASP/USDT",
-      "price": 0.02688,
-      "volume": 136749.6789633
+      "price": 0.0265,
+      "change24h": 1.5325670498084292,
+      "volume": 138404.8867427,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ASTR/USDT",
-      "price": 0.007451,
-      "volume": 19949.31373405466
+      "price": 0.007474,
+      "change24h": -2.7709119292311697,
+      "volume": 19240.245858370745,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ASTER/USDT",
-      "price": 0.6632,
-      "volume": 2308718.8467701
+      "price": 0.6662,
+      "change24h": -0.5968367651447329,
+      "volume": 2288607.2236977,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ATH/USDT",
-      "price": 0.006086,
-      "volume": 723918.6223309
+      "price": 0.006015,
+      "change24h": -7.13293191292265,
+      "volume": 689262.8414814,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ATOM/USDT",
-      "price": 1.743,
-      "volume": 292163.633139986
+      "price": 1.746,
+      "change24h": 0.1146788990825688,
+      "volume": 260130.339185294,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "AUCTION/USDT",
-      "price": 4.718,
-      "volume": 185204.629363767
+      "price": 4.753,
+      "change24h": 0.7631969472122111,
+      "volume": 181878.090564546,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "AVAX/USDT",
-      "price": 9.291,
-      "volume": 5831771.425838327
+      "price": 9.358,
+      "change24h": 0.5047792933089893,
+      "volume": 5223094.888646063,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "AVNT/USDT",
       "price": 0.1296,
-      "volume": 353571.308765
+      "change24h": -3.5714285714285716,
+      "volume": 359165.9181613,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "AXS/USDT",
-      "price": 1.0935,
-      "volume": 1334577.1661037141
+      "price": 1.0968,
+      "change24h": 1.162147205312673,
+      "volume": 1247176.9107843747,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "BABYDOGE/USDT",
-      "price": 3.93e-10,
-      "volume": 74952.80262887836
+      "price": 3.94e-10,
+      "change24h": -0.7556675062972292,
+      "volume": 73777.95207663458,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "BABY/USDT",
-      "price": 0.01447,
-      "volume": 369460.455106
+      "price": 0.01428,
+      "change24h": -0.6954102920723226,
+      "volume": 365934.922767,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "BAND/USDT",
-      "price": 0.2022,
-      "volume": 20802.0893453041
+      "price": 0.2011,
+      "change24h": -1.373222167729279,
+      "volume": 17985.6193724798,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "BANANA/USDT",
-      "price": 3.502,
-      "volume": 9655.8954561
+      "price": 3.497,
+      "change24h": 0.749063670411985,
+      "volume": 9697.6819652,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "BARD/USDT",
-      "price": 0.3162,
-      "volume": 127179.710183
+      "price": 0.3117,
+      "change24h": -6.114457831325301,
+      "volume": 129779.428124,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "BASED/USDT",
-      "price": 0.06946,
-      "volume": 272655055.7101336
+      "price": 0.07086,
+      "change24h": 9.945694336695112,
+      "volume": 255104203.0705397,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "BAT/USDT",
-      "price": 0.09519,
-      "volume": 102396.11524493038
+      "price": 0.09512,
+      "change24h": -0.4708590561891807,
+      "volume": 103149.65641849833,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "BERA/USDT",
-      "price": 0.4001,
-      "volume": 419332.5019393
+      "price": 0.4009,
+      "change24h": -2.5285679552637976,
+      "volume": 406045.8783633,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "BETH/USDT",
-      "price": 2320.0,
-      "volume": 1803631.2636144
+      "price": 2319.9,
+      "change24h": 2.4419323500839,
+      "volume": 1768209.6899302,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "BICO/USDT",
-      "price": 0.02074,
-      "volume": 45136.06105514942
+      "price": 0.02062,
+      "change24h": -1.9029495718363463,
+      "volume": 47459.93920764221,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "BIGTIME/USDT",
-      "price": 0.01244,
-      "volume": 141572.5857041
+      "price": 0.01243,
+      "change24h": -2.586206896551724,
+      "volume": 123814.2057399,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "BIO/USDT",
-      "price": 0.01982,
-      "volume": 2913543.46919099
+      "price": 0.01936,
+      "change24h": 4.198062432723359,
+      "volume": 2983171.27047329,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "BLUR/USDT",
-      "price": 0.02062,
-      "volume": 672979.493001652
+      "price": 0.02037,
+      "change24h": -4.3212775951150775,
+      "volume": 587205.539714947,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "BNB/USDT",
-      "price": 614.6,
-      "volume": 8937808.4494145
+      "price": 615.0,
+      "change24h": 1.1014302153542659,
+      "volume": 8833397.6812146,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "BNT/USDT",
       "price": 0.3072,
-      "volume": 4884.3706137375
+      "change24h": 3.6787040161997977,
+      "volume": 4833.71323238,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "BOME/USDT",
-      "price": 0.000408,
-      "volume": 317351.3573417
+      "price": 0.0004092,
+      "change24h": -3.2624113475177303,
+      "volume": 306532.4476876,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "BONK/USDT",
-      "price": 5.812e-06,
-      "volume": 2427881.115789802
+      "price": 5.836e-06,
+      "change24h": 0.5167068549776093,
+      "volume": 2393656.823928745,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "BREV/USDT",
-      "price": 0.1194,
-      "volume": 178836.30736
+      "price": 0.1207,
+      "change24h": -2.58272800645682,
+      "volume": 187659.092025,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "BRL1/USDT",
       "price": 0.1998,
-      "volume": 99375.953095
+      "change24h": 0.1002004008016032,
+      "volume": 78241.079474,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "CATI/USDT",
-      "price": 0.0487,
-      "volume": 215307.0843651
+      "price": 0.04728,
+      "change24h": 0.9393680614859093,
+      "volume": 219764.3935363,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "CAT/USDT",
-      "price": 1.713e-06,
-      "volume": 40223.840654089
+      "price": 1.712e-06,
+      "change24h": -0.9832272990167727,
+      "volume": 41662.967913907,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "CC/USDT",
-      "price": 0.14784,
-      "volume": 5066361.0633691
+      "price": 0.14596,
+      "change24h": -4.099868593955322,
+      "volume": 5100644.8896428,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "CELO/USDT",
-      "price": 0.07952,
-      "volume": 86362.61025712825
+      "price": 0.07925,
+      "change24h": -1.6505336311739884,
+      "volume": 85023.7738827697,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "CELR/USDT",
-      "price": 0.002407,
-      "volume": 6814.986672813358
+      "price": 0.002427,
+      "change24h": 5.110437418796016,
+      "volume": 6889.608406475596,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "CETUS/USDT",
-      "price": 0.01937,
-      "volume": 26707.68238282
+      "price": 0.01946,
+      "change24h": 0.1544004117344312,
+      "volume": 27542.524627041,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "CFG/USDT",
-      "price": 0.20658,
-      "volume": 614366.7860119053
+      "price": 0.20377,
+      "change24h": -0.4348675852633636,
+      "volume": 597958.0490359357,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "CFX/USDT",
-      "price": 0.05299,
-      "volume": 616290.8838153259
+      "price": 0.05298,
+      "change24h": -1.5241635687732342,
+      "volume": 625097.3635212308,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "CHZ/USDT",
-      "price": 0.03669,
-      "volume": 1184771.3850694217
+      "price": 0.03672,
+      "change24h": -0.1902690948627344,
+      "volume": 1155005.0199787293,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "CITY/USDT",
-      "price": 0.654,
-      "volume": 48413.15892875
+      "price": 0.6549,
+      "change24h": 3.6398164266497863,
+      "volume": 45649.22388992,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "COMP/USDT",
-      "price": 21.17,
-      "volume": 739922.18746091
+      "price": 21.29,
+      "change24h": 1.768642447418738,
+      "volume": 751432.72272731,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "CORE/USDT",
-      "price": 0.02522,
-      "volume": 1422806.5805975
+      "price": 0.02524,
+      "change24h": -3.5168195718654434,
+      "volume": 1381532.6458839,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "CRO/USDT",
-      "price": 0.06907,
-      "volume": 711717.0430221569
+      "price": 0.06877,
+      "change24h": -0.3477756846833792,
+      "volume": 699941.9266266425,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "CRV/USDT",
-      "price": 0.2126,
-      "volume": 1282029.6266788845
+      "price": 0.2146,
+      "change24h": 0.0932835820895522,
+      "volume": 1307405.2079399587,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "CSPR/USDT",
-      "price": 0.002917,
-      "volume": 144222.15791817382
+      "price": 0.002985,
+      "change24h": 1.7729287419024888,
+      "volume": 128479.50384417015,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "CTC/USDT",
-      "price": 0.1453,
-      "volume": 28903.204096063
+      "price": 0.1456,
+      "change24h": -0.8174386920980926,
+      "volume": 25493.420897478,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "CVC/USDT",
-      "price": 0.02973,
-      "volume": 9216.16245589536
+      "price": 0.02988,
+      "change24h": 0.3357958361316319,
+      "volume": 9475.73375638228,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "CVX/USDT",
-      "price": 1.76,
-      "volume": 45731.830542281
+      "price": 1.754,
+      "change24h": -0.3975014196479273,
+      "volume": 46511.840050987,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "DAI/USDT",
-      "price": 0.9991,
-      "volume": 1369526.6206747293
+      "price": 0.9993,
+      "change24h": -0.0200100050025012,
+      "volume": 1310410.8445717702,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "DASH/USDT",
-      "price": 38.18,
-      "volume": 1421859.13244
+      "price": 38.31,
+      "change24h": -4.701492537313433,
+      "volume": 1442736.208358,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "DEGEN/USDT",
-      "price": 0.0007186,
-      "volume": 40804.6391494
+      "price": 0.0007166,
+      "change24h": -0.7204211692989747,
+      "volume": 33166.9458316,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "DGB/USDT",
-      "price": 0.004678,
-      "volume": 3923.215779334627
+      "price": 0.004689,
+      "change24h": 0.4283572499464553,
+      "volume": 3570.744728936753,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "DOGS/USDT",
-      "price": 2.898e-05,
-      "volume": 157077.30302783
+      "price": 3.025e-05,
+      "change24h": 6.890459363957597,
+      "volume": 157963.51658185,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "DOOD/USDT",
-      "price": 0.002993,
-      "volume": 218154.1191787
+      "price": 0.002992,
+      "change24h": -3.701319600901191,
+      "volume": 213965.629388,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "DORA/USDT",
-      "price": 0.003989,
-      "volume": 8747.79614529
+      "price": 0.003962,
+      "change24h": 0.2023267577137076,
+      "volume": 7745.08831631,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "DOT/USDT",
-      "price": 1.155,
-      "volume": 5336519.830832606
+      "price": 1.169,
+      "change24h": -1.5164279696714407,
+      "volume": 5110841.321092799,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "DUCK/USDT",
-      "price": 8.36e-05,
-      "volume": 122296.9989369
+      "price": 8.39e-05,
+      "change24h": -8.00438596491228,
+      "volume": 123538.371967,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "DYDX/USDT",
-      "price": 0.09463,
-      "volume": 657605.3046226302
+      "price": 0.09454,
+      "change24h": -0.7141356857802982,
+      "volume": 599526.3497962169,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "EGLD/USDT",
-      "price": 3.735,
-      "volume": 32980.897090397
+      "price": 3.752,
+      "change24h": -1.0287523080981271,
+      "volume": 31969.369730238,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "EIGEN/USDT",
-      "price": 0.159,
-      "volume": 434397.7523306
+      "price": 0.1589,
+      "change24h": 0.189155107187894,
+      "volume": 370347.8410498,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ELF/USDT",
-      "price": 0.07899,
-      "volume": 77421.91701213707
+      "price": 0.07892,
+      "change24h": 0.869120654396728,
+      "volume": 76781.7566739953,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ENA/USDT",
-      "price": 0.09553,
-      "volume": 1769825.760604
+      "price": 0.09531,
+      "change24h": -1.4985531211244314,
+      "volume": 1707485.6961357,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ENJ/USDT",
-      "price": 0.05266,
-      "volume": 14827891.1599681
+      "price": 0.05626,
+      "change24h": 26.341792050303166,
+      "volume": 15124669.26427893,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ENS/USDT",
-      "price": 5.74,
-      "volume": 468737.19430246
+      "price": 5.756,
+      "change24h": -0.1214645150095436,
+      "volume": 400125.881685506,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ETC/USDT",
-      "price": 8.3,
-      "volume": 1826650.092199894
+      "price": 8.335,
+      "change24h": 0.2525859995188838,
+      "volume": 1737742.685672451,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ETHW/USDT",
-      "price": 0.2538,
-      "volume": 133843.57301527
+      "price": 0.2543,
+      "change24h": 0.8726695755652518,
+      "volume": 128658.20283312,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ETHFI/USDT",
-      "price": 0.4235,
-      "volume": 1143596.72528441
+      "price": 0.4209,
+      "change24h": 1.1292647765497357,
+      "volume": 970802.32276033,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "FET/USDT",
-      "price": 0.2283,
-      "volume": 1273105.8103039
+      "price": 0.2276,
+      "change24h": -2.27565478746243,
+      "volume": 1222281.0750677,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "FIL/USDT",
-      "price": 0.8844,
-      "volume": 5453548.283482147
+      "price": 0.8885,
+      "change24h": -1.4639015193523344,
+      "volume": 4699936.753804714,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "FLOW/USDT",
-      "price": 0.03448,
-      "volume": 485139.9765669851
+      "price": 0.03436,
+      "change24h": 0.9994121105232217,
+      "volume": 446440.42215420236,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "FLOKI/USDT",
-      "price": 2.808e-05,
-      "volume": 246070.64037332
+      "price": 2.815e-05,
+      "change24h": -1.3665031534688157,
+      "volume": 247038.31096499,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "FLR/USDT",
-      "price": 0.008018,
-      "volume": 237017.14380012
+      "price": 0.008005,
+      "change24h": 1.034961504480626,
+      "volume": 235402.99917686,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "FLUID/USDT",
-      "price": 1.569,
-      "volume": 57749.053864
+      "price": 1.582,
+      "change24h": -1.8001241464928615,
+      "volume": 64227.854475,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "FOGO/USDT",
-      "price": 0.0182,
-      "volume": 757736.145866
+      "price": 0.01833,
+      "change24h": 2.6890756302521006,
+      "volume": 760009.018844,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "G/USDT",
-      "price": 0.003776,
-      "volume": 49348.0255363
+      "price": 0.003779,
+      "change24h": -0.5264543300868649,
+      "volume": 49825.8879891,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "GALA/USDT",
-      "price": 0.002926,
-      "volume": 544528.391028991
+      "price": 0.002942,
+      "change24h": 0.0,
+      "volume": 490954.2262636581,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "GALFT/USDT",
-      "price": 2.143,
-      "volume": 142872.6575978
+      "price": 2.175,
+      "change24h": 3.32541567695962,
+      "volume": 140354.3135211,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "GAS/USDT",
-      "price": 1.663,
-      "volume": 140720.481693693
+      "price": 1.671,
+      "change24h": -1.415929203539823,
+      "volume": 130582.620188119,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "GLM/USDT",
-      "price": 0.1249,
-      "volume": 1656.5537389659
+      "price": 0.1252,
+      "change24h": -0.3184713375796178,
+      "volume": 1728.7903340653,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "GMT/USDT",
-      "price": 0.010414,
-      "volume": 106768.0599905523
+      "price": 0.010467,
+      "change24h": -0.5321676328043333,
+      "volume": 90376.9229714003,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "GMX/USDT",
-      "price": 6.007,
-      "volume": 65327.3260777
+      "price": 6.047,
+      "change24h": 0.4651935537464695,
+      "volume": 62257.4197579,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "GOAT/USDT",
-      "price": 0.01455,
-      "volume": 97681.05841121
+      "price": 0.01448,
+      "change24h": -3.5952063914780292,
+      "volume": 100960.11033785,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "GODS/USDT",
-      "price": 0.03145,
-      "volume": 5597.31305292899
+      "price": 0.03131,
+      "change24h": -0.7606973058637083,
+      "volume": 5475.56384522005,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "GRT/USDT",
-      "price": 0.02382,
-      "volume": 45502.03731914592
+      "price": 0.02392,
+      "change24h": -0.7468879668049792,
+      "volume": 46794.23679520093,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "HBAR/USDT",
-      "price": 0.08501,
-      "volume": 1237323.7585265727
+      "price": 0.0846,
+      "change24h": -1.2028494686441666,
+      "volume": 1015972.4240422846,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "HMSTR/USDT",
-      "price": 0.0001465,
-      "volume": 243934.29756164
+      "price": 0.000147,
+      "change24h": 1.3793103448275863,
+      "volume": 234947.40545876,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "HUMA/USDT",
       "price": 0.01702,
-      "volume": 684953.547465
+      "change24h": -1.5615962984384038,
+      "volume": 656903.839173,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "HYPE/USDT",
-      "price": 43.457,
-      "volume": 25769380.7066481
+      "price": 43.11,
+      "change24h": -1.2461630091171485,
+      "volume": 26371105.5444597,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ICP/USDT",
-      "price": 2.429,
-      "volume": 917958.137884828
+      "price": 2.428,
+      "change24h": -1.5010141987829615,
+      "volume": 901269.527893337,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ICX/USDT",
-      "price": 0.03601,
-      "volume": 66271.75990107245
+      "price": 0.03631,
+      "change24h": 1.2831241283124128,
+      "volume": 65582.02198762604,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ID/USDT",
-      "price": 0.03089,
-      "volume": 71754.7530362
+      "price": 0.031,
+      "change24h": -4.556650246305419,
+      "volume": 72209.99275423,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ILV/USDT",
-      "price": 4.193,
-      "volume": 39649.960285006
+      "price": 4.181,
+      "change24h": -1.0648367250354944,
+      "volume": 36089.475018369,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "IMX/USDT",
-      "price": 0.1442,
-      "volume": 121409.1680901503
+      "price": 0.1448,
+      "change24h": -1.0252904989747096,
+      "volume": 122322.5937179179,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "INJ/USDT",
-      "price": 2.966,
-      "volume": 284643.0526174
+      "price": 2.976,
+      "change24h": -0.1677289500167728,
+      "volume": 263890.7867199,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "IOST/USDT",
-      "price": 0.001071,
-      "volume": 47207.56794850873
+      "price": 0.001078,
+      "change24h": -0.736648250460405,
+      "volume": 45668.08471162598,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "IOTA/USDT",
-      "price": 0.05511,
-      "volume": 274153.2695305861
+      "price": 0.05475,
+      "change24h": -0.3639672429481346,
+      "volume": 256713.90086498557,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "IP/USDT",
-      "price": 0.4941,
-      "volume": 7003450.9188842
+      "price": 0.4956,
+      "change24h": 1.5365703749231714,
+      "volume": 6797371.7558021,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "J/USDT",
-      "price": 0.009177,
-      "volume": 24251.84813213
+      "price": 0.009245,
+      "change24h": -0.3986209868562809,
+      "volume": 26393.20230759,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "JITOSOL/USDT",
-      "price": 107.2,
-      "volume": 1227844.33223109
+      "price": 106.59,
+      "change24h": -0.2806623631770979,
+      "volume": 1207471.62605475,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "JOE/USDT",
-      "price": 0.04439,
-      "volume": 52585.9686745014
+      "price": 0.04428,
+      "change24h": 1.4898005959202383,
+      "volume": 52679.99302111027,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "JTO/USDT",
-      "price": 0.3085,
-      "volume": 381693.76791712
+      "price": 0.3095,
+      "change24h": -3.9416511483550587,
+      "volume": 365623.75040329,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "JUP/USDT",
-      "price": 0.1645,
-      "volume": 515104.8002123
+      "price": 0.1654,
+      "change24h": -0.8987417615338525,
+      "volume": 548422.2826047,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "KAIA/USDT",
-      "price": 0.04674,
-      "volume": 130411.1931946
+      "price": 0.04681,
+      "change24h": -1.2447257383966244,
+      "volume": 110281.2109432,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "KAITO/USDT",
-      "price": 0.4428,
-      "volume": 457724.7536556
+      "price": 0.4324,
+      "change24h": 5.850673194614443,
+      "volume": 501633.4334296,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "KAT/USDT",
-      "price": 0.007936,
-      "volume": 584998.7368335
+      "price": 0.007992,
+      "change24h": -1.6005909874415167,
+      "volume": 597185.9240981,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "KITE/USDT",
-      "price": 0.13561,
-      "volume": 902432.2632574
+      "price": 0.13653,
+      "change24h": 2.124317450819059,
+      "volume": 857721.631209,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "KMNO/USDT",
-      "price": 0.02032,
-      "volume": 225393.76344
+      "price": 0.02005,
+      "change24h": -1.5225933202357562,
+      "volume": 208882.640465,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "KNC/USDT",
-      "price": 0.1338,
-      "volume": 17314.7856137128
+      "price": 0.134,
+      "change24h": 1.361573373676248,
+      "volume": 18215.824269496,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "KSM/USDT",
-      "price": 4.141,
-      "volume": 226678.068706517
+      "price": 4.139,
+      "change24h": -1.2171837708830548,
+      "volume": 231635.174977554,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "LAT/USDT",
       "price": 0.001343,
-      "volume": 541713.5774663823
+      "change24h": -1.0316875460574797,
+      "volume": 541580.410666356,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "LAYER/USDT",
-      "price": 0.08078,
-      "volume": 52661.1296102
+      "price": 0.08119,
+      "change24h": -1.2527365604475795,
+      "volume": 45079.4906732,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "LDO/USDT",
-      "price": 0.3462,
-      "volume": 2827074.76459105
+      "price": 0.3499,
+      "change24h": 8.395291201982651,
+      "volume": 2840966.69085509,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "LEO/USDT",
       "price": 10.105,
-      "volume": 2208.717518805
+      "change24h": 0.337603018568166,
+      "volume": 2189.318879457,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "LINK/USDT",
-      "price": 9.005,
-      "volume": 6668069.898049105
+      "price": 9.026,
+      "change24h": 0.3334815473543797,
+      "volume": 7752286.286008107,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "LIT/USDT",
-      "price": 1.0591,
-      "volume": 5920135.4236063
+      "price": 1.0065,
+      "change24h": -8.558190242572907,
+      "volume": 6230532.4786195,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "LPT/USDT",
-      "price": 2.065,
-      "volume": 414567.333836846
+      "price": 2.069,
+      "change24h": -0.0965717044905842,
+      "volume": 379468.892562005,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "LQTY/USDT",
-      "price": 0.2759,
-      "volume": 56978.73526885
+      "price": 0.2765,
+      "change24h": -0.1444564824846514,
+      "volume": 56401.84779451,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "LRC/USDT",
-      "price": 0.01598,
-      "volume": 130574.29344553746
+      "price": 0.01594,
+      "change24h": -0.8706467661691542,
+      "volume": 125749.63467517454,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "LSK/USDT",
-      "price": 0.1243,
-      "volume": 43984.56950699252
+      "price": 0.1245,
+      "change24h": -1.1904761904761905,
+      "volume": 43115.7874446763,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "LTC/USDT",
-      "price": 54.44,
-      "volume": 6604268.5066011
+      "price": 54.52,
+      "change24h": 1.7543859649122806,
+      "volume": 6635667.69388082,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "LUNA/USDT",
-      "price": 0.05438,
-      "volume": 129760.429680157
+      "price": 0.05455,
+      "change24h": -0.6737072104879825,
+      "volume": 130139.591477122,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "MAGIC/USDT",
-      "price": 0.06024,
-      "volume": 167099.8577891712
+      "price": 0.06073,
+      "change24h": -1.9376715646697884,
+      "volume": 159853.67644866044,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "MAJOR/USDT",
-      "price": 0.0622,
-      "volume": 14169.63870875
+      "price": 0.06156,
+      "change24h": 1.4168039538714992,
+      "volume": 13119.43381632,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "MANA/USDT",
-      "price": 0.08564,
-      "volume": 102060.55852668778
+      "price": 0.08591,
+      "change24h": -1.5358166189111746,
+      "volume": 86040.99302971827,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "MASK/USDT",
-      "price": 0.429,
-      "volume": 342727.9188062129
+      "price": 0.4289,
+      "change24h": -1.3342535081665516,
+      "volume": 326882.660798181,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ME/USDT",
-      "price": 0.10076,
-      "volume": 71783.32449553
+      "price": 0.1009,
+      "change24h": -1.9912578921806703,
+      "volume": 63059.84788309,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "MEME/USDT",
-      "price": 0.0005102,
-      "volume": 145151.61790248
+      "price": 0.0005109,
+      "change24h": -1.6175621028307337,
+      "volume": 136048.57759971,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "MENGO/USDT",
-      "price": 0.04956,
-      "volume": 170337.344429063
+      "price": 0.04947,
+      "change24h": 2.464788732394366,
+      "volume": 144210.669596846,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "MERL/USDT",
-      "price": 0.02761,
-      "volume": 2844606.86242258
+      "price": 0.02778,
+      "change24h": 4.201050262565642,
+      "volume": 2556352.51852514,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "METIS/USDT",
-      "price": 3.039,
-      "volume": 83089.684881775
+      "price": 3.043,
+      "change24h": -0.0656814449917898,
+      "volume": 86178.356360898,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "MET/USDT",
-      "price": 0.1338,
-      "volume": 257911.3064505
+      "price": 0.1341,
+      "change24h": -3.106936416184971,
+      "volume": 250146.1679628,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "MEW/USDT",
-      "price": 0.0005649,
-      "volume": 254949.3386852
+      "price": 0.0005617,
+      "change24h": -2.786431291104188,
+      "volume": 300340.6118448,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "MINA/USDT",
-      "price": 0.05673,
-      "volume": 125125.52202053725
+      "price": 0.05647,
+      "change24h": -1.293480160811047,
+      "volume": 115949.6347786933,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "MMT/USDT",
-      "price": 0.1343,
-      "volume": 1481718.453548
+      "price": 0.1333,
+      "change24h": 3.0139103554868623,
+      "volume": 1505363.954981,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "MON/USDT",
-      "price": 0.03477,
-      "volume": 3379948.167107
+      "price": 0.034,
+      "change24h": -2.3269175524274632,
+      "volume": 3176496.141197,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "MOODENG/USDT",
-      "price": 0.05007,
-      "volume": 692091.9401527
+      "price": 0.05,
+      "change24h": -1.0097010492971688,
+      "volume": 618553.4774204,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "MORPHO/USDT",
-      "price": 1.7286,
-      "volume": 412412.8101333
+      "price": 1.7284,
+      "change24h": 1.366488768987156,
+      "volume": 415725.0973965,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "MOVE/USDT",
-      "price": 0.01685,
-      "volume": 254562.65379
+      "price": 0.01695,
+      "change24h": -0.9929906542056074,
+      "volume": 246118.471231,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "NAVX/USDT",
-      "price": 0.008618,
-      "volume": 35163.82242204
+      "price": 0.008611,
+      "change24h": -0.4738788719371243,
+      "volume": 34959.00283843,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "NEAR/USDT",
-      "price": 1.366,
-      "volume": 3043426.073704814
+      "price": 1.363,
+      "change24h": -2.4337866857551895,
+      "volume": 3089145.6650573453,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "NEIRO/USDT",
-      "price": 6.294e-05,
-      "volume": 1268302.18647907
+      "price": 6.373e-05,
+      "change24h": 2.873284907183212,
+      "volume": 1284680.52646025,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "NEO/USDT",
-      "price": 2.832,
-      "volume": 184256.82075573
+      "price": 2.802,
+      "change24h": -0.0356760613628255,
+      "volume": 188721.766555746,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "NFT/USDT",
-      "price": 3.337e-07,
-      "volume": 140195.4575458674
+      "price": 3.34e-07,
+      "change24h": -0.2985074626865671,
+      "volume": 140843.6853149593,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "NIGHT/USDT",
-      "price": 0.035726,
-      "volume": 2765010.7770617
+      "price": 0.036154,
+      "change24h": -6.164188014223052,
+      "volume": 2853065.2266249,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "NMR/USDT",
-      "price": 8.532,
-      "volume": 97078.205857272
+      "price": 8.493,
+      "change24h": -0.5037488284910965,
+      "volume": 73150.858586866,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "NOT/USDT",
-      "price": 0.0003598,
-      "volume": 90920.45806663
+      "price": 0.0003616,
+      "change24h": -1.4445352957209048,
+      "volume": 83672.6338907,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "OFC/USDT",
-      "price": 0.0497,
-      "volume": 4820395.279046
+      "price": 0.04819,
+      "change24h": -2.3505572441742655,
+      "volume": 4970656.99845,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "OKSOL/USDT",
-      "price": 84.22,
-      "volume": 523265.89550497
+      "price": 83.76,
+      "change24h": -0.3687403354347567,
+      "volume": 512215.86904273,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "OL/USDT",
-      "price": 0.00671,
-      "volume": 88549.2829266
+      "price": 0.006672,
+      "change24h": -3.8893690579083837,
+      "volume": 96741.4086821,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "OMI/USDT",
-      "price": 0.0001281,
-      "volume": 22860.3454572728
+      "price": 0.0001262,
+      "change24h": -3.3690658499234303,
+      "volume": 37992.8963381825,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ONDO/USDT",
-      "price": 0.2503,
-      "volume": 2052453.082298
+      "price": 0.2504,
+      "change24h": -0.3977724741447891,
+      "volume": 2055264.5140321,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ONE/USDT",
-      "price": 0.002072,
-      "volume": 19735.036788570716
+      "price": 0.002087,
+      "change24h": 0.626808100289296,
+      "volume": 18416.582740597452,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ONT/USDT",
-      "price": 0.07753,
-      "volume": 1286613.2131207043
+      "price": 0.07691,
+      "change24h": -6.877345925656859,
+      "volume": 1300875.0912842753,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "OP/USDT",
-      "price": 0.1111,
-      "volume": 1023805.3650539
+      "price": 0.111,
+      "change24h": -0.8928571428571428,
+      "volume": 1038206.24102794,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ORBS/USDT",
-      "price": 0.008871,
-      "volume": 14600.66567091081
+      "price": 0.0088,
+      "change24h": -1.2567324955116697,
+      "volume": 13248.263534474345,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ORDI/USDT",
-      "price": 2.413,
-      "volume": 2426408.3056835
+      "price": 2.448,
+      "change24h": -1.962354825790949,
+      "volume": 1821539.9776094,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "PARTI/USDT",
-      "price": 0.04253,
-      "volume": 341751.5148737
+      "price": 0.04255,
+      "change24h": -7.540199913081269,
+      "volume": 319939.3534903,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "PAXG/USDT",
-      "price": 4831.1,
-      "volume": 8328737.3042058
+      "price": 4821.4,
+      "change24h": 2.044530985438537,
+      "volume": 8473408.6950466,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "PENDLE/USDT",
-      "price": 1.035,
-      "volume": 183891.301107
+      "price": 1.048,
+      "change24h": -3.321033210332103,
+      "volume": 176453.998191,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "PENGU/USDT",
-      "price": 0.006778,
-      "volume": 5159005.503751
+      "price": 0.006785,
+      "change24h": -0.1471670345842531,
+      "volume": 4666357.598752,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "PEOPLE/USDT",
-      "price": 0.0071,
-      "volume": 1031250.7885054371
+      "price": 0.007166,
+      "change24h": 5.289450484866294,
+      "volume": 1097930.8780883271,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "PEPE/USDT",
-      "price": 3.584e-06,
-      "volume": 19148463.991636876
+      "price": 3.594e-06,
+      "change24h": -0.1389274798555154,
+      "volume": 17568980.651256025,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "PHA/USDT",
-      "price": 0.03705,
-      "volume": 63581.02470046709
+      "price": 0.0366,
+      "change24h": -8.614232209737828,
+      "volume": 67055.91768000089,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "PI/USDT",
-      "price": 0.1663,
-      "volume": 3820555.1312012
+      "price": 0.1653,
+      "change24h": 0.0,
+      "volume": 3807539.7053597,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "PIXEL/USDT",
-      "price": 0.00812,
-      "volume": 325235.77497273
+      "price": 0.008477,
+      "change24h": 9.592760180995475,
+      "volume": 363287.35256295,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "PNUT/USDT",
-      "price": 0.04367,
-      "volume": 512344.3440402
+      "price": 0.04357,
+      "change24h": 2.5176470588235293,
+      "volume": 490979.0277718,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "POL/USDT",
-      "price": 0.08334,
-      "volume": 945761.4781169
+      "price": 0.08285,
+      "change24h": -1.415992384578772,
+      "volume": 886253.7757103,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "POR/USDT",
-      "price": 0.6032,
-      "volume": 91445.61344008
+      "price": 0.601,
+      "change24h": -1.3622189397669455,
+      "volume": 101980.92581153,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "PRCL/USDT",
-      "price": 0.01385,
-      "volume": 143541.36009095
+      "price": 0.0138,
+      "change24h": -1.146131805157593,
+      "volume": 144378.91053615,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "PROMPT/USDT",
-      "price": 0.03122,
-      "volume": 346571.752505
+      "price": 0.03203,
+      "change24h": 4.981973123566044,
+      "volume": 340089.486205,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "PROVE/USDT",
-      "price": 0.2245,
-      "volume": 224384.9827231
+      "price": 0.2242,
+      "change24h": 0.3131991051454138,
+      "volume": 229335.4144584,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "PYTH/USDT",
-      "price": 0.04266,
-      "volume": 474272.12222206
+      "price": 0.04267,
+      "change24h": -1.2725590004627487,
+      "volume": 466022.25834799,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "PYUSD/USDT",
-      "price": 0.9996,
-      "volume": 166464.35780569
+      "price": 0.9995,
+      "change24h": -0.03000600120024,
+      "volume": 157178.6627324,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "QTUM/USDT",
-      "price": 0.8932,
-      "volume": 43114.2078095598
+      "price": 0.8975,
+      "change24h": -0.3552792272676806,
+      "volume": 40614.3076375736,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "RAY/USDT",
-      "price": 0.6412,
-      "volume": 368417.0160731812
+      "price": 0.6432,
+      "change24h": -0.1707279217755703,
+      "volume": 361997.5262087507,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "RENDER/USDT",
-      "price": 1.835,
-      "volume": 1241326.175852
+      "price": 1.83,
+      "change24h": -3.6842105263157894,
+      "volume": 1243687.872672,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "RESOLV/USDT",
-      "price": 0.03555,
-      "volume": 1163669.4042902
+      "price": 0.03433,
+      "change24h": -14.389027431421447,
+      "volume": 1300217.70347,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ROBO/USDT",
-      "price": 0.01936,
-      "volume": 879086.456534
+      "price": 0.01945,
+      "change24h": -8.685446009389672,
+      "volume": 821504.304978,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "RON/USDT",
-      "price": 0.08858,
-      "volume": 88238.07799896358
+      "price": 0.08952,
+      "change24h": 3.359889158295809,
+      "volume": 53953.40438461571,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "RPL/USDT",
-      "price": 1.781,
-      "volume": 22642.9148154
+      "price": 1.796,
+      "change24h": 1.8718094157685763,
+      "volume": 22622.6813183,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "RSR/USDT",
-      "price": 0.001492,
-      "volume": 136148.77202162857
+      "price": 0.001493,
+      "change24h": 0.6064690026954177,
+      "volume": 141515.01328224485,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "RVN/USDT",
-      "price": 0.005628,
-      "volume": 75424.4905487923
+      "price": 0.005608,
+      "change24h": -1.6140350877192982,
+      "volume": 75565.53885863793,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "S/USDT",
-      "price": 0.04074,
-      "volume": 228953.88201033
+      "price": 0.04062,
+      "change24h": -1.7654171704957677,
+      "volume": 232298.69964324,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "SAFE/USDT",
-      "price": 0.14663,
-      "volume": 290222.35121886
+      "price": 0.14606,
+      "change24h": -2.561707805203469,
+      "volume": 276515.90236665,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "SAHARA/USDT",
-      "price": 0.02228,
-      "volume": 385796.531528
+      "price": 0.02218,
+      "change24h": -0.9821428571428571,
+      "volume": 360277.227041,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "SAND/USDT",
-      "price": 0.07598,
-      "volume": 444138.8871658619
+      "price": 0.07625,
+      "change24h": -0.7161458333333333,
+      "volume": 438548.649107313,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "SATS/USDT",
-      "price": 1.115e-08,
-      "volume": 533441.3834066051
+      "price": 1.13e-08,
+      "change24h": -1.137357830271216,
+      "volume": 498841.3066096064,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "SCR/USDT",
-      "price": 0.04279,
-      "volume": 128934.59226013
+      "price": 0.04274,
+      "change24h": 3.236714975845411,
+      "volume": 133599.16503944,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "SD/USDT",
-      "price": 0.1296,
-      "volume": 20987.0645395395
+      "price": 0.1291,
+      "change24h": -1.6755521706016756,
+      "volume": 22756.1271801527,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "SEI/USDT",
-      "price": 0.05446,
-      "volume": 468296.7640503
+      "price": 0.05442,
+      "change24h": -1.1803159615035408,
+      "volume": 444518.8841942,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "SENT/USDT",
-      "price": 0.0153,
-      "volume": 105393.500262
+      "price": 0.01552,
+      "change24h": -1.397712833545108,
+      "volume": 106561.893529,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "SHIB/USDT",
-      "price": 5.826e-06,
-      "volume": 3477748.374643908
+      "price": 5.842e-06,
+      "change24h": -0.0171144959780934,
+      "volume": 3453072.690159915,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "SKL/USDT",
-      "price": 0.006256,
-      "volume": 32448.917849361744
+      "price": 0.00626,
+      "change24h": -2.1875,
+      "volume": 30836.386641548794,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "SKY/USDT",
-      "price": 0.07442,
-      "volume": 518932.403095
+      "price": 0.07406,
+      "change24h": -0.7238605898123324,
+      "volume": 523981.370281,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "SLP/USDT",
-      "price": 0.0006114,
-      "volume": 10861.372727540442
+      "price": 0.0006103,
+      "change24h": 1.3955806612394086,
+      "volume": 10498.94953354417,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "SNT/USDT",
-      "price": 0.009848,
-      "volume": 17868.79583042648
+      "price": 0.009802,
+      "change24h": -0.6184730812126127,
+      "volume": 16696.492134144682,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "SNX/USDT",
-      "price": 0.2829,
-      "volume": 154526.8243262986
+      "price": 0.284,
+      "change24h": -0.9071877180739706,
+      "volume": 157456.695145955,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "SONIC/USDT",
-      "price": 0.03514,
-      "volume": 223991.9307242
+      "price": 0.03496,
+      "change24h": -0.7382169222032935,
+      "volume": 221972.9244473,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "SOPH/USDT",
-      "price": 0.008269,
-      "volume": 76376.91861
+      "price": 0.008362,
+      "change24h": -0.0597585753555635,
+      "volume": 74334.8691039,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "SPACE/USDT",
-      "price": 0.004895,
-      "volume": 572391.078197
+      "price": 0.005018,
+      "change24h": -0.0199242877067144,
+      "volume": 536421.870409,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "SPK/USDT",
-      "price": 0.02142,
-      "volume": 903497.923447
+      "price": 0.02143,
+      "change24h": -0.0466417910447761,
+      "volume": 864877.450898,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "SPURS/USDT",
-      "price": 0.1594,
-      "volume": 9813.50883796
+      "price": 0.1591,
+      "change24h": 0.1889168765743073,
+      "volume": 41985.69214652,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "SSV/USDT",
-      "price": 2.174,
-      "volume": 174149.311718
+      "price": 2.184,
+      "change24h": 1.2987012987012987,
+      "volume": 169913.6905887,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "STETH/USDT",
-      "price": 2319.67,
-      "volume": 1285896.11910384
+      "price": 2317.8,
+      "change24h": 2.6401792594035904,
+      "volume": 1248594.8188923,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "STORJ/USDT",
-      "price": 0.09772,
-      "volume": 5977.11958303906
+      "price": 0.09691,
+      "change24h": -1.2029768579875624,
+      "volume": 5667.11553463097,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "STRK/USDT",
-      "price": 0.0324,
-      "volume": 791778.193047982
+      "price": 0.03223,
+      "change24h": -1.5577275503970678,
+      "volume": 755963.477399638,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "STX/USDT",
-      "price": 0.2182,
-      "volume": 432519.1153419727
+      "price": 0.2193,
+      "change24h": 0.4580852038479157,
+      "volume": 425749.1414809645,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "SUI/USDT",
-      "price": 0.9297,
-      "volume": 10060037.99544297
+      "price": 0.9311,
+      "change24h": 0.1829137077684527,
+      "volume": 9750628.00173391,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "SUSHI/USDT",
-      "price": 0.192,
-      "volume": 92551.4972438098
+      "price": 0.193,
+      "change24h": -0.5154639175257731,
+      "volume": 106714.6375376092,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "SWFTC/USDT",
-      "price": 0.003337,
-      "volume": 92677.09650270491
+      "price": 0.003348,
+      "change24h": -0.3867896459387087,
+      "volume": 91738.33624048064,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "T/USDT",
-      "price": 0.006081,
-      "volume": 4765.1140381272
+      "price": 0.006078,
+      "change24h": -1.6027197668771247,
+      "volume": 5089.9622863402,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "THETA/USDT",
-      "price": 0.1746,
-      "volume": 288220.2987147508
+      "price": 0.1756,
+      "change24h": -0.566251415628539,
+      "volume": 279586.4417865455,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "TIA/USDT",
-      "price": 0.3045,
-      "volume": 511487.41567192
+      "price": 0.305,
+      "change24h": 0.9933774834437086,
+      "volume": 457829.51593288,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "TNSR/USDT",
-      "price": 0.03861,
-      "volume": 88775.584434112
+      "price": 0.03853,
+      "change24h": -2.7265841959101236,
+      "volume": 88636.543190895,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "TON/USDT",
-      "price": 1.39,
-      "volume": 5255203.4297662
+      "price": 1.392,
+      "change24h": -2.793296089385475,
+      "volume": 5460153.2667472,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "TOSHI/USDT",
-      "price": 0.0001744,
-      "volume": 43465.0089313
+      "price": 0.0001737,
+      "change24h": -1.4188422247446082,
+      "volume": 41547.9410171,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "TRA/USDT",
-      "price": 0.289,
-      "volume": 33687.3377176706
+      "price": 0.2852,
+      "change24h": -1.4512785072563925,
+      "volume": 34622.6276766866,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "TRB/USDT",
-      "price": 15.22,
-      "volume": 211325.03521935
+      "price": 15.31,
+      "change24h": -1.9846350832266324,
+      "volume": 213297.88101909,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "TRUMP/USDT",
-      "price": 2.781,
-      "volume": 8990606.1823776
+      "price": 2.785,
+      "change24h": -1.936619718309859,
+      "volume": 9042719.9992444,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "TRX/USDT",
-      "price": 0.32334,
-      "volume": 11212796.80263474
+      "price": 0.32364,
+      "change24h": 0.8727091385114075,
+      "volume": 11684668.43968754,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "TURBO/USDT",
-      "price": 0.0010207,
-      "volume": 636204.426550094
+      "price": 0.0010282,
+      "change24h": -1.4473305856417138,
+      "volume": 582785.181935205,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "UMA/USDT",
-      "price": 0.4125,
-      "volume": 68263.9824215202
+      "price": 0.4155,
+      "change24h": 0.2896451846488052,
+      "volume": 67749.2968206401,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "UNI/USDT",
-      "price": 3.118,
-      "volume": 4274493.140321733
+      "price": 3.12,
+      "change24h": -0.0640614990390775,
+      "volume": 4248360.020181246,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "USAT/USDT",
-      "price": 0.9993,
-      "volume": 190637.9378791
+      "price": 0.9996,
+      "change24h": 0.0100050025012506,
+      "volume": 192459.1439753,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "USDC/USDT",
       "price": 0.9994,
-      "volume": 86034922.27756916
+      "change24h": -0.0100050025012506,
+      "volume": 88042129.18607432,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "USDG/USDT",
       "price": 0.9995,
-      "volume": 33400547.34122462
+      "change24h": -0.0100040016006402,
+      "volume": 33164757.09214036,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "USD1/USDT",
-      "price": 0.999,
-      "volume": 1025251.97249996
+      "price": 0.9991,
+      "change24h": 0.0300360432519022,
+      "volume": 1369249.72624288,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "VELO/USDT",
-      "price": 0.003248,
-      "volume": 130767.67598577807
+      "price": 0.003247,
+      "change24h": -6.15606936416185,
+      "volume": 122136.85502575924,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "VELODROME/USDT",
-      "price": 0.01492,
-      "volume": 25865.715961126
+      "price": 0.01468,
+      "change24h": -4.860661049902787,
+      "volume": 25588.842190844,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "VINE/USDT",
-      "price": 0.01627,
-      "volume": 194878.8190189
+      "price": 0.01633,
+      "change24h": -1.2099213551119177,
+      "volume": 183417.2950457,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "VIRTUAL/USDT",
-      "price": 0.6664,
-      "volume": 1029396.184323
+      "price": 0.6693,
+      "change24h": -0.8003557136505113,
+      "volume": 966257.8900988,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "W/USDT",
-      "price": 0.01179,
-      "volume": 931445.2274424
+      "price": 0.01177,
+      "change24h": -2.727272727272727,
+      "volume": 839155.895598761,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "WAXP/USDT",
-      "price": 0.00648,
-      "volume": 17826.665845127147
+      "price": 0.00649,
+      "change24h": 0.2781211372064276,
+      "volume": 18698.512727479992,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "WCT/USDT",
-      "price": 0.05553,
-      "volume": 434390.7716591
+      "price": 0.05567,
+      "change24h": -5.0,
+      "volume": 350266.0820871,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "WET/USDT",
-      "price": 0.14326,
-      "volume": 8646245.7916045
+      "price": 0.14353,
+      "change24h": -7.596729543552437,
+      "volume": 7926827.2342488,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "WIF/USDT",
-      "price": 0.1916,
-      "volume": 1392363.108518
+      "price": 0.1931,
+      "change24h": 1.5781167806417673,
+      "volume": 1108607.111666,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "WIN/USDT",
-      "price": 1.929e-05,
-      "volume": 99343.6084488
+      "price": 1.941e-05,
+      "change24h": 1.5698587127158554,
+      "volume": 104967.45352235,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "WLD/USDT",
-      "price": 0.2981,
-      "volume": 6642923.7726014
+      "price": 0.2935,
+      "change24h": -2.6856763925729443,
+      "volume": 6618677.1949627,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "WOO/USDT",
-      "price": 0.01726,
-      "volume": 58404.04398986661
+      "price": 0.01729,
+      "change24h": -1.872871736662883,
+      "volume": 60137.43425240744,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "XAUT/USDT",
-      "price": 4815.4,
-      "volume": 32015731.4475085
+      "price": 4803.7,
+      "change24h": 1.9396048638669015,
+      "volume": 33145106.3102534,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "XCH/USDT",
-      "price": 2.168,
-      "volume": 191169.447009645
+      "price": 2.162,
+      "change24h": -2.348690153568202,
+      "volume": 187669.081737475,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "XLM/USDT",
-      "price": 0.15438,
-      "volume": 1921020.3607015612
+      "price": 0.15473,
+      "change24h": 1.104286461055933,
+      "volume": 1894201.6572202323,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "XPL/USDT",
-      "price": 0.13354,
-      "volume": 7623067.357985
+      "price": 0.13364,
+      "change24h": 0.3077384973354349,
+      "volume": 7422485.7801437,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "XTZ/USDT",
-      "price": 0.3442,
-      "volume": 83063.7847599286
+      "price": 0.3459,
+      "change24h": -0.2019619157530294,
+      "volume": 80114.3641322009,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "YB/USDT",
-      "price": 0.11273,
-      "volume": 265148.17827156
+      "price": 0.11269,
+      "change24h": -5.769713186721297,
+      "volume": 257811.31009643,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "YFI/USDT",
-      "price": 2536.0,
-      "volume": 13104.333297
+      "price": 2543.0,
+      "change24h": 0.1970055161544523,
+      "volume": 13273.932694,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "YGG/USDT",
-      "price": 0.03741,
-      "volume": 297196.5276023244
+      "price": 0.03742,
+      "change24h": -2.272133716375033,
+      "volume": 291481.22860521224,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ZAMA/USDT",
-      "price": 0.032,
-      "volume": 7714261.265236
+      "price": 0.03231,
+      "change24h": 26.85512367491166,
+      "volume": 7755831.65445,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ZBCN/USDT",
-      "price": 0.0026035,
-      "volume": 302897.4289943
+      "price": 0.0025935,
+      "change24h": 1.1900117050331642,
+      "volume": 325701.9144703,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ZEC/USDT",
-      "price": 348.89,
-      "volume": 11080538.7115702
+      "price": 354.0,
+      "change24h": -3.481746053384955,
+      "volume": 11007829.3596952,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ZENT/USDT",
-      "price": 0.003486,
-      "volume": 86087.4906038
+      "price": 0.003445,
+      "change24h": 4.236006051437216,
+      "volume": 88230.7765884,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ZEN/USDT",
-      "price": 5.661,
-      "volume": 319622.3417137
+      "price": 5.643,
+      "change24h": -4.839797639123103,
+      "volume": 310711.2404647,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ZETA/USDT",
-      "price": 0.04975,
-      "volume": 83396.19693873
+      "price": 0.04966,
+      "change24h": -1.7994858611825193,
+      "volume": 83046.56009414,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ZEUS/USDT",
-      "price": 0.007118,
-      "volume": 420213.3164698507
+      "price": 0.007127,
+      "change24h": -2.155409115870401,
+      "volume": 421450.3875623265,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ZIL/USDT",
-      "price": 0.00386,
-      "volume": 150522.69774809686
+      "price": 0.003862,
+      "change24h": -1.3285641287685233,
+      "volume": 148764.0105766672,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ZK/USDT",
-      "price": 0.01517,
-      "volume": 199863.692408
+      "price": 0.01524,
+      "change24h": -2.495201535508637,
+      "volume": 193093.323869,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ZKJ/USDT",
-      "price": 0.01935,
-      "volume": 90571.59389667
+      "price": 0.0194,
+      "change24h": -0.9698825931597753,
+      "volume": 78192.271205576,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ZORA/USDT",
-      "price": 0.0137,
-      "volume": 31635.2992496
+      "price": 0.01381,
+      "change24h": -0.8614501076812634,
+      "volume": 30787.8785618,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ZRO/USDT",
-      "price": 1.91,
-      "volume": 998809.859508
+      "price": 1.909,
+      "change24h": -3.5371399696816574,
+      "volume": 966047.018801,
+      "contract": "—",
+      "network": "—"
     },
     {
       "pair": "ZRX/USDT",
-      "price": 0.10633,
-      "volume": 75417.41233255275
+      "price": 0.10623,
+      "change24h": 0.8544574195385929,
+      "volume": 74233.6195059352,
+      "contract": "—",
+      "network": "—"
     }
   ],
   "futures": [
     {
+      "token": "USDT",
+      "price": 0.0,
+      "funding": 0.0,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
+    },
+    {
+      "token": "EURC",
+      "price": 0.0,
+      "funding": 0.0,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
+    },
+    {
       "token": "XAU",
-      "price": 4830.5,
-      "funding": 0,
-      "volume": 0.0
+      "price": 0.0,
+      "funding": 0.0,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "0G",
-      "price": 0.5828,
-      "funding": -0.05556553520829,
-      "volume": 0.0
+      "price": 0.6026,
+      "funding": -0.16772681541911,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "AAPL",
-      "price": 258.31,
-      "funding": 0.00346097391906,
-      "volume": 0.0
+      "price": 259.13,
+      "funding": 0.01843899216603,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "ACU",
-      "price": 0.09626,
+      "price": 0.09492,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "AERO",
-      "price": 0.3684,
-      "funding": -0.04333311846291,
-      "volume": 0.0
+      "price": 0.3638,
+      "funding": -0.00745456580117,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "AMD",
-      "price": 254.57,
-      "funding": 0,
-      "volume": 0.0
+      "price": 253.48,
+      "funding": 0.0,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "AMZN",
-      "price": 248.5,
-      "funding": 0,
-      "volume": 0.0
+      "price": 248.84,
+      "funding": 0.0,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "APR",
-      "price": 0.27613,
+      "price": 0.28814,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "AT",
-      "price": 0.17003,
+      "price": 0.16999,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "AZTEC",
-      "price": 0.02152,
+      "price": 0.02122,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "BEAT",
-      "price": 0.37045,
-      "funding": 0.022476592723150002,
-      "volume": 0.0
+      "price": 0.35211,
+      "funding": 0.005,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "BRETT",
-      "price": 0.006984,
+      "price": 0.007055,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "BSB",
-      "price": 0.224,
+      "price": 0.2195,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "BZ",
-      "price": 90.66,
-      "funding": -0.05503597179273,
-      "volume": 0.0
+      "price": 90.6,
+      "funding": -0.07427817543744,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "CL",
-      "price": 88.65,
-      "funding": -0.02557245011377,
-      "volume": 0.0
+      "price": 88.72,
+      "funding": -0.10335154462865999,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "COAI",
-      "price": 0.3885,
-      "funding": 0.02350532396057,
-      "volume": 0.0
+      "price": 0.389,
+      "funding": 0.005,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "COIN",
-      "price": 184.5,
-      "funding": 0,
-      "volume": 0.0
+      "price": 184.72,
+      "funding": 0.0,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "CRCL",
-      "price": 105.22,
-      "funding": 0.04304379048034,
-      "volume": 0.0
+      "price": 106.2,
+      "funding": 0.07997769860635,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "CRWV",
-      "price": 118.44,
+      "price": 116.32,
       "funding": 0.01,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "EDEN",
-      "price": 0.0341,
+      "price": 0.03329,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "EDGE",
-      "price": 0.9784,
-      "funding": 0.02924384781443,
-      "volume": 0.0
+      "price": 0.9736,
+      "funding": 0.005,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "ENSO",
-      "price": 0.8506,
+      "price": 0.8484,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "ESP",
-      "price": 0.07332,
+      "price": 0.07413,
       "funding": 0.00125,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "EWJ",
-      "price": 89.44,
-      "funding": 0,
-      "volume": 0.0
+      "price": 89.4,
+      "funding": 0.0,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "EWY",
-      "price": 145.44,
-      "funding": 0,
-      "volume": 0.0
+      "price": 146.03,
+      "funding": 0.0,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "F",
-      "price": 0.005419,
+      "price": 0.005404,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "FARTCOIN",
-      "price": 0.2008,
+      "price": 0.1931,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "GIGGLE",
-      "price": 47.85,
+      "price": 45.81,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "GOOGL",
-      "price": 332.32,
-      "funding": 0.00087354758732,
-      "volume": 0.0
+      "price": 333.07,
+      "funding": 0.00847407403628,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "GPS",
-      "price": 0.008885,
+      "price": 0.008757,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "GRASS",
-      "price": 0.3273,
+      "price": 0.3296,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "H",
-      "price": 0.09667,
+      "price": 0.09606,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "HOME",
-      "price": 0.01868,
-      "funding": -0.0398551733496,
-      "volume": 0.0
+      "price": 0.01878,
+      "funding": -0.02146237186924,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "HOOD",
-      "price": 78.34,
-      "funding": 0,
-      "volume": 0.0
+      "price": 79.91,
+      "funding": 0.0,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "INIT",
-      "price": 0.07987,
+      "price": 0.07983,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "INTC",
-      "price": 63.28,
-      "funding": 0,
-      "volume": 0.0
+      "price": 63.68,
+      "funding": 0.0,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "IWM",
-      "price": 268.54,
+      "price": 270.0,
       "funding": 0.01,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "JELLYJELLY",
-      "price": 0.04655,
-      "funding": 0.01291209552928,
-      "volume": 0.0
+      "price": 0.04558,
+      "funding": 0.005,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "KGEN",
-      "price": 0.15944,
+      "price": 0.15701,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "LA",
-      "price": 0.157,
+      "price": 0.1581,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "LAB",
-      "price": 0.51192,
-      "funding": 0.05301285535145,
-      "volume": 0.0
+      "price": 0.50161,
+      "funding": 0.05162057580049,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "LIGHT",
-      "price": 0.1749,
-      "funding": 0.10144466366350999,
-      "volume": 0.0
+      "price": 0.1758,
+      "funding": 0.10781747364952,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "META",
-      "price": 661.98,
-      "funding": 0,
-      "volume": 0.0
+      "price": 663.6,
+      "funding": 0.0,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "MSFT",
-      "price": 392.3,
-      "funding": 0.03947699754711,
-      "volume": 0.0
+      "price": 394.14,
+      "funding": 0.0167496026621,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "MSTR",
-      "price": 138.02,
-      "funding": 0,
-      "volume": 0.0
+      "price": 137.87,
+      "funding": 0.0,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "MU",
-      "price": 454.96,
-      "funding": 0.0021245717141399998,
-      "volume": 0.0
+      "price": 461.66,
+      "funding": 0.0037248145858399997,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "MUBARAK",
-      "price": 0.01326,
+      "price": 0.01332,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "NFLX",
-      "price": 106.09,
-      "funding": 0,
-      "volume": 0.0
+      "price": 106.04,
+      "funding": 0.0,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "NG",
-      "price": 2.7693,
-      "funding": 0.28833387418735,
-      "volume": 0.0
+      "price": 2.7715,
+      "funding": 0.27858307532745996,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "NVDA",
-      "price": 195.76,
-      "funding": 0.01880655658992,
-      "volume": 0.0
+      "price": 195.83,
+      "funding": 0.01202096616412,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "OPN",
-      "price": 0.1556,
+      "price": 0.1555,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "ORCL",
-      "price": 162.68,
-      "funding": 0.01039222590936,
-      "volume": 0.0
+      "price": 163.48,
+      "funding": 0.02940496434724,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "ORDER",
-      "price": 0.05964,
-      "funding": 0.005,
-      "volume": 0.0
+      "price": 0.06017,
+      "funding": -0.00290059562181,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "PIEVERSE",
-      "price": 0.432,
-      "funding": 0.04088225397042,
-      "volume": 0.0
+      "price": 0.4373,
+      "funding": 0.01875669609368,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "PIPPIN",
-      "price": 0.02611,
+      "price": 0.02665,
       "funding": 0.00125,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "PLTR",
-      "price": 135.69,
-      "funding": 0,
-      "volume": 0.0
+      "price": 135.64,
+      "funding": 0.0,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "PLUME",
-      "price": 0.011674,
-      "funding": 0.00256919682067,
-      "volume": 0.0
+      "price": 0.011766,
+      "funding": 0.005,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "POPCAT",
-      "price": 0.05013,
+      "price": 0.05015,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "QQQ",
-      "price": 625.73,
-      "funding": -0.04440557903043,
-      "volume": 0.0
+      "price": 627.08,
+      "funding": -0.05574652673134,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "RAVE",
-      "price": 15.37337,
-      "funding": -0.6283965890333,
-      "volume": 0.0
+      "price": 15.44127,
+      "funding": -0.50286207390706,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "RECALL",
-      "price": 0.04706,
+      "price": 0.04685,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "RIVER",
-      "price": 8.845,
-      "funding": 0.01809142339977,
-      "volume": 0.0
+      "price": 8.921,
+      "funding": 0.005,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "RLS",
-      "price": 0.003016,
-      "funding": 0.005,
-      "volume": 0.0
+      "price": 0.002875,
+      "funding": 0.015600378918829998,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "SAPIEN",
-      "price": 0.07711,
+      "price": 0.07675,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "SHELL",
-      "price": 0.02908,
+      "price": 0.02907,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "SIGN",
-      "price": 0.02818,
-      "funding": -0.0401526472185,
-      "volume": 0.0
+      "price": 0.02851,
+      "funding": 0.005,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "SNDK",
-      "price": 941.09,
-      "funding": 0.04117698514408,
-      "volume": 0.0
+      "price": 935.28,
+      "funding": 0.03941633029311,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "SOON",
-      "price": 0.1282,
+      "price": 0.126,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "SPX",
-      "price": 0.316,
+      "price": 0.3169,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "SPY",
-      "price": 691.45,
-      "funding": -0.09176021816485,
-      "volume": 0.0
+      "price": 693.0,
+      "funding": -0.09001785146287,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "STABLE",
-      "price": 0.02581,
+      "price": 0.02585,
       "funding": 0.00125,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "SYRUP",
-      "price": 0.2204,
+      "price": 0.2178,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "TAO",
-      "price": 240.9,
-      "funding": 0.006143605876089999,
-      "volume": 0.0
+      "price": 241.4,
+      "funding": 0.01,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "TRIA",
-      "price": 0.02642,
-      "funding": 0.09758504839249,
-      "volume": 0.0
+      "price": 0.02812,
+      "funding": 0.05233910820571001,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "TRUST",
-      "price": 0.06917,
+      "price": 0.06942,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "TRUTH",
-      "price": 0.009587,
-      "funding": 0.07400408656612001,
-      "volume": 0.0
+      "price": 0.009581,
+      "funding": 0.0790461268326,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "TSLA",
-      "price": 365.22,
-      "funding": 0.00050216970278,
-      "volume": 0.0
+      "price": 364.27,
+      "funding": 0.0,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "TSM",
-      "price": 381.13,
-      "funding": 0,
-      "volume": 0.0
+      "price": 381.04,
+      "funding": 0.0,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "UP",
-      "price": 0.1841,
-      "funding": 0.09108711145432,
-      "volume": 0.0
+      "price": 0.1874,
+      "funding": 0.028614640790750004,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "USELESS",
-      "price": 0.04393,
-      "funding": 0.02132888594785,
-      "volume": 0.0
+      "price": 0.04309,
+      "funding": 0.005,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "VANA",
-      "price": 1.27,
-      "funding": -0.00277755173831,
-      "volume": 0.0
+      "price": 1.277,
+      "funding": 0.00464540145085,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "WAL",
-      "price": 0.06756,
-      "funding": 0.005,
-      "volume": 0.0
+      "price": 0.06757,
+      "funding": 0.0009716245945,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "XAG",
-      "price": 79.37,
-      "funding": 0,
-      "volume": 0.0
+      "price": 79.46,
+      "funding": 0.0,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "XCU",
-      "price": 6.1389,
-      "funding": 0.0303548732347,
-      "volume": 0.0
+      "price": 6.1355,
+      "funding": 0.01901668378265,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "XPT",
-      "price": 2105.52,
-      "funding": 0,
-      "volume": 0.0
+      "price": 2106.92,
+      "funding": 0.0,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "ZBT",
-      "price": 0.11054,
+      "price": 0.10932,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "ZKP",
-      "price": 0.07287,
+      "price": 0.07247,
       "funding": 0.005,
-      "volume": 0.0
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     },
     {
       "token": "XPD",
-      "price": 1588.0,
-      "funding": 0,
-      "volume": 0.0
+      "price": 1588.84,
+      "funding": 0.0,
+      "funding_period": "8h",
+      "next_funding": "через 2ч 14м",
+      "volume": 0.0,
+      "open_interest": 0.0,
+      "contract": "—",
+      "network": "—"
     }
   ],
-  "last_update": "2026-04-14T22:06:32.074972"
+  "last_update": "2026-04-15T00:45:54.910135"
 }
