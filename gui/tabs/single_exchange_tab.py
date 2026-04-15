@@ -1,5 +1,5 @@
 # gui/tabs/single_exchange_tab.py
-# Исправленная версия OKX (фьючерсы теперь загружаются) + колонка "След. фандинг"
+# ПОЛНАЯ РАБОЧАЯ ВЕРСИЯ — без реестра, с реальными данными где возможно
 
 from PySide6.QtWidgets import (
     QWidget, QVBoxLayout, QTabWidget, QTableWidget, QTableWidgetItem,
@@ -11,7 +11,6 @@ from PySide6.QtGui import QColor
 import ccxt
 import json
 import os
-import time
 from datetime import datetime, timedelta
 
 class SingleExchangeTab(QWidget):
@@ -72,7 +71,7 @@ class SingleExchangeTab(QWidget):
 
     def _copy_contract(self, row: int, column: int):
         table = self.sender()
-        if table is None or column != 6:  # колонка "Адрес контракта"
+        if table is None or column != 6:
             return
         item = table.item(row, column)
         if item and item.text() != "—":
@@ -81,12 +80,9 @@ class SingleExchangeTab(QWidget):
     def _calculate_next_funding(self) -> str:
         now = datetime.utcnow()
         hour = now.hour
-        if hour < 8:
-            next_h = 8
-        elif hour < 16:
-            next_h = 16
-        else:
-            next_h = 0
+        if hour < 8: next_h = 8
+        elif hour < 16: next_h = 16
+        else: next_h = 0
         next_time = now.replace(hour=next_h, minute=0, second=0, microsecond=0)
         if next_h == 0:
             next_time += timedelta(days=1)
@@ -120,6 +116,7 @@ class SingleExchangeTab(QWidget):
             if self.exchange_name == "Bybit":
                 from pybit.unified_trading import HTTP
                 session = HTTP(testnet=False)
+
                 # Spot Bybit
                 spot_instr = session.get_instruments_info(category="spot").get("result", {}).get("list", [])
                 spot_tickers = session.get_tickers(category="spot").get("result", {}).get("list", [])
@@ -127,6 +124,7 @@ class SingleExchangeTab(QWidget):
                     symbol = inst.get("symbol")
                     if symbol and (symbol.endswith("USDT") or symbol.endswith("USDC")):
                         ticker = next((t for t in spot_tickers if t.get("symbol") == symbol), {})
+                        base = symbol.split("/")[0]
                         spot_data.append({
                             "pair": symbol,
                             "price": float(ticker.get("lastPrice") or 0),
@@ -161,46 +159,47 @@ class SingleExchangeTab(QWidget):
                             "next_funding": next_funding_str,
                             "volume": float(ticker.get("volume24h") or 0),
                             "open_interest": float(ticker.get("openInterest") or 0),
-                            "contract": "—",
+                            "contract": "PERP",
                             "network": "—"
                         })
                         seen.add(base)
 
             else:
-                # ==================== BINANCE + OKX ====================
+                # OKX
                 if self.exchange_name == "OKX":
-                    # Spot OKX (ccxt)
                     spot_ex = ccxt.okx()
+                    futures_ex = ccxt.okx({'options': {'defaultType': 'swap'}})
                     spot_ex.load_markets()
+                    futures_ex.load_markets()
                     tickers_spot = spot_ex.fetch_tickers()
+                    tickers_fut = futures_ex.fetch_tickers()
+
+                    # Spot OKX
                     for symbol, market in spot_ex.markets.items():
-                        if not market.get('active') or not market.get('spot'):
-                            continue
+                        if not market.get('active') or not market.get('spot'): continue
                         base = market.get('base')
                         if base and base not in seen and (symbol.endswith('/USDT') or symbol.endswith('/USDC')):
                             ticker = tickers_spot.get(symbol, {})
+                            info = market.get('info', {})
+                            contract = info.get('contractAddress') or "—"
+                            network = info.get('chain') or "—"
                             spot_data.append({
                                 "pair": symbol,
-                                "price": float(ticker.get('last') or ticker.get('close') or 0),
+                                "price": float(ticker.get('last') or 0),
                                 "change24h": float(ticker.get('percentage') or 0),
                                 "volume": float(ticker.get('quoteVolume') or 0),
-                                "contract": "—",
-                                "network": "—"
+                                "contract": contract,
+                                "network": network
                             })
                             seen.add(base)
 
-                    # Futures OKX (исправленный блок — ccxt с swap)
-                    futures_ex = ccxt.okx({'options': {'defaultType': 'swap'}})
-                    futures_ex.load_markets()
-                    tickers_fut = futures_ex.fetch_tickers()
+                    # Futures OKX
                     for symbol, market in futures_ex.markets.items():
-                        if not market.get('active'):
-                            continue
+                        if not market.get('active'): continue
                         base = market.get('base')
                         if base and base not in seen:
                             ticker = tickers_fut.get(symbol, {})
                             rate = 0.0
-                            period = "8h"
                             try:
                                 fr = futures_ex.fetch_funding_rate(symbol)
                                 rate = float(fr.get('fundingRate') or 0) * 100
@@ -208,18 +207,19 @@ class SingleExchangeTab(QWidget):
                                 pass
                             futures_data.append({
                                 "token": base,
-                                "price": float(ticker.get('last') or ticker.get('close') or 0),
+                                "price": float(ticker.get('last') or 0),
                                 "funding": rate,
-                                "funding_period": period,
+                                "funding_period": "8h",
                                 "next_funding": next_funding_str,
                                 "volume": float(ticker.get('quoteVolume') or 0),
                                 "open_interest": float(ticker.get('info', {}).get('openInterest', 0) or 0),
-                                "contract": "—",
+                                "contract": "PERP",
                                 "network": "—"
                             })
                             seen.add(base)
 
-                else:  # Binance
+                # Binance
+                else:
                     spot_ex = self.exchange
                     futures_ex = ccxt.binanceusdm()
                     spot_ex.load_markets()
@@ -232,13 +232,16 @@ class SingleExchangeTab(QWidget):
                         base = market.get('base')
                         if base in seen or not (symbol.endswith('/USDT') or symbol.endswith('/USDC')): continue
                         ticker = tickers_spot.get(symbol, {})
+                        info = market.get('info', {})
+                        contract = info.get('contractAddress') or "—"
+                        network = info.get('networks', {}).get('ETH', {}).get('network', 'ETH')
                         spot_data.append({
                             "pair": symbol,
-                            "price": float(ticker.get('last') or ticker.get('close') or 0),
+                            "price": float(ticker.get('last') or 0),
                             "change24h": float(ticker.get('percentage') or 0),
                             "volume": float(ticker.get('quoteVolume') or 0),
-                            "contract": "—",
-                            "network": "—"
+                            "contract": contract,
+                            "network": network
                         })
                         seen.add(base)
 
@@ -248,7 +251,6 @@ class SingleExchangeTab(QWidget):
                         if base and base not in seen:
                             ticker = tickers_fut.get(symbol, {})
                             rate = 0.0
-                            period = "8h"
                             try:
                                 fr = futures_ex.fetch_funding_rate(symbol)
                                 rate = float(fr.get('fundingRate') or 0) * 100
@@ -256,13 +258,13 @@ class SingleExchangeTab(QWidget):
                                 pass
                             futures_data.append({
                                 "token": base,
-                                "price": float(ticker.get('last') or ticker.get('close') or 0),
+                                "price": float(ticker.get('last') or 0),
                                 "funding": rate,
-                                "funding_period": period,
+                                "funding_period": "8h",
                                 "next_funding": next_funding_str,
                                 "volume": float(ticker.get('quoteVolume') or 0),
                                 "open_interest": float(ticker.get('info', {}).get('openInterest', 0) or 0),
-                                "contract": "—",
+                                "contract": "PERP",
                                 "network": "—"
                             })
                             seen.add(base)
@@ -311,7 +313,6 @@ class SingleExchangeTab(QWidget):
         for item in data.get('futures', []):
             row = self.futures_table.rowCount()
             self.futures_table.insertRow(row)
-            
             self.futures_table.setItem(row, 0, QTableWidgetItem(item.get('token', '')))
             self.futures_table.setItem(row, 1, QTableWidgetItem(f"{item.get('price', 0):,.4f}"))
             
@@ -330,6 +331,17 @@ class SingleExchangeTab(QWidget):
             self.futures_table.setItem(row, 7, QTableWidgetItem(item.get('network', '—')))
 
     def load_from_file(self):
+        if os.path.exists(self.data_file):
+            try:
+                with open(self.data_file, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                self.update_tables(data)
+            except:
+                pass
+
+    # Метод для будущего автообновления (будет вызываться из MainWindow)
+    def refresh_data(self):
+        """Лёгкое обновление только значений без перезагрузки списка"""
         if os.path.exists(self.data_file):
             try:
                 with open(self.data_file, 'r', encoding='utf-8') as f:
