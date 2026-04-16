@@ -1,5 +1,5 @@
 # gui/tabs/single_exchange_tab.py
-# ПОЛНАЯ РАБОЧАЯ ВЕРСИЯ — без реестра, с реальными данными где возможно
+# ПОЛНАЯ ИСПРАВЛЕННАЯ ВЕРСИЯ — готова к глобальному автообновлению
 
 from PySide6.QtWidgets import (
     QWidget, QVBoxLayout, QTabWidget, QTableWidget, QTableWidgetItem,
@@ -12,6 +12,7 @@ import ccxt
 import json
 import os
 from datetime import datetime, timedelta
+
 
 class SingleExchangeTab(QWidget):
     def __init__(self, exchange_name: str, exchange_instance):
@@ -80,9 +81,12 @@ class SingleExchangeTab(QWidget):
     def _calculate_next_funding(self) -> str:
         now = datetime.utcnow()
         hour = now.hour
-        if hour < 8: next_h = 8
-        elif hour < 16: next_h = 16
-        else: next_h = 0
+        if hour < 8:
+            next_h = 8
+        elif hour < 16:
+            next_h = 16
+        else:
+            next_h = 0
         next_time = now.replace(hour=next_h, minute=0, second=0, microsecond=0)
         if next_h == 0:
             next_time += timedelta(days=1)
@@ -339,9 +343,9 @@ class SingleExchangeTab(QWidget):
             except:
                 pass
 
-    # Метод для будущего автообновления (будет вызываться из MainWindow)
+    # Метод для глобального автообновления
     def refresh_data(self):
-        """Лёгкое обновление только значений без перезагрузки списка"""
+        """Лёгкое обновление только значений (вызывается из MainWindow)"""
         if os.path.exists(self.data_file):
             try:
                 with open(self.data_file, 'r', encoding='utf-8') as f:
